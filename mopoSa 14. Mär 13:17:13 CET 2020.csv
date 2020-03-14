@@ -1,0 +1,3143 @@
+parent,label,date,lon,lat,confirmed,recovered,deaths
+China,Shanxi,2020-02-25,112.2922,37.5777,133,98,0
+Kreuzfahrtschiffe und Sonstige,"Kreuzfahrtschiff ""Diamond Princess""",2020-02-25,139.638,35.4437,691,0,3
+China,Heilongjiang,2020-02-25,127.7615,47.862,480,243,12
+China,Hubei (Wuhan),2020-02-25,112.2707,30.9756,64786,18971,2563
+global,Japan,2020-02-25,138,36,170,22,1
+global,Großbritannien,2020-02-25,-3.436,55.3781,13,8,0
+USA,"Humboldt County, CA",2020-02-25,-123.8695,40.745,1,0,0
+Deutschland,Repatriierte,2020-02-25,null,null,2,2,0
+China,Xinjiang,2020-02-25,85.2401,41.1129,76,30,2
+China,Jilin,2020-02-25,126.1923,43.6661,93,63,1
+global,Iran,2020-02-25,53,32,95,0,16
+China,Shaanxi,2020-02-25,108.8701,35.1917,245,186,1
+global,Singapur,2020-02-25,103.8333,1.2833,91,53,0
+USA,"Sacramento County, CA",2020-02-25,-121.3542,38.4747,1,0,0
+USA,"Maricopa County, AZ",2020-02-25,-112.4291,33.2918,1,1,0
+China,Innere Mongolei,2020-02-25,113.9448,44.0935,75,35,0
+global,Israel,2020-02-25,35,31,1,0,0
+global,Österreich,2020-02-25,14.5501,47.5162,2,0,0
+USA,"San Diego County, CA",2020-02-25,-117.1611,32.7157,2,1,0
+China,Ningxia,2020-02-25,106.1655,37.2692,71,61,0
+global,Nepal,2020-02-25,84.25,28.1667,1,1,0
+China,Liaoning,2020-02-25,122.6085,41.2956,121,83,1
+global,Schweiz,2020-02-25,8.2275,46.8182,1,0,0
+global,Südkorea,2020-02-25,128,36,977,22,10
+USA,"San Benito, CA",2020-02-25,-120.9876,36.5761,2,0,0
+China,Shandong,2020-02-25,118.1498,36.3427,756,355,6
+global,Kroatien,2020-02-25,15.2,45.1,1,0,0
+USA,"Suffolk County, MA",2020-02-25,-71.0589,42.3601,1,0,0
+global,Malaysia,2020-02-25,112.5,2.5,22,18,0
+global,Taiwan,2020-02-25,121,23.7,31,5,1
+global,Algerien,2020-02-25,1.6596,28.0339,1,0,0
+global,Kuwait,2020-02-25,47.75,29.5,11,0,0
+China,Sichuan,2020-02-25,102.7103,30.6171,529,289,3
+Deutschland,Bayern,2020-02-25,11.658165,48.768814,14,13,0
+Deutschland,Baden-Württemberg,2020-02-25,9.147687,48.606091,1,0,0
+Kanada,British Columbia,2020-02-25,-123.1207,49.2827,7,0,0
+global,Frankreich,2020-02-25,2.2137,46.2276,14,11,1
+China,Hong Kong,2020-02-25,114.2,22.3,84,19,2
+global,Bahrain,2020-02-25,50.55,26.0275,23,0,0
+global,Vietnam,2020-02-25,108,16,16,16,0
+USA,"Kreuzfahrtschiff ""Diamond Princess""",2020-02-25,139.638,35.4437,36,0,0
+Australien,New South Wales,2020-02-25,151.2093,-33.8688,4,4,0
+USA,"Los Angeles, CA",2020-02-25,-118.2437,34.0522,1,0,0
+global,Afghanistan,2020-02-25,65,33,1,0,0
+China,Peking (Beijing),2020-02-25,116.4142,40.1824,400,215,4
+global,Oman,2020-02-25,57,21,2,0,0
+Australien,Victoria,2020-02-25,144.9631,-37.8136,4,4,0
+global,Russland,2020-02-25,90,60,2,2,0
+China,Guangdong,2020-02-25,113.4244,23.3417,1347,822,7
+China,Guangxi,2020-02-25,108.7881,23.8298,252,134,2
+China,Gansu,2020-02-25,101.0583,37.8099,91,80,2
+China,Jiangxi,2020-02-25,115.7221,27.614,934,683,1
+Australien,Queensland,2020-02-25,153.4,-28.0167,5,1,0
+global,Irak,2020-02-25,44,33,1,0,0
+global,Libanon,2020-02-25,35.8623,33.8547,1,0,0
+China,Yunnan,2020-02-25,101.487,24.974,174,129,2
+Australien,"Kreuzfahrtschiff ""Diamond Princess""",2020-02-25,139.638,35.4437,7,0,0
+China,Qinghai,2020-02-25,95.9956,35.7452,18,18,0
+global,Ägypten,2020-02-25,30,26,1,0,0
+global,Kambodscha,2020-02-25,104.9167,11.55,1,1,0
+China,Henan,2020-02-25,113.614,33.882,1271,1002,19
+Deutschland,Nordrhein-Westfalen,2020-02-25,7.385313,51.510157,1,0,0
+Kanada,Ontario,2020-02-25,-85.3232,51.2538,4,3,0
+global,Belgien,2020-02-25,4,50.8333,1,1,0
+USA,"Santa Clara County, CA",2020-02-25,-121.9552,37.3541,2,1,0
+China,Macau,2020-02-25,113.55,22.1667,10,7,0
+China,Anhui,2020-02-25,117.2264,31.8257,989,712,6
+global,Sri Lanka,2020-02-25,81,7,1,1,0
+USA,"King County, WA",2020-02-25,-122.3321,47.6062,1,1,0
+Australien,South Australia,2020-02-25,138.6007,-34.9285,2,2,0
+global,Thailand,2020-02-25,101,15,37,22,0
+China,Jiangsu,2020-02-25,119.455,32.9711,631,458,0
+China,Shanghai,2020-02-25,121.4491,31.202,336,268,3
+global,Spanien,2020-02-25,-4,40,6,2,0
+China,Chongqing,2020-02-25,107.874,30.0572,576,372,6
+global,Finnland,2020-02-25,26,64,1,1,0
+China,Zhejiang,2020-02-25,120.0934,29.1832,1205,808,1
+China,Tianjin,2020-02-25,117.323,39.3054,135,91,3
+global,Schweden,2020-02-25,16,63,1,0,0
+China,Fujian,2020-02-25,117.9874,26.0789,294,199,1
+China,Hainan,2020-02-25,109.7453,19.1959,168,124,5
+China,Hebei,2020-02-25,116.1306,39.549,311,248,6
+global,Vereinigte Arabische Emirate,2020-02-25,54,24,13,4,0
+USA,"Cook County, IL",2020-02-25,-87.6976,41.7377,2,2,0
+global,Italien,2020-02-25,12,43,322,1,10
+USA,"Orange County, CA",2020-02-25,-117.8531,33.7879,1,0,0
+China,Tibet,2020-02-25,88.0924,31.6927,1,1,0
+global,Indien,2020-02-25,78,21,3,3,0
+China,Hunan,2020-02-25,111.7088,27.6104,1016,768,4
+China,Guizhou,2020-02-25,106.8748,26.8154,146,104,2
+global,Philippinen,2020-02-25,122,13,3,1,1
+USA,"Kreuzfahrtschiff ""Diamond Princess""",2020-02-26,139.638,35.4437,42,0,0
+global,Philippinen,2020-02-26,122,13,3,1,1
+China,Hunan,2020-02-26,111.7088,27.6104,1016,783,4
+global,Indien,2020-02-26,78,21,3,3,0
+China,Hebei,2020-02-26,116.1306,39.549,312,261,6
+USA,"Cook County, IL",2020-02-26,-87.6976,41.7377,2,2,0
+China,Tibet,2020-02-26,88.0924,31.6927,1,1,0
+USA,"Orange County, CA",2020-02-26,-117.8531,33.7879,1,0,0
+global,Italien,2020-02-26,12,43,453,3,12
+global,Vereinigte Arabische Emirate,2020-02-26,54,24,13,4,0
+China,Hainan,2020-02-26,109.7453,19.1959,168,129,5
+China,Fujian,2020-02-26,117.9874,26.0789,294,218,1
+global,Schweden,2020-02-26,16,63,2,0,0
+China,Zhejiang,2020-02-26,120.0934,29.1832,1205,867,1
+global,Finnland,2020-02-26,26,64,2,1,0
+China,Tianjin,2020-02-26,117.323,39.3054,135,96,3
+global,Spanien,2020-02-26,-4,40,13,2,0
+China,Shanghai,2020-02-26,121.4491,31.202,337,272,3
+China,Jiangsu,2020-02-26,119.455,32.9711,631,478,0
+Australien,South Australia,2020-02-26,138.6007,-34.9285,2,2,0
+USA,"King County, WA",2020-02-26,-122.3321,47.6062,1,1,0
+global,Sri Lanka,2020-02-26,81,7,1,1,0
+China,Macau,2020-02-26,113.55,22.1667,10,7,0
+China,Anhui,2020-02-26,117.2264,31.8257,989,744,6
+China,Henan,2020-02-26,113.614,33.882,1271,1033,19
+global,Belgien,2020-02-26,4,50.8333,1,1,0
+global,Kambodscha,2020-02-26,104.9167,11.55,1,1,0
+China,Chongqing,2020-02-26,107.874,30.0572,576,384,6
+Kanada,Ontario,2020-02-26,-85.3232,51.2538,4,3,0
+USA,"Santa Clara County, CA",2020-02-26,-121.9552,37.3541,2,1,0
+global,Ägypten,2020-02-26,30,26,1,0,0
+China,Shanxi,2020-02-26,112.2922,37.5777,133,104,0
+China,Qinghai,2020-02-26,95.9956,35.7452,18,18,0
+China,Yunnan,2020-02-26,101.487,24.974,174,144,2
+Australien,"Kreuzfahrtschiff ""Diamond Princess""",2020-02-26,139.638,35.4437,7,0,0
+global,Libanon,2020-02-26,35.8623,33.8547,2,0,0
+Australien,Queensland,2020-02-26,153.4,-28.0167,5,1,0
+global,Irak,2020-02-26,44,33,5,0,0
+China,Peking (Beijing),2020-02-26,116.4142,40.1824,400,235,4
+China,Jiangxi,2020-02-26,115.7221,27.614,934,719,1
+China,Guangdong,2020-02-26,113.4244,23.3417,1347,851,7
+China,Gansu,2020-02-26,101.0583,37.8099,91,81,2
+global,Russland,2020-02-26,90,60,2,2,0
+Australien,Victoria,2020-02-26,144.9631,-37.8136,4,4,0
+global,Oman,2020-02-26,57,21,4,0,0
+China,Guangxi,2020-02-26,108.7881,23.8298,252,147,2
+global,Afghanistan,2020-02-26,65,33,1,0,0
+USA,"Los Angeles, CA",2020-02-26,-118.2437,34.0522,1,0,0
+Australien,New South Wales,2020-02-26,151.2093,-33.8688,4,4,0
+China,Guizhou,2020-02-26,106.8748,26.8154,146,104,2
+global,Vietnam,2020-02-26,108,16,16,16,0
+global,Bahrain,2020-02-26,50.55,26.0275,33,0,0
+global,Frankreich,2020-02-26,2.2137,46.2276,18,11,2
+Kanada,British Columbia,2020-02-26,-123.1207,49.2827,7,0,0
+global,Kuwait,2020-02-26,47.75,29.5,26,0,0
+China,Hong Kong,2020-02-26,114.2,22.3,91,24,2
+global,Algerien,2020-02-26,1.6596,28.0339,1,0,0
+global,Taiwan,2020-02-26,121,23.7,32,5,1
+global,Malaysia,2020-02-26,112.5,2.5,22,18,0
+global,Südkorea,2020-02-26,128,36,1261,22,12
+USA,"Suffolk County, MA",2020-02-26,-71.0589,42.3601,1,0,0
+global,Kroatien,2020-02-26,15.2,45.1,3,0,0
+USA,"San Benito, CA",2020-02-26,-120.9876,36.5761,2,0,0
+China,Shandong,2020-02-26,118.1498,36.3427,756,377,6
+China,Sichuan,2020-02-26,102.7103,30.6171,531,307,3
+global,Schweiz,2020-02-26,8.2275,46.8182,1,0,0
+USA,"San Diego County, CA",2020-02-26,-117.1611,32.7157,2,1,0
+global,Nepal,2020-02-26,84.25,28.1667,1,1,0
+China,Ningxia,2020-02-26,106.1655,37.2692,71,65,0
+Deutschland,Repatriierte,2020-02-26,null,null,2,2,0
+global,Österreich,2020-02-26,14.5501,47.5162,2,0,0
+China,Liaoning,2020-02-26,122.6085,41.2956,121,88,1
+Deutschland,Nordrhein-Westfalen,2020-02-26,7.385313,51.510157,2,0,0
+global,Israel,2020-02-26,35,31,2,0,0
+USA,"Sacramento County, CA",2020-02-26,-121.3542,38.4747,1,0,0
+China,Innere Mongolei,2020-02-26,113.9448,44.0935,75,38,0
+China,Shaanxi,2020-02-26,108.8701,35.1917,245,192,1
+global,Pakistan,2020-02-26,69.3451,30.3753,2,0,0
+global,Singapur,2020-02-26,103.8333,1.2833,93,62,0
+global,Iran,2020-02-26,53,32,139,49,19
+Deutschland,Bayern,2020-02-26,11.658165,48.768814,14,13,0
+global,Brasilien,2020-02-26,-51.9253,-14.235,1,0,0
+global,Großbritannien,2020-02-26,-3.436,55.3781,13,8,0
+Deutschland,Baden-Württemberg,2020-02-26,9.147687,48.606091,3,0,0
+global,Georgien,2020-02-26,43.3569,42.3154,1,0,0
+USA,"Humboldt County, CA",2020-02-26,-123.8695,40.745,1,0,0
+China,Xinjiang,2020-02-26,85.2401,41.1129,76,34,2
+global,Thailand,2020-02-26,101,15,40,22,0
+global,Griechenland,2020-02-26,21.8243,39.0742,1,0,0
+China,Hubei (Wuhan),2020-02-26,112.2707,30.9756,65187,20969,2615
+USA,"Maricopa County, AZ",2020-02-26,-112.4291,33.2918,1,1,0
+global,Nordmazedonien,2020-02-26,21.7453,41.6086,1,0,0
+global,Japan,2020-02-26,138,36,189,22,2
+China,Jilin,2020-02-26,126.1923,43.6661,93,65,1
+Kreuzfahrtschiffe und Sonstige,"Kreuzfahrtschiff ""Diamond Princess""",2020-02-26,139.638,35.4437,705,10,4
+China,Heilongjiang,2020-02-26,127.7615,47.862,480,249,12
+global,Norwegen,2020-02-26,8.4689,60.472,1,0,0
+global,Rumänien,2020-02-26,24.9668,45.9432,1,0,0
+China,Guangxi,2020-02-27,108.7881,23.8298,252,161,2
+China,Tibet,2020-02-27,88.0924,31.6927,1,1,0
+global,Philippinen,2020-02-27,122,13,3,1,1
+global,Vietnam,2020-02-27,108,16,16,16,0
+China,Anhui,2020-02-27,117.2264,31.8257,989,792,6
+Deutschland,Repatriierte,2020-02-27,null,null,2,2,0
+Deutschland,Nordrhein-Westfalen,2020-02-27,7.385313,51.510157,4,0,0
+USA,"Cook County, IL",2020-02-27,-87.6976,41.7377,2,2,0
+global,Bahrain,2020-02-27,50.55,26.0275,33,0,0
+Kanada,British Columbia,2020-02-27,-123.1207,49.2827,7,3,0
+global,Frankreich,2020-02-27,2.2137,46.2276,38,11,2
+global,Belgien,2020-02-27,4,50.8333,1,1,0
+China,Yunnan,2020-02-27,101.487,24.974,174,150,2
+Deutschland,Bayern,2020-02-27,11.658165,48.768814,14,14,0
+Deutschland,Baden-Württemberg,2020-02-27,9.147687,48.606091,6,0,0
+global,Kambodscha,2020-02-27,104.9167,11.55,1,1,0
+global,Kuwait,2020-02-27,47.75,29.5,43,0,0
+global,Schweden,2020-02-27,16,63,7,0,0
+China,Hong Kong,2020-02-27,114.2,22.3,92,24,2
+global,Dänemark,2020-02-27,9.5018,56.2639,1,0,0
+global,Taiwan,2020-02-27,121,23.7,32,5,1
+global,Malaysia,2020-02-27,112.5,2.5,23,18,0
+China,Shanghai,2020-02-27,121.4491,31.202,337,276,3
+global,Algerien,2020-02-27,1.6596,28.0339,1,0,0
+USA,"San Benito, CA",2020-02-27,-120.9876,36.5761,2,0,0
+global,Südkorea,2020-02-27,128,36,1766,22,13
+China,Chongqing,2020-02-27,107.874,30.0572,576,401,6
+global,Finnland,2020-02-27,26,64,2,1,0
+China,Hunan,2020-02-27,111.7088,27.6104,1017,804,4
+China,Hainan,2020-02-27,109.7453,19.1959,168,131,5
+global,Ägypten,2020-02-27,30,26,1,0,0
+global,Kroatien,2020-02-27,15.2,45.1,3,0,0
+Kanada,Ontario,2020-02-27,-85.3232,51.2538,6,3,0
+global,Estland,2020-02-27,25.0136,58.5953,1,0,0
+China,Shaanxi,2020-02-27,108.8701,35.1917,245,195,1
+China,Shanxi,2020-02-27,112.2922,37.5777,133,107,0
+China,Sichuan,2020-02-27,102.7103,30.6171,534,321,3
+global,Nepal,2020-02-27,84.25,28.1667,1,1,0
+China,Qinghai,2020-02-27,95.9956,35.7452,18,18,0
+global,Schweiz,2020-02-27,8.2275,46.8182,8,0,0
+USA,"San Diego County, CA",2020-02-27,-117.1611,32.7157,2,1,0
+China,Jiangsu,2020-02-27,119.455,32.9711,631,498,0
+USA,"Santa Clara County, CA",2020-02-27,-121.9552,37.3541,2,1,0
+China,Ningxia,2020-02-27,106.1655,37.2692,72,68,0
+China,Fujian,2020-02-27,117.9874,26.0789,296,228,1
+USA,"Suffolk County, MA",2020-02-27,-71.0589,42.3601,1,0,0
+global,Vereinigte Arabische Emirate,2020-02-27,54,24,13,4,0
+China,Shandong,2020-02-27,118.1498,36.3427,756,387,6
+Australien,"Kreuzfahrtschiff ""Diamond Princess""",2020-02-27,139.638,35.4437,8,0,0
+global,Österreich,2020-02-27,14.5501,47.5162,3,0,0
+Australien,Queensland,2020-02-27,153.4,-28.0167,5,1,0
+China,Liaoning,2020-02-27,122.6085,41.2956,121,93,1
+USA,"Sacramento County, CA",2020-02-27,-121.3542,38.4747,2,0,0
+global,Spanien,2020-02-27,-4,40,15,2,0
+global,Libanon,2020-02-27,35.8623,33.8547,2,0,0
+global,Israel,2020-02-27,35,31,3,1,0
+China,Peking (Beijing),2020-02-27,116.4142,40.1824,410,248,5
+global,Iran,2020-02-27,53,32,245,49,26
+China,Innere Mongolei,2020-02-27,113.9448,44.0935,75,43,0
+China,Guangdong,2020-02-27,113.4244,23.3417,1347,890,7
+China,Tianjin,2020-02-27,117.323,39.3054,136,102,3
+global,Singapur,2020-02-27,103.8333,1.2833,93,62,0
+global,Indien,2020-02-27,78,21,3,3,0
+global,Pakistan,2020-02-27,69.3451,30.3753,2,0,0
+global,Irak,2020-02-27,44,33,7,0,0
+USA,"King County, WA",2020-02-27,-122.3321,47.6062,1,1,0
+global,Italien,2020-02-27,12,43,655,45,17
+global,Sri Lanka,2020-02-27,81,7,1,1,0
+global,Brasilien,2020-02-27,-51.9253,-14.235,1,0,0
+global,Großbritannien,2020-02-27,-3.436,55.3781,15,8,0
+Australien,Victoria,2020-02-27,144.9631,-37.8136,4,4,0
+China,Hebei,2020-02-27,116.1306,39.549,317,274,6
+global,Russland,2020-02-27,90,60,2,2,0
+global,Georgien,2020-02-27,43.3569,42.3154,1,0,0
+USA,"Humboldt County, CA",2020-02-27,-123.8695,40.745,1,0,0
+Australien,South Australia,2020-02-27,138.6007,-34.9285,2,2,0
+China,Xinjiang,2020-02-27,85.2401,41.1129,76,43,2
+China,Guizhou,2020-02-27,106.8748,26.8154,146,112,2
+China,Jiangxi,2020-02-27,115.7221,27.614,934,754,1
+global,Thailand,2020-02-27,101,15,40,22,0
+global,Griechenland,2020-02-27,21.8243,39.0742,3,0,0
+global,San Marino,2020-02-27,12.4578,43.9424,1,0,0
+global,Japan,2020-02-27,138,36,214,22,4
+China,Hubei (Wuhan),2020-02-27,112.2707,30.9756,65596,23383,2641
+global,Oman,2020-02-27,57,21,4,0,0
+China,Gansu,2020-02-27,101.0583,37.8099,91,81,2
+USA,"Maricopa County, AZ",2020-02-27,-112.4291,33.2918,1,1,0
+China,Henan,2020-02-27,113.614,33.882,1272,1068,20
+global,Nordmazedonien,2020-02-27,21.7453,41.6086,1,0,0
+USA,"Los Angeles, CA",2020-02-27,-118.2437,34.0522,1,0,0
+Australien,New South Wales,2020-02-27,151.2093,-33.8688,4,4,0
+Kreuzfahrtschiffe und Sonstige,"Kreuzfahrtschiff ""Diamond Princess""",2020-02-27,139.638,35.4437,705,10,4
+China,Macau,2020-02-27,113.55,22.1667,10,8,0
+global,Afghanistan,2020-02-27,65,33,1,0,0
+China,Heilongjiang,2020-02-27,127.7615,47.862,480,270,13
+USA,"Orange County, CA",2020-02-27,-117.8531,33.7879,1,0,0
+global,Norwegen,2020-02-27,8.4689,60.472,1,0,0
+China,Jilin,2020-02-27,126.1923,43.6661,93,67,1
+global,Niederlande,2020-02-27,5.2913,52.1326,1,0,0
+China,Zhejiang,2020-02-27,120.0934,29.1832,1205,932,1
+global,Rumänien,2020-02-27,24.9668,45.9432,1,0,0
+USA,"Kreuzfahrtschiff ""Diamond Princess""",2020-02-27,139.638,35.4437,42,0,0
+global,Südkorea,2020-02-28,128,36,2337,22,13
+China,Anhui,2020-02-28,117.2264,31.8257,990,821,6
+Australien,"Kreuzfahrtschiff ""Diamond Princess""",2020-02-28,139.638,35.4437,8,0,0
+Australien,Victoria,2020-02-28,144.9631,-37.8136,4,4,0
+China,Jiangsu,2020-02-28,119.455,32.9711,631,515,0
+USA,"Cook County, IL",2020-02-28,-87.6976,41.7377,2,2,0
+global,Libanon,2020-02-28,35.8623,33.8547,2,0,0
+China,Shanxi,2020-02-28,112.2922,37.5777,133,112,0
+global,Kroatien,2020-02-28,15.2,45.1,5,0,0
+Kanada,Ontario,2020-02-28,-85.3232,51.2538,6,3,0
+China,Peking (Beijing),2020-02-28,116.4142,40.1824,410,257,7
+Deutschland,Bayern,2020-02-28,11.658165,48.768814,15,14,0
+China,Guangdong,2020-02-28,113.4244,23.3417,1348,935,7
+global,Malaysia,2020-02-28,112.5,2.5,23,18,0
+global,Neuseeland,2020-02-28,174.886,-40.9006,1,0,0
+USA,"San Diego County, CA",2020-02-28,-117.1611,32.7157,2,1,0
+China,Ningxia,2020-02-28,106.1655,37.2692,72,68,0
+Kanada,Quebec,2020-02-28,-73.5491,52.9399,1,0,0
+China,Guangxi,2020-02-28,108.7881,23.8298,252,168,2
+China,Shaanxi,2020-02-28,108.8701,35.1917,245,199,1
+global,Schweiz,2020-02-28,8.2275,46.8182,8,0,0
+global,Philippinen,2020-02-28,122,13,3,1,1
+global,Irak,2020-02-28,44,33,7,0,0
+China,Sichuan,2020-02-28,102.7103,30.6171,538,338,3
+global,Spanien,2020-02-28,-4,40,32,2,0
+China,Hebei,2020-02-28,116.1306,39.549,318,277,6
+China,Tianjin,2020-02-28,117.323,39.3054,136,102,3
+USA,"Suffolk County, MA",2020-02-28,-71.0589,42.3601,1,1,0
+USA,"King County, WA",2020-02-28,-122.3321,47.6062,1,1,0
+global,Russland,2020-02-28,90,60,2,2,0
+global,Japan,2020-02-28,138,36,228,22,4
+global,Sri Lanka,2020-02-28,81,7,1,1,0
+global,Mexiko,2020-02-28,-102.5528,23.6345,1,0,0
+China,Macau,2020-02-28,113.55,22.1667,10,8,0
+China,Tibet,2020-02-28,88.0924,31.6927,1,1,0
+China,Liaoning,2020-02-28,122.6085,41.2956,121,93,1
+global,Litauen,2020-02-28,23.8813,55.1694,1,0,0
+USA,"Sacramento County, CA",2020-02-28,-121.3542,38.4747,2,0,0
+Kreuzfahrtschiffe und Sonstige,"Kreuzfahrtschiff ""Diamond Princess""",2020-02-28,139.638,35.4437,705,10,6
+China,Innere Mongolei,2020-02-28,113.9448,44.0935,75,45,0
+China,Fujian,2020-02-28,117.9874,26.0789,296,235,1
+global,Oman,2020-02-28,57,21,4,0,0
+Australien,South Australia,2020-02-28,138.6007,-34.9285,2,2,0
+global,Israel,2020-02-28,35,31,4,1,0
+Australien,Queensland,2020-02-28,153.4,-28.0167,5,1,0
+global,Island,2020-02-28,-19.0208,64.9631,1,0,0
+global,Iran,2020-02-28,53,32,388,73,34
+China,Gansu,2020-02-28,101.0583,37.8099,91,82,2
+USA,"Los Angeles, CA",2020-02-28,-118.2437,34.0522,1,0,0
+Australien,New South Wales,2020-02-28,151.2093,-33.8688,4,4,0
+China,Henan,2020-02-28,113.614,33.882,1272,1112,20
+global,Indien,2020-02-28,78,21,3,3,0
+China,Shandong,2020-02-28,118.1498,36.3427,756,405,6
+global,Afghanistan,2020-02-28,65,33,1,0,0
+global,Pakistan,2020-02-28,69.3451,30.3753,2,0,0
+Deutschland,Hessen,2020-02-28,9.217535,50.758489,2,0,0
+global,Großbritannien,2020-02-28,-3.436,55.3781,20,8,0
+China,Guizhou,2020-02-28,106.8748,26.8154,146,112,2
+Deutschland,Nordrhein-Westfalen,2020-02-28,7.385313,51.510157,25,0,0
+global,Thailand,2020-02-28,101,15,41,28,0
+Deutschland,Schleswig-Holstein,2020-02-28,9.713017,54.1882542,1,0,0
+Deutschland,Repatriierte,2020-02-28,null,null,2,2,0
+global,Brasilien,2020-02-28,-51.9253,-14.235,1,0,0
+global,Vietnam,2020-02-28,108,16,16,16,0
+global,Finnland,2020-02-28,26,64,2,1,0
+global,Belarus,2020-02-28,27.9534,53.7098,1,0,0
+USA,"Humboldt County, CA",2020-02-28,-123.8695,40.745,1,0,0
+global,Belgien,2020-02-28,4,50.8333,1,1,0
+China,Xinjiang,2020-02-28,85.2401,41.1129,76,52,3
+USA,"Santa Clara County, CA",2020-02-28,-121.9552,37.3541,2,1,0
+Deutschland,Baden-Württemberg,2020-02-28,9.147687,48.606091,10,0,0
+global,Georgien,2020-02-28,43.3569,42.3154,1,0,0
+China,Jiangxi,2020-02-28,115.7221,27.614,935,790,1
+global,Österreich,2020-02-28,14.5501,47.5162,3,0,0
+global,San Marino,2020-02-28,12.4578,43.9424,1,0,0
+China,Hubei (Wuhan),2020-02-28,112.2707,30.9756,65914,26403,2682
+global,Bahrain,2020-02-28,50.55,26.0275,36,0,0
+USA,"Kreuzfahrtschiff ""Diamond Princess""",2020-02-28,139.638,35.4437,44,0,0
+global,Italien,2020-02-28,12,43,888,46,21
+global,Frankreich,2020-02-28,2.2137,46.2276,57,11,2
+China,Hunan,2020-02-28,111.7088,27.6104,1017,830,4
+global,Griechenland,2020-02-28,21.8243,39.0742,4,0,0
+global,Nepal,2020-02-28,84.25,28.1667,1,1,0
+Kanada,British Columbia,2020-02-28,-123.1207,49.2827,7,3,0
+China,Zhejiang,2020-02-28,120.0934,29.1832,1205,975,1
+global,Ägypten,2020-02-28,30,26,1,1,0
+global,Kambodscha,2020-02-28,104.9167,11.55,1,1,0
+global,Vereinigte Arabische Emirate,2020-02-28,54,24,19,5,0
+global,Kuwait,2020-02-28,47.75,29.5,45,0,0
+China,Chongqing,2020-02-28,107.874,30.0572,576,422,6
+global,Nordmazedonien,2020-02-28,21.7453,41.6086,1,0,0
+USA,"Orange County, CA",2020-02-28,-117.8531,33.7879,1,0,0
+China,Hong Kong,2020-02-28,114.2,22.3,94,30,2
+global,Dänemark,2020-02-28,9.5018,56.2639,1,0,0
+China,Qinghai,2020-02-28,95.9956,35.7452,18,18,0
+global,Nigeria,2020-02-28,8.6753,9.082,1,0,0
+global,Taiwan,2020-02-28,121,23.7,34,6,1
+China,Shanghai,2020-02-28,121.4491,31.202,337,279,3
+global,Singapur,2020-02-28,103.8333,1.2833,93,62,0
+global,Norwegen,2020-02-28,8.4689,60.472,6,0,0
+China,Hainan,2020-02-28,109.7453,19.1959,168,133,5
+China,Jilin,2020-02-28,126.1923,43.6661,93,73,1
+China,Heilongjiang,2020-02-28,127.7615,47.862,480,283,13
+global,Niederlande,2020-02-28,5.2913,52.1326,1,0,0
+China,Yunnan,2020-02-28,101.487,24.974,174,156,2
+USA,"Maricopa County, AZ",2020-02-28,-112.4291,33.2918,1,1,0
+global,Estland,2020-02-28,25.0136,58.5953,1,0,0
+global,Algerien,2020-02-28,1.6596,28.0339,1,0,0
+USA,"San Benito, CA",2020-02-28,-120.9876,36.5761,2,0,0
+global,Rumänien,2020-02-28,24.9668,45.9432,3,0,0
+global,Schweden,2020-02-28,16,63,7,0,0
+global,Russland,2020-02-29,90,60,2,2,0
+global,Japan,2020-02-29,138,36,241,32,5
+global,Rumänien,2020-02-29,24.9668,45.9432,3,0,0
+USA,"Maricopa County, AZ",2020-02-29,-112.4291,33.2918,1,1,0
+global,Estland,2020-02-29,25.0136,58.5953,1,0,0
+USA,"Snohomish County, WA",2020-02-29,-121.8339,48.033,1,0,0
+China,Jilin,2020-02-29,126.1923,43.6661,93,75,1
+USA,"Washington County, OR",2020-02-29,-123.1386,45.547,1,0,0
+global,Niederlande,2020-02-29,5.2913,52.1326,6,0,0
+global,Norwegen,2020-02-29,8.4689,60.472,15,0,0
+global,Nordmazedonien,2020-02-29,21.7453,41.6086,1,0,0
+global,Griechenland,2020-02-29,21.8243,39.0742,4,0,0
+China,Hubei (Wuhan),2020-02-29,112.2707,30.9756,66337,28993,2727
+global,San Marino,2020-02-29,12.4578,43.9424,1,0,0
+global,Georgien,2020-02-29,43.3569,42.3154,1,0,0
+China,Xinjiang,2020-02-29,85.2401,41.1129,76,62,3
+USA,"Humboldt County, CA",2020-02-29,-123.8695,40.745,1,0,0
+global,Belarus,2020-02-29,27.9534,53.7098,1,0,0
+global,Brasilien,2020-02-29,-51.9253,-14.235,2,0,0
+global,Pakistan,2020-02-29,69.3451,30.3753,4,0,0
+global,Island,2020-02-29,-19.0208,64.9631,1,0,0
+global,Israel,2020-02-29,35,31,7,1,0
+China,Innere Mongolei,2020-02-29,113.9448,44.0935,75,49,0
+China,Liaoning,2020-02-29,122.6085,41.2956,121,96,1
+USA,"Sacramento County, CA",2020-02-29,-121.3542,38.4747,2,0,0
+global,Iran,2020-02-29,53,32,593,123,43
+global,Litauen,2020-02-29,23.8813,55.1694,1,0,0
+global,Österreich,2020-02-29,14.5501,47.5162,9,0,0
+global,Großbritannien,2020-02-29,-3.436,55.3781,23,8,0
+global,Thailand,2020-02-29,101,15,42,28,0
+global,Mexiko,2020-02-29,-102.5528,23.6345,4,0,0
+China,Sichuan,2020-02-29,102.7103,30.6171,538,351,3
+global,Schweiz,2020-02-29,8.2275,46.8182,18,0,0
+China,Ningxia,2020-02-29,106.1655,37.2692,73,69,0
+USA,"San Diego County, CA",2020-02-29,-117.1611,32.7157,2,1,0
+global,Neuseeland,2020-02-29,174.886,-40.9006,1,0,0
+global,Kroatien,2020-02-29,15.2,45.1,6,0,0
+global,Algerien,2020-02-29,1.6596,28.0339,1,0,0
+global,Taiwan,2020-02-29,121,23.7,39,9,1
+global,Nigeria,2020-02-29,8.6753,9.082,1,0,0
+USA,"San Benito, CA",2020-02-29,-120.9876,36.5761,2,0,0
+China,Hong Kong,2020-02-29,114.2,22.3,95,33,2
+Australien,Western Australia,2020-02-29,115.8605,-31.9505,2,0,0
+global,Südkorea,2020-02-29,128,36,3150,27,16
+global,Kuwait,2020-02-29,47.75,29.5,45,0,0
+global,Dänemark,2020-02-29,9.5018,56.2639,3,0,0
+global,Irland,2020-02-29,-7.6921,53.1424,1,0,0
+USA,"Kreuzfahrtschiff ""Diamond Princess""",2020-02-29,139.638,35.4437,44,0,0
+global,Bahrain,2020-02-29,50.55,26.0275,41,0,0
+global,Luxemburg,2020-02-29,6.1296,49.8153,1,0,0
+global,Vietnam,2020-02-29,108,16,16,16,0
+global,Frankreich,2020-02-29,2.2137,46.2276,100,12,2
+global,Afghanistan,2020-02-29,65,33,1,0,0
+global,Monaco,2020-02-29,7.4167,43.7333,1,0,0
+China,Gansu,2020-02-29,101.0583,37.8099,91,82,2
+China,Chongqing,2020-02-29,107.874,30.0572,576,438,6
+USA,"Los Angeles, CA",2020-02-29,-118.2437,34.0522,1,0,0
+global,Katar,2020-02-29,51.1839,25.3548,1,0,0
+global,Oman,2020-02-29,57,21,6,1,0
+China,Heilongjiang,2020-02-29,127.7615,47.862,480,301,13
+global,Irak,2020-02-29,44,33,13,0,0
+Kanada,Quebec,2020-02-29,-73.5491,52.9399,1,0,0
+China,Guangdong,2020-02-29,113.4244,23.3417,1349,983,7
+China,Peking (Beijing),2020-02-29,116.4142,40.1824,411,271,8
+China,Shanxi,2020-02-29,112.2922,37.5777,133,114,0
+Kanada,Ontario,2020-02-29,-85.3232,51.2538,11,3,0
+global,Libanon,2020-02-29,35.8623,33.8547,4,0,0
+China,Qinghai,2020-02-29,95.9956,35.7452,18,18,0
+global,Ägypten,2020-02-29,30,26,1,1,0
+global,Belgien,2020-02-29,4,50.8333,1,1,0
+Australien,South Australia,2020-02-29,138.6007,-34.9285,3,2,0
+China,Macau,2020-02-29,113.55,22.1667,10,8,0
+China,Henan,2020-02-29,113.614,33.882,1272,1170,21
+China,Tianjin,2020-02-29,117.323,39.3054,136,109,3
+USA,"King County, WA",2020-02-29,-122.3321,47.6062,6,1,1
+global,Spanien,2020-02-29,-4,40,45,2,0
+global,Schweden,2020-02-29,16,63,12,0,0
+USA,"Orange County, CA",2020-02-29,-117.8531,33.7879,1,0,0
+China,Shanghai,2020-02-29,121.4491,31.202,337,287,3
+global,Italien,2020-02-29,12,43,1128,46,29
+China,Zhejiang,2020-02-29,120.0934,29.1832,1205,1016,1
+China,Guizhou,2020-02-29,106.8748,26.8154,146,112,2
+global,Indien,2020-02-29,78,21,3,3,0
+China,Tibet,2020-02-29,88.0924,31.6927,1,1,0
+global,Philippinen,2020-02-29,122,13,3,1,1
+China,Jiangsu,2020-02-29,119.455,32.9711,631,523,0
+China,Hebei,2020-02-29,116.1306,39.549,318,282,6
+China,Hainan,2020-02-29,109.7453,19.1959,168,148,5
+Deutschland,Repatriierte,2020-02-29,null,null,2,2,0
+USA,"Cook County, IL",2020-02-29,-87.6976,41.7377,2,2,0
+global,Vereinigte Arabische Emirate,2020-02-29,54,24,21,5,0
+China,Hunan,2020-02-29,111.7088,27.6104,1018,846,4
+Deutschland,Schleswig-Holstein,2020-02-29,9.713017,54.1882542,1,0,0
+Deutschland,Rheinland-Pfalz,2020-02-29,7.269307,50.104033,1,0,0
+Deutschland,Nordrhein-Westfalen,2020-02-29,7.385313,51.510157,30,0,0
+Deutschland,Hessen,2020-02-29,9.217535,50.758489,5,0,0
+global,Finnland,2020-02-29,26,64,3,1,0
+Deutschland,Bayern,2020-02-29,11.658165,48.768814,15,14,0
+Deutschland,Baden-Württemberg,2020-02-29,9.147687,48.606091,14,0,0
+China,Fujian,2020-02-29,117.9874,26.0789,296,243,1
+global,Sri Lanka,2020-02-29,81,7,1,1,0
+China,Yunnan,2020-02-29,101.487,24.974,174,157,2
+global,Kambodscha,2020-02-29,104.9167,11.55,1,1,0
+USA,"Santa Clara County, CA",2020-02-29,-121.9552,37.3541,3,1,0
+China,Anhui,2020-02-29,117.2264,31.8257,990,868,6
+Australien,Queensland,2020-02-29,153.4,-28.0167,9,1,0
+Australien,Victoria,2020-02-29,144.9631,-37.8136,7,4,0
+Australien,New South Wales,2020-02-29,151.2093,-33.8688,4,4,0
+China,Jiangxi,2020-02-29,115.7221,27.614,935,811,1
+Kanada,British Columbia,2020-02-29,-123.1207,49.2827,8,3,0
+Kreuzfahrtschiffe und Sonstige,"Kreuzfahrtschiff ""Diamond Princess""",2020-02-29,139.638,35.4437,705,10,6
+global,Malaysia,2020-02-29,112.5,2.5,25,18,0
+China,Shaanxi,2020-02-29,108.8701,35.1917,245,207,1
+global,Nepal,2020-02-29,84.25,28.1667,1,1,0
+USA,"Suffolk County, MA",2020-02-29,-71.0589,42.3601,1,1,0
+global,Singapur,2020-02-29,103.8333,1.2833,102,72,0
+China,Shandong,2020-02-29,118.1498,36.3427,756,421,6
+China,Guangxi,2020-02-29,108.7881,23.8298,252,176,2
+global,Russland,2020-03-01,90,60,2,2,0
+global,Ecuador,2020-03-01,-78.1834,-1.8312,6,0,0
+Kanada,Quebec,2020-03-01,-73.5491,52.9399,1,0,0
+China,Hubei (Wuhan),2020-03-01,112.2707,30.9756,66907,31536,2761
+USA,"Washington County, OR",2020-03-01,-123.1386,45.547,1,0,0
+global,Schweiz,2020-03-01,8.2275,46.8182,27,0,0
+China,Guangdong,2020-03-01,113.4244,23.3417,1349,1016,7
+China,Jilin,2020-03-01,126.1923,43.6661,93,78,1
+global,Aserbaidschan,2020-03-01,47.5769,40.1431,3,0,0
+China,Peking (Beijing),2020-03-01,116.4142,40.1824,413,276,8
+China,Shanxi,2020-03-01,112.2922,37.5777,133,116,0
+global,Belarus,2020-03-01,27.9534,53.7098,1,0,0
+Kanada,Ontario,2020-03-01,-85.3232,51.2538,15,3,0
+global,Armenien,2020-03-01,45.0382,40.0691,1,0,0
+USA,"Humboldt County, CA",2020-03-01,-123.8695,40.745,1,0,0
+global,Libanon,2020-03-01,35.8623,33.8547,10,0,0
+China,Ningxia,2020-03-01,106.1655,37.2692,73,69,0
+global,Brasilien,2020-03-01,-51.9253,-14.235,2,0,0
+global,Ägypten,2020-03-01,30,26,2,1,0
+global,Dominikanische Republik,2020-03-01,-70.1627,18.7357,1,0,0
+global,Neuseeland,2020-03-01,174.886,-40.9006,1,0,0
+China,Qinghai,2020-03-01,95.9956,35.7452,18,18,0
+global,Belgien,2020-03-01,4,50.8333,2,1,0
+USA,"San Diego County, CA",2020-03-01,-117.1611,32.7157,2,1,0
+Australien,South Australia,2020-03-01,138.6007,-34.9285,3,2,0
+global,Kroatien,2020-03-01,15.2,45.1,7,0,0
+global,Nordmazedonien,2020-03-01,21.7453,41.6086,1,0,0
+China,Macau,2020-03-01,113.55,22.1667,10,8,0
+global,Algerien,2020-03-01,1.6596,28.0339,1,0,0
+China,Henan,2020-03-01,113.614,33.882,1272,1198,22
+China,Tianjin,2020-03-01,117.323,39.3054,136,111,3
+global,Pakistan,2020-03-01,69.3451,30.3753,4,0,0
+global,Spanien,2020-03-01,-4,40,84,2,0
+global,Rumänien,2020-03-01,24.9668,45.9432,3,0,0
+USA,"King County, WA",2020-03-01,-122.3321,47.6062,9,1,1
+global,Israel,2020-03-01,35,31,10,1,0
+USA,"Orange County, CA",2020-03-01,-117.8531,33.7879,1,0,0
+global,Schweden,2020-03-01,16,63,14,0,0
+global,Nigeria,2020-03-01,8.6753,9.082,1,0,0
+global,Griechenland,2020-03-01,21.8243,39.0742,7,0,0
+Deutschland,Repatriierte,2020-03-01,null,null,2,2,0
+USA,"San Benito, CA",2020-03-01,-120.9876,36.5761,2,0,0
+China,Shanghai,2020-03-01,121.4491,31.202,337,290,3
+global,Italien,2020-03-01,12,43,1694,83,34
+Deutschland,Schleswig-Holstein,2020-03-01,9.713017,54.1882542,2,0,0
+Deutschland,Rheinland-Pfalz,2020-03-01,7.269307,50.104033,2,0,0
+China,Hong Kong,2020-03-01,114.2,22.3,96,36,2
+global,Island,2020-03-01,-19.0208,64.9631,3,0,0
+China,Guizhou,2020-03-01,106.8748,26.8154,146,112,2
+global,Taiwan,2020-03-01,121,23.7,40,9,1
+China,Zhejiang,2020-03-01,120.0934,29.1832,1205,1046,1
+Deutschland,Nordrhein-Westfalen,2020-03-01,7.385313,51.510157,66,0,0
+Deutschland,Niedersachsen,2020-03-01,9.944255,52.518203,1,0,0
+global,Indien,2020-03-01,78,21,3,3,0
+global,Tschechien,2020-03-01,15.473,49.8175,3,0,0
+Australien,Western Australia,2020-03-01,115.8605,-31.9505,2,0,1
+China,Tibet,2020-03-01,88.0924,31.6927,1,1,0
+global,Philippinen,2020-03-01,122,13,3,1,1
+Deutschland,Hessen,2020-03-01,9.217535,50.758489,10,0,0
+Deutschland,Hamburg,2020-03-01,10.007046,53.576158,1,0,0
+global,Estland,2020-03-01,25.0136,58.5953,1,0,0
+China,Jiangsu,2020-03-01,119.455,32.9711,631,536,0
+global,Südkorea,2020-03-01,128,36,3736,30,17
+global,Kuwait,2020-03-01,47.75,29.5,45,0,0
+Deutschland,Bremen,2020-03-01,8.731851,53.029599,1,0,0
+Deutschland,Bayern,2020-03-01,11.658165,48.768814,19,14,0
+China,Hebei,2020-03-01,116.1306,39.549,318,294,6
+China,Hainan,2020-03-01,109.7453,19.1959,168,149,5
+China,Liaoning,2020-03-01,122.6085,41.2956,122,103,1
+Deutschland,Baden-Württemberg,2020-03-01,9.147687,48.606091,15,0,0
+China,Heilongjiang,2020-03-01,127.7615,47.862,480,342,13
+global,Dänemark,2020-03-01,9.5018,56.2639,4,0,0
+USA,"Cook County, IL",2020-03-01,-87.6976,41.7377,3,2,0
+global,Vereinigte Arabische Emirate,2020-03-01,54,24,21,5,0
+China,Innere Mongolei,2020-03-01,113.9448,44.0935,75,52,0
+global,Irland,2020-03-01,-7.6921,53.1424,1,0,0
+USA,"Kreuzfahrtschiff ""Diamond Princess""",2020-03-01,139.638,35.4437,44,0,0
+global,Bahrain,2020-03-01,50.55,26.0275,47,0,0
+China,Hunan,2020-03-01,111.7088,27.6104,1018,866,4
+global,Finnland,2020-03-01,26,64,6,1,0
+global,San Marino,2020-03-01,12.4578,43.9424,1,0,0
+global,Georgien,2020-03-01,43.3569,42.3154,3,0,0
+global,Niederlande,2020-03-01,5.2913,52.1326,10,0,0
+USA,"Providence County, RI",2020-03-01,-71.4774,41.8882,1,0,0
+global,Sri Lanka,2020-03-01,81,7,1,1,0
+China,Yunnan,2020-03-01,101.487,24.974,174,163,2
+global,Luxemburg,2020-03-01,6.1296,49.8153,1,0,0
+global,Litauen,2020-03-01,23.8813,55.1694,1,0,0
+USA,"Sacramento County, CA",2020-03-01,-121.3542,38.4747,2,0,0
+global,Frankreich,2020-03-01,2.2137,46.2276,130,12,2
+global,Afghanistan,2020-03-01,65,33,1,0,0
+global,Kambodscha,2020-03-01,104.9167,11.55,1,1,0
+global,Iran,2020-03-01,53,32,978,175,54
+global,Österreich,2020-03-01,14.5501,47.5162,14,0,0
+USA,"Santa Clara County, CA",2020-03-01,-121.9552,37.3541,3,1,0
+China,Fujian,2020-03-01,117.9874,26.0789,296,247,1
+global,Monaco,2020-03-01,7.4167,43.7333,1,0,0
+China,Anhui,2020-03-01,117.2264,31.8257,990,873,6
+Australien,Queensland,2020-03-01,153.4,-28.0167,9,1,0
+global,Vietnam,2020-03-01,108,16,16,16,0
+Australien,Victoria,2020-03-01,144.9631,-37.8136,7,4,0
+China,Chongqing,2020-03-01,107.874,30.0572,576,450,6
+Australien,New South Wales,2020-03-01,151.2093,-33.8688,6,4,0
+China,Gansu,2020-03-01,101.0583,37.8099,91,84,2
+USA,"Snohomish County, WA",2020-03-01,-121.8339,48.033,2,0,0
+China,Jiangxi,2020-03-01,115.7221,27.614,935,831,1
+Kanada,British Columbia,2020-03-01,-123.1207,49.2827,8,3,0
+USA,"Maricopa County, AZ",2020-03-01,-112.4291,33.2918,1,1,0
+Kreuzfahrtschiffe und Sonstige,"Kreuzfahrtschiff ""Diamond Princess""",2020-03-01,139.638,35.4437,705,10,6
+global,Großbritannien,2020-03-01,-3.436,55.3781,36,8,0
+China,Shaanxi,2020-03-01,108.8701,35.1917,245,208,1
+global,Malaysia,2020-03-01,112.5,2.5,29,18,0
+USA,"Los Angeles, CA",2020-03-01,-118.2437,34.0522,1,0,0
+China,Xinjiang,2020-03-01,85.2401,41.1129,76,64,3
+global,Nepal,2020-03-01,84.25,28.1667,1,1,0
+global,Katar,2020-03-01,51.1839,25.3548,3,0,0
+global,Oman,2020-03-01,57,21,6,1,0
+global,Singapur,2020-03-01,103.8333,1.2833,106,72,0
+global,Norwegen,2020-03-01,8.4689,60.472,19,0,0
+USA,"Suffolk County, MA",2020-03-01,-71.0589,42.3601,1,1,0
+global,Mexiko,2020-03-01,-102.5528,23.6345,5,0,0
+China,Shandong,2020-03-01,118.1498,36.3427,758,443,6
+global,Japan,2020-03-01,138,36,256,32,6
+global,Irak,2020-03-01,44,33,19,0,0
+China,Sichuan,2020-03-01,102.7103,30.6171,538,365,3
+global,Thailand,2020-03-01,101,15,42,28,1
+China,Guangxi,2020-03-01,108.7881,23.8298,252,181,2
+global,Südkorea,2020-03-02,128,36,4335,30,28
+Kanada,British Columbia,2020-03-02,-123.1207,49.2827,8,3,0
+global,Litauen,2020-03-02,23.8813,55.1694,1,0,0
+Deutschland,Repatriierte,2020-03-02,null,null,2,2,0
+Deutschland,Schleswig-Holstein,2020-03-02,9.713017,54.1882542,2,0,0
+global,Nordmazedonien,2020-03-02,21.7453,41.6086,1,0,0
+global,Dominikanische Republik,2020-03-02,-70.1627,18.7357,1,0,0
+USA,"Sacramento County, CA",2020-03-02,-121.3542,38.4747,2,0,0
+global,Österreich,2020-03-02,14.5501,47.5162,18,0,0
+global,Iran,2020-03-02,53,32,1501,291,66
+global,Schweden,2020-03-02,16,63,15,0,0
+Deutschland,Rheinland-Pfalz,2020-03-02,7.269307,50.104033,2,0,0
+Deutschland,Nordrhein-Westfalen,2020-03-02,7.385313,51.510157,86,0,0
+global,Indonesien,2020-03-02,113.9213,-0.7893,2,0,0
+USA,"Suffolk County, MA",2020-03-02,-71.0589,42.3601,1,1,0
+global,Tschechien,2020-03-02,15.473,49.8175,3,0,0
+China,Innere Mongolei,2020-03-02,113.9448,44.0935,75,54,0
+global,Japan,2020-03-02,138,36,274,32,6
+China,Tianjin,2020-03-02,117.323,39.3054,136,111,3
+Deutschland,Niedersachsen,2020-03-02,9.944255,52.518203,1,0,0
+Deutschland,Hessen,2020-03-02,9.217535,50.758489,12,0,0
+global,Portugal,2020-03-02,-8.2245,39.3999,2,0,0
+global,Irak,2020-03-02,44,33,26,0,0
+global,Mexiko,2020-03-02,-102.5528,23.6345,5,0,0
+global,Großbritannien,2020-03-02,-3.436,55.3781,40,8,0
+global,Belgien,2020-03-02,4,50.8333,8,1,0
+global,Kuwait,2020-03-02,47.75,29.5,56,0,0
+Deutschland,Hamburg,2020-03-02,10.007046,53.576158,1,0,0
+Deutschland,Bremen,2020-03-02,8.731851,53.029599,1,0,0
+global,Andorra,2020-03-02,1.5218,42.5063,1,0,0
+global,Norwegen,2020-03-02,8.4689,60.472,25,0,0
+Kreuzfahrtschiffe und Sonstige,"Kreuzfahrtschiff ""Diamond Princess""",2020-03-02,139.638,35.4437,705,10,6
+USA,"Sonoma County, CA",2020-03-02,-122.9888,38.578,1,0,0
+global,Taiwan,2020-03-02,121,23.7,41,12,1
+USA,"Orange County, CA",2020-03-02,-117.8531,33.7879,1,0,0
+Deutschland,Brandenburg,2020-03-02,14.124409,52.073056,1,0,0
+Deutschland,Bayern,2020-03-02,11.658165,48.768814,25,14,0
+Australien,Tasmania,2020-03-02,145.9707,-41.4545,1,0,0
+USA,"Placer County, CA",2020-03-02,-120.8039,39.0916,1,0,0
+USA,"King County, WA",2020-03-02,-122.3321,47.6062,14,1,5
+global,Israel,2020-03-02,35,31,10,1,0
+Deutschland,Baden-Württemberg,2020-03-02,9.147687,48.606091,19,0,0
+global,Neuseeland,2020-03-02,174.886,-40.9006,1,0,0
+global,Lettland,2020-03-02,24.6032,56.8796,1,0,0
+China,Qinghai,2020-03-02,95.9956,35.7452,18,18,0
+USA,"San Diego County, CA",2020-03-02,-117.1611,32.7157,2,1,0
+China,Shanghai,2020-03-02,121.4491,31.202,337,292,3
+China,Jiangxi,2020-03-02,115.7221,27.614,935,850,1
+China,Guizhou,2020-03-02,106.8748,26.8154,146,114,2
+global,Indien,2020-03-02,78,21,5,3,0
+Australien,Victoria,2020-03-02,144.9631,-37.8136,9,4,0
+global,Marokko,2020-03-02,-7.0926,31.7917,1,0,0
+global,Rumänien,2020-03-02,24.9668,45.9432,3,0,0
+global,Vereinigte Arabische Emirate,2020-03-02,54,24,21,5,0
+USA,"Washington County, OR",2020-03-02,-123.1386,45.547,2,0,0
+global,Sri Lanka,2020-03-02,81,7,1,1,0
+global,Nigeria,2020-03-02,8.6753,9.082,1,0,0
+USA,"New York County, NY",2020-03-02,-74.006,40.7128,1,0,0
+China,Shandong,2020-03-02,118.1498,36.3427,758,460,6
+global,Saudiarabien,2020-03-02,45,24,1,0,0
+China,Hong Kong,2020-03-02,114.2,22.3,100,36,2
+global,Algerien,2020-03-02,1.6596,28.0339,3,0,0
+global,Oman,2020-03-02,57,21,6,1,0
+USA,"Hillsborough, FL",2020-03-02,-82.3018,27.9904,1,0,0
+global,Ägypten,2020-03-02,30,26,2,1,0
+global,Estland,2020-03-02,25.0136,58.5953,1,0,0
+China,Heilongjiang,2020-03-02,127.7615,47.862,480,356,13
+global,Senegal,2020-03-02,-14.4524,14.4974,1,0,0
+Australien,Western Australia,2020-03-02,115.8605,-31.9505,2,0,1
+USA,"San Benito, CA",2020-03-02,-120.9876,36.5761,2,0,0
+global,Pakistan,2020-03-02,69.3451,30.3753,4,0,0
+China,Jilin,2020-03-02,126.1923,43.6661,93,83,1
+global,Spanien,2020-03-02,-4,40,120,2,0
+China,Chongqing,2020-03-02,107.874,30.0572,576,469,6
+USA,"Umatilla, OR",2020-03-02,-118.7606,45.775,1,0,0
+China,Hebei,2020-03-02,116.1306,39.549,318,296,6
+China,Hainan,2020-03-02,109.7453,19.1959,168,151,5
+China,Sichuan,2020-03-02,102.7103,30.6171,538,386,3
+global,Frankreich,2020-03-02,2.2137,46.2276,191,12,3
+global,Vietnam,2020-03-02,108,16,16,16,0
+global,Irland,2020-03-02,-7.6921,53.1424,1,0,0
+USA,"Kreuzfahrtschiff ""Diamond Princess""",2020-03-02,139.638,35.4437,45,0,0
+global,Niederlande,2020-03-02,5.2913,52.1326,18,0,0
+China,Guangdong,2020-03-02,113.4244,23.3417,1350,1059,7
+USA,"Snohomish County, WA",2020-03-02,-121.8339,48.033,4,0,1
+China,Henan,2020-03-02,113.614,33.882,1272,1205,22
+USA,"Providence County, RI",2020-03-02,-71.4774,41.8882,2,0,0
+USA,"San Mateo, CA",2020-03-02,-122.3255,37.563,1,0,0
+USA,"Cook County, IL",2020-03-02,-87.6976,41.7377,4,2,0
+USA,"Grafton County, NH",2020-03-02,-71.826,43.9088,1,0,0
+global,Luxemburg,2020-03-02,6.1296,49.8153,1,0,0
+global,Brasilien,2020-03-02,-51.9253,-14.235,2,0,0
+China,Hubei (Wuhan),2020-03-02,112.2707,30.9756,67103,33934,2803
+China,Macau,2020-03-02,113.55,22.1667,10,8,0
+global,Dänemark,2020-03-02,9.5018,56.2639,4,0,0
+China,Gansu,2020-03-02,101.0583,37.8099,91,85,2
+global,Kroatien,2020-03-02,15.2,45.1,7,0,0
+China,Yunnan,2020-03-02,101.487,24.974,174,168,2
+China,Anhui,2020-03-02,117.2264,31.8257,990,917,6
+China,Hunan,2020-03-02,111.7088,27.6104,1018,887,4
+global,San Marino,2020-03-02,12.4578,43.9424,8,0,0
+global,Monaco,2020-03-02,7.4167,43.7333,1,0,0
+global,Afghanistan,2020-03-02,65,33,1,0,0
+China,Ningxia,2020-03-02,106.1655,37.2692,74,69,0
+USA,"Santa Clara County, CA",2020-03-02,-121.9552,37.3541,9,1,0
+global,Nepal,2020-03-02,84.25,28.1667,1,1,0
+USA,"Maricopa County, AZ",2020-03-02,-112.4291,33.2918,1,1,0
+global,Singapur,2020-03-02,103.8333,1.2833,108,78,0
+global,Georgien,2020-03-02,43.3569,42.3154,3,0,0
+global,Italien,2020-03-02,12,43,2036,149,52
+global,Kambodscha,2020-03-02,104.9167,11.55,1,1,0
+China,Fujian,2020-03-02,117.9874,26.0789,296,255,1
+global,Katar,2020-03-02,51.1839,25.3548,3,0,0
+USA,"Los Angeles, CA",2020-03-02,-118.2437,34.0522,1,0,0
+Australien,New South Wales,2020-03-02,151.2093,-33.8688,6,4,0
+global,Belarus,2020-03-02,27.9534,53.7098,1,0,0
+global,Philippinen,2020-03-02,122,13,3,1,1
+USA,"Humboldt County, CA",2020-03-02,-123.8695,40.745,1,0,0
+Australien,South Australia,2020-03-02,138.6007,-34.9285,3,2,0
+Kanada,Quebec,2020-03-02,-73.5491,52.9399,1,0,0
+China,Jiangsu,2020-03-02,119.455,32.9711,631,543,0
+global,Ecuador,2020-03-02,-78.1834,-1.8312,6,0,0
+global,Schweiz,2020-03-02,8.2275,46.8182,42,0,0
+global,Libanon,2020-03-02,35.8623,33.8547,13,0,0
+China,Shaanxi,2020-03-02,108.8701,35.1917,245,216,1
+China,Zhejiang,2020-03-02,120.0934,29.1832,1206,1069,1
+China,Tibet,2020-03-02,88.0924,31.6927,1,1,0
+global,Griechenland,2020-03-02,21.8243,39.0742,7,0,0
+global,Island,2020-03-02,-19.0208,64.9631,6,0,0
+global,Thailand,2020-03-02,101,15,43,31,1
+global,Aserbaidschan,2020-03-02,47.5769,40.1431,3,0,0
+global,Bahrain,2020-03-02,50.55,26.0275,49,0,0
+China,Peking (Beijing),2020-03-02,116.4142,40.1824,414,282,8
+China,Shanxi,2020-03-02,112.2922,37.5777,133,119,0
+China,Liaoning,2020-03-02,122.6085,41.2956,122,103,1
+global,Finnland,2020-03-02,26,64,6,1,0
+Kanada,Ontario,2020-03-02,-85.3232,51.2538,18,3,0
+global,Russland,2020-03-02,90,60,3,2,0
+China,Xinjiang,2020-03-02,85.2401,41.1129,76,66,3
+global,Armenien,2020-03-02,45.0382,40.0691,1,0,0
+global,Malaysia,2020-03-02,112.5,2.5,29,18,0
+China,Guangxi,2020-03-02,108.7881,23.8298,252,192,2
+Australien,Queensland,2020-03-02,153.4,-28.0167,9,1,0
+global,Estland,2020-03-03,25.0136,58.5953,2,0,0
+China,Guangxi,2020-03-03,108.7881,23.8298,252,202,2
+China,Shaanxi,2020-03-03,108.8701,35.1917,245,216,1
+global,Thailand,2020-03-03,101,15,43,31,1
+China,Shandong,2020-03-03,118.1498,36.3427,758,511,6
+global,Japan,2020-03-03,138,36,293,43,6
+USA,"Suffolk County, MA",2020-03-03,-71.0589,42.3601,1,1,0
+USA,"Westchester County, NY",2020-03-03,-73.7949,41.122,1,0,0
+global,Singapur,2020-03-03,103.8333,1.2833,110,78,0
+China,Fujian,2020-03-03,117.9874,26.0789,296,260,1
+global,Nepal,2020-03-03,84.25,28.1667,1,1,0
+global,Malaysia,2020-03-03,112.5,2.5,36,22,0
+Kreuzfahrtschiffe und Sonstige,"Kreuzfahrtschiff ""Diamond Princess""",2020-03-03,139.638,35.4437,706,10,6
+China,Yunnan,2020-03-03,101.487,24.974,174,169,2
+China,Jiangxi,2020-03-03,115.7221,27.614,935,870,1
+USA,"New York County, NY",2020-03-03,-74.006,40.7128,1,0,0
+global,Ukraine,2020-03-03,31.1656,48.3794,1,0,0
+Kanada,British Columbia,2020-03-03,-123.1207,49.2827,9,3,0
+Australien,New South Wales,2020-03-03,151.2093,-33.8688,13,4,0
+USA,"Cook County, IL",2020-03-03,-87.6976,41.7377,4,2,0
+global,Jordanien,2020-03-03,36.51,31.24,1,0,0
+Australien,Victoria,2020-03-03,144.9631,-37.8136,9,4,0
+China,Hebei,2020-03-03,116.1306,39.549,318,300,6
+USA,"Placer County, CA",2020-03-03,-120.8039,39.0916,1,0,0
+global,Chile,2020-03-03,-71.543,-35.6751,1,0,0
+China,Anhui,2020-03-03,117.2264,31.8257,990,936,6
+global,Argentinien,2020-03-03,-63.6167,-38.4161,1,0,0
+China,Hainan,2020-03-03,109.7453,19.1959,168,155,5
+USA,"Santa Clara County, CA",2020-03-03,-121.9552,37.3541,11,1,0
+Australien,Queensland,2020-03-03,153.4,-28.0167,11,1,0
+global,Senegal,2020-03-03,-14.4524,14.4974,2,0,0
+global,Kambodscha,2020-03-03,104.9167,11.55,1,1,0
+global,Saudiarabien,2020-03-03,45,24,1,0,0
+USA,"Providence County, RI",2020-03-03,-71.4774,41.8882,2,0,0
+global,Marokko,2020-03-03,-7.0926,31.7917,1,0,0
+China,Guizhou,2020-03-03,106.8748,26.8154,146,114,2
+USA,"Grafton County, NH",2020-03-03,-71.826,43.9088,2,0,0
+USA,"San Mateo, CA",2020-03-03,-122.3255,37.563,2,0,0
+global,Sri Lanka,2020-03-03,81,7,1,1,0
+China,Shanghai,2020-03-03,121.4491,31.202,338,294,3
+China,Hunan,2020-03-03,111.7088,27.6104,1018,906,4
+USA,"Alameda County, CA",2020-03-03,-121.7195,37.6017,1,0,0
+global,Lettland,2020-03-03,24.6032,56.8796,1,0,0
+global,Finnland,2020-03-03,26,64,6,1,0
+global,Vereinigte Arabische Emirate,2020-03-03,54,24,27,5,0
+USA,"King County, WA",2020-03-03,-122.3321,47.6062,21,1,6
+China,Tibet,2020-03-03,88.0924,31.6927,1,1,0
+Australien,Tasmania,2020-03-03,145.9707,-41.4545,1,0,0
+global,Philippinen,2020-03-03,122,13,3,1,1
+global,Andorra,2020-03-03,1.5218,42.5063,1,0,0
+China,Zhejiang,2020-03-03,120.0934,29.1832,1213,1093,1
+global,Portugal,2020-03-03,-8.2245,39.3999,2,0,0
+China,Tianjin,2020-03-03,117.323,39.3054,136,124,3
+global,Indien,2020-03-03,78,21,5,3,0
+global,Schweden,2020-03-03,16,63,21,0,0
+global,Indonesien,2020-03-03,113.9213,-0.7893,2,0,0
+USA,"Wake County, NC",2020-03-03,-78.5661,35.8032,1,0,0
+China,Jiangsu,2020-03-03,119.455,32.9711,631,562,0
+global,Dominikanische Republik,2020-03-03,-70.1627,18.7357,1,0,0
+USA,"Orange County, CA",2020-03-03,-117.8531,33.7879,1,0,0
+global,Armenien,2020-03-03,45.0382,40.0691,1,0,0
+Deutschland,Baden-Württemberg,2020-03-03,9.147687,48.606091,26,0,0
+Deutschland,Bayern,2020-03-03,11.658165,48.768814,35,14,0
+Kanada,Ontario,2020-03-03,-85.3232,51.2538,20,3,0
+China,Henan,2020-03-03,113.614,33.882,1272,1231,22
+global,Spanien,2020-03-03,-4,40,165,2,1
+China,Peking (Beijing),2020-03-03,116.4142,40.1824,414,288,8
+China,Macau,2020-03-03,113.55,22.1667,10,9,0
+global,Aserbaidschan,2020-03-03,47.5769,40.1431,3,0,0
+Deutschland,Berlin,2020-03-03,13.40732,52.52045,3,0,0
+Deutschland,Brandenburg,2020-03-03,14.124409,52.073056,1,0,0
+China,Shanxi,2020-03-03,112.2922,37.5777,133,124,0
+Australien,South Australia,2020-03-03,138.6007,-34.9285,3,2,0
+global,Belgien,2020-03-03,4,50.8333,13,1,0
+global,Ecuador,2020-03-03,-78.1834,-1.8312,7,0,0
+Deutschland,Bremen,2020-03-03,8.731851,53.029599,1,0,0
+Kanada,Quebec,2020-03-03,-73.5491,52.9399,1,0,0
+China,Qinghai,2020-03-03,95.9956,35.7452,18,18,0
+Deutschland,Hamburg,2020-03-03,10.007046,53.576158,2,0,0
+global,Ägypten,2020-03-03,30,26,2,1,0
+China,Guangdong,2020-03-03,113.4244,23.3417,1350,1101,7
+USA,"Los Angeles, CA",2020-03-03,-118.2437,34.0522,1,0,0
+global,Katar,2020-03-03,51.1839,25.3548,7,0,0
+Deutschland,Hessen,2020-03-03,9.217535,50.758489,12,0,0
+Deutschland,Niedersachsen,2020-03-03,9.944255,52.518203,1,0,0
+global,Libanon,2020-03-03,35.8623,33.8547,13,0,0
+global,Monaco,2020-03-03,7.4167,43.7333,1,0,0
+Deutschland,Nordrhein-Westfalen,2020-03-03,7.385313,51.510157,101,0,0
+Deutschland,Rheinland-Pfalz,2020-03-03,7.269307,50.104033,2,0,0
+global,Russland,2020-03-03,90,60,3,2,0
+global,Dänemark,2020-03-03,9.5018,56.2639,6,0,0
+China,Gansu,2020-03-03,101.0583,37.8099,91,86,2
+global,Irak,2020-03-03,44,33,32,0,0
+USA,"Sonoma County, CA",2020-03-03,-122.9888,38.578,1,0,0
+global,Oman,2020-03-03,57,21,12,2,0
+global,Luxemburg,2020-03-03,6.1296,49.8153,1,0,0
+Deutschland,Sachsen,2020-03-03,13.349228,51.022904,1,0,0
+Deutschland,Schleswig-Holstein,2020-03-03,9.713017,54.1882542,2,0,0
+global,Frankreich,2020-03-03,2.2137,46.2276,204,12,4
+global,Irland,2020-03-03,-7.6921,53.1424,2,0,0
+USA,"Kreuzfahrtschiff ""Diamond Princess""",2020-03-03,139.638,35.4437,45,0,0
+global,Vietnam,2020-03-03,108,16,16,16,0
+Deutschland,Thüringen,2020-03-03,11.004142,50.894378,1,0,0
+Deutschland,Repatriierte,2020-03-03,null,null,2,2,0
+global,Afghanistan,2020-03-03,65,33,1,0,0
+USA,"San Benito, CA",2020-03-03,-120.9876,36.5761,2,0,0
+Australien,Western Australia,2020-03-03,115.8605,-31.9505,2,0,1
+global,Bahrain,2020-03-03,50.55,26.0275,49,0,0
+USA,"Norfolk County, MA",2020-03-03,-71.1449,42.1767,1,0,0
+China,Chongqing,2020-03-03,107.874,30.0572,576,490,6
+global,Nigeria,2020-03-03,8.6753,9.082,1,0,0
+global,Südkorea,2020-03-03,128,36,5186,30,28
+global,Taiwan,2020-03-03,121,23.7,42,12,1
+China,Hong Kong,2020-03-03,114.2,22.3,100,37,2
+global,Kuwait,2020-03-03,47.75,29.5,56,0,0
+global,Algerien,2020-03-03,1.6596,28.0339,5,0,0
+global,Großbritannien,2020-03-03,-3.436,55.3781,51,8,0
+global,Kroatien,2020-03-03,15.2,45.1,9,0,0
+USA,"San Diego County, CA",2020-03-03,-117.1611,32.7157,2,1,0
+China,Ningxia,2020-03-03,106.1655,37.2692,74,69,0
+global,Neuseeland,2020-03-03,174.886,-40.9006,1,0,0
+global,Schweiz,2020-03-03,8.2275,46.8182,56,2,0
+global,Iran,2020-03-03,53,32,2336,291,77
+global,Österreich,2020-03-03,14.5501,47.5162,21,0,0
+USA,"Maricopa County, AZ",2020-03-03,-112.4291,33.2918,1,1,0
+China,Innere Mongolei,2020-03-03,113.9448,44.0935,75,59,1
+global,Mexiko,2020-03-03,-102.5528,23.6345,5,1,0
+global,Israel,2020-03-03,35,31,12,1,0
+global,Pakistan,2020-03-03,69.3451,30.3753,5,0,0
+China,Xinjiang,2020-03-03,85.2401,41.1129,76,68,3
+USA,"Sacramento County, CA",2020-03-03,-121.3542,38.4747,2,0,0
+China,Sichuan,2020-03-03,102.7103,30.6171,538,394,3
+global,Litauen,2020-03-03,23.8813,55.1694,1,0,0
+China,Hubei (Wuhan),2020-03-03,112.2707,30.9756,67217,36208,2835
+global,Brasilien,2020-03-03,-51.9253,-14.235,2,0,0
+global,Georgien,2020-03-03,43.3569,42.3154,3,0,0
+global,Island,2020-03-03,-19.0208,64.9631,11,0,0
+global,Griechenland,2020-03-03,21.8243,39.0742,7,0,0
+global,Nordmazedonien,2020-03-03,21.7453,41.6086,1,0,0
+China,Liaoning,2020-03-03,122.6085,41.2956,125,106,1
+USA,"Umatilla, OR",2020-03-03,-118.7606,45.775,1,0,0
+USA,"Fulton County, GA",2020-03-03,-84.3963,33.8034,2,0,0
+USA,"Humboldt County, CA",2020-03-03,-123.8695,40.745,1,0,0
+global,Tschechien,2020-03-03,15.473,49.8175,5,0,0
+global,Belarus,2020-03-03,27.9534,53.7098,1,0,0
+global,Norwegen,2020-03-03,8.4689,60.472,32,0,0
+global,Rumänien,2020-03-03,24.9668,45.9432,3,0,0
+USA,"Washington County, OR",2020-03-03,-123.1386,45.547,2,0,0
+global,San Marino,2020-03-03,12.4578,43.9424,10,0,1
+China,Jilin,2020-03-03,126.1923,43.6661,93,83,1
+China,Heilongjiang,2020-03-03,127.7615,47.862,480,366,13
+USA,"Hillsborough, FL",2020-03-03,-82.3018,27.9904,2,0,0
+global,Niederlande,2020-03-03,5.2913,52.1326,24,0,0
+USA,"Snohomish County, WA",2020-03-03,-121.8339,48.033,6,0,1
+global,Italien,2020-03-03,12,43,2502,160,79
+USA,"Snohomish County, WA",2020-03-04,-121.8339,48.033,8,0,1
+USA,"Hillsborough, FL",2020-03-04,-82.3018,27.9904,2,0,0
+global,Estland,2020-03-04,25.0136,58.5953,2,0,0
+China,Heilongjiang,2020-03-04,127.7615,47.862,480,373,13
+Deutschland,Repatriierte,2020-03-04,null,null,2,2,0
+China,Guangxi,2020-03-04,108.7881,23.8298,252,210,2
+Deutschland,Thüringen,2020-03-04,11.004142,50.894378,1,0,0
+China,Jilin,2020-03-04,126.1923,43.6661,93,86,1
+USA,"Washington County, OR",2020-03-04,-123.1386,45.547,2,0,0
+global,San Marino,2020-03-04,12.4578,43.9424,16,0,1
+global,Rumänien,2020-03-04,24.9668,45.9432,4,1,0
+Deutschland,Schleswig-Holstein,2020-03-04,9.713017,54.1882542,2,0,0
+global,Norwegen,2020-03-04,8.4689,60.472,56,0,0
+Deutschland,Sachsen,2020-03-04,13.349228,51.022904,1,0,0
+global,Belarus,2020-03-04,27.9534,53.7098,6,0,0
+global,Tschechien,2020-03-04,15.473,49.8175,8,0,0
+USA,"Fulton County, GA",2020-03-04,-84.3963,33.8034,2,0,0
+USA,"Humboldt County, CA",2020-03-04,-123.8695,40.745,1,0,0
+global,Nordmazedonien,2020-03-04,21.7453,41.6086,1,0,0
+USA,"Umatilla, OR",2020-03-04,-118.7606,45.775,1,0,0
+China,Liaoning,2020-03-04,122.6085,41.2956,125,106,1
+Deutschland,Saarland,2020-03-04,6.961042,49.41788,1,0,0
+global,Griechenland,2020-03-04,21.8243,39.0742,9,0,0
+Deutschland,Rheinland-Pfalz,2020-03-04,7.269307,50.104033,2,0,0
+global,Georgien,2020-03-04,43.3569,42.3154,3,0,0
+global,Island,2020-03-04,-19.0208,64.9631,26,0,0
+global,Brasilien,2020-03-04,-51.9253,-14.235,4,0,0
+Deutschland,Nordrhein-Westfalen,2020-03-04,7.385313,51.510157,111,0,0
+Deutschland,Niedersachsen,2020-03-04,9.944255,52.518203,4,0,0
+China,Hubei (Wuhan),2020-03-04,112.2707,30.9756,67332,38557,2871
+China,Sichuan,2020-03-04,102.7103,30.6171,538,406,3
+global,Litauen,2020-03-04,23.8813,55.1694,1,0,0
+USA,"Sacramento County, CA",2020-03-04,-121.3542,38.4747,2,0,0
+China,Xinjiang,2020-03-04,85.2401,41.1129,76,69,3
+global,Pakistan,2020-03-04,69.3451,30.3753,5,0,0
+Deutschland,Mecklenburg-Vorpommern,2020-03-04,12.708563,53.810625,3,0,0
+global,Israel,2020-03-04,35,31,15,1,0
+Deutschland,Hessen,2020-03-04,9.217535,50.758489,12,0,0
+global,Mexiko,2020-03-04,-102.5528,23.6345,5,1,0
+global,Österreich,2020-03-04,14.5501,47.5162,29,0,0
+USA,"Maricopa County, AZ",2020-03-04,-112.4291,33.2918,1,1,0
+Deutschland,Hamburg,2020-03-04,10.007046,53.576158,2,0,0
+global,Iran,2020-03-04,53,32,2922,552,92
+China,Innere Mongolei,2020-03-04,113.9448,44.0935,75,63,1
+global,Schweiz,2020-03-04,8.2275,46.8182,90,3,0
+Deutschland,Bremen,2020-03-04,8.731851,53.029599,2,0,0
+global,Neuseeland,2020-03-04,174.886,-40.9006,3,0,0
+global,Kroatien,2020-03-04,15.2,45.1,10,0,0
+USA,"San Diego County, CA",2020-03-04,-117.1611,32.7157,2,1,0
+China,Ningxia,2020-03-04,106.1655,37.2692,75,69,0
+global,Algerien,2020-03-04,1.6596,28.0339,12,0,0
+global,Großbritannien,2020-03-04,-3.436,55.3781,85,8,0
+global,Kuwait,2020-03-04,47.75,29.5,56,0,0
+China,Hong Kong,2020-03-04,114.2,22.3,105,37,2
+Deutschland,Brandenburg,2020-03-04,14.124409,52.073056,1,0,0
+Deutschland,Berlin,2020-03-04,13.40732,52.52045,6,0,0
+global,Südkorea,2020-03-04,128,36,5621,41,35
+global,Taiwan,2020-03-04,121,23.7,42,12,1
+China,Chongqing,2020-03-04,107.874,30.0572,576,502,6
+global,Nigeria,2020-03-04,8.6753,9.082,1,0,0
+USA,"Norfolk County, MA",2020-03-04,-71.1449,42.1767,1,0,0
+Deutschland,Bayern,2020-03-04,11.658165,48.768814,48,14,0
+global,Bahrain,2020-03-04,50.55,26.0275,52,0,0
+Deutschland,Baden-Württemberg,2020-03-04,9.147687,48.606091,44,0,0
+global,Afghanistan,2020-03-04,65,33,1,0,0
+Australien,Western Australia,2020-03-04,115.8605,-31.9505,2,0,1
+USA,"Kreuzfahrtschiff ""Diamond Princess""",2020-03-04,139.638,35.4437,45,0,0
+global,Irland,2020-03-04,-7.6921,53.1424,6,0,0
+global,Frankreich,2020-03-04,2.2137,46.2276,285,12,4
+global,Vietnam,2020-03-04,108,16,16,16,0
+global,Oman,2020-03-04,57,21,15,2,0
+global,Luxemburg,2020-03-04,6.1296,49.8153,1,0,0
+USA,"Sonoma County, CA",2020-03-04,-122.9888,38.578,1,0,0
+China,Gansu,2020-03-04,101.0583,37.8099,91,87,2
+global,Irak,2020-03-04,44,33,35,0,2
+USA,"San Benito, CA",2020-03-04,-120.9876,36.5761,2,0,0
+global,Dänemark,2020-03-04,9.5018,56.2639,10,0,0
+global,Russland,2020-03-04,90,60,3,2,0
+global,Libanon,2020-03-04,35.8623,33.8547,13,1,0
+global,Monaco,2020-03-04,7.4167,43.7333,1,0,0
+global,Ägypten,2020-03-04,30,26,2,1,0
+USA,"Los Angeles, CA",2020-03-04,-118.2437,34.0522,7,0,0
+global,Niederlande,2020-03-04,5.2913,52.1326,38,0,0
+global,Katar,2020-03-04,51.1839,25.3548,8,0,0
+Kanada,Quebec,2020-03-04,-73.5491,52.9399,1,0,0
+China,Qinghai,2020-03-04,95.9956,35.7452,18,18,0
+global,Belgien,2020-03-04,4,50.8333,23,1,0
+global,Ecuador,2020-03-04,-78.1834,-1.8312,10,0,0
+USA,"Orange County, CA",2020-03-04,-117.8531,33.7879,3,0,0
+Australien,South Australia,2020-03-04,138.6007,-34.9285,5,2,0
+China,Shanxi,2020-03-04,112.2922,37.5777,133,124,0
+global,Aserbaidschan,2020-03-04,47.5769,40.1431,3,0,0
+global,Spanien,2020-03-04,-4,40,222,2,2
+China,Peking (Beijing),2020-03-04,116.4142,40.1824,418,297,8
+Kanada,Ontario,2020-03-04,-85.3232,51.2538,20,3,0
+China,Henan,2020-03-04,113.614,33.882,1272,1234,22
+China,Macau,2020-03-04,113.55,22.1667,10,9,0
+global,Armenien,2020-03-04,45.0382,40.0691,1,0,0
+China,Jiangsu,2020-03-04,119.455,32.9711,631,577,0
+global,Dominikanische Republik,2020-03-04,-70.1627,18.7357,1,0,0
+global,Schweden,2020-03-04,16,63,35,0,0
+global,Indonesien,2020-03-04,113.9213,-0.7893,2,0,0
+Dänemark,Färöer,2020-03-04,-6.9118,61.8926,1,0,0
+global,Italien,2020-03-04,12,43,3089,276,107
+global,Indien,2020-03-04,78,21,28,3,0
+China,Tianjin,2020-03-04,117.323,39.3054,136,124,3
+global,Philippinen,2020-03-04,122,13,3,1,1
+global,Portugal,2020-03-04,-8.2245,39.3999,5,0,0
+China,Zhejiang,2020-03-04,120.0934,29.1832,1213,1114,1
+global,Andorra,2020-03-04,1.5218,42.5063,1,0,0
+Australien,Tasmania,2020-03-04,145.9707,-41.4545,1,0,0
+China,Tibet,2020-03-04,88.0924,31.6927,1,1,0
+USA,"Contra Costa County, CA",2020-03-04,-121.9018,37.8534,1,0,0
+Frankreich,Saint Barthélemy,2020-03-04,-62.8333,17.9,3,0,0
+global,Vereinigte Arabische Emirate,2020-03-04,54,24,27,5,0
+USA,"Wake County, NC",2020-03-04,-78.5661,35.8032,1,0,0
+Großbritannien,Gibraltar,2020-03-04,-5.3536,36.1408,1,0,0
+global,Finnland,2020-03-04,26,64,6,1,0
+USA,"King County, WA",2020-03-04,-122.3321,47.6062,31,1,9
+global,Lettland,2020-03-04,24.6032,56.8796,1,0,0
+China,Guizhou,2020-03-04,106.8748,26.8154,146,114,2
+China,Hunan,2020-03-04,111.7088,27.6104,1018,916,4
+USA,"Alameda County, CA",2020-03-04,-121.7195,37.6017,1,0,0
+global,Sri Lanka,2020-03-04,81,7,1,1,0
+China,Shanghai,2020-03-04,121.4491,31.202,338,298,3
+USA,"San Mateo, CA",2020-03-04,-122.3255,37.563,2,0,0
+USA,"Grafton County, NH",2020-03-04,-71.826,43.9088,2,0,0
+global,Marokko,2020-03-04,-7.0926,31.7917,1,0,0
+USA,"Providence County, RI",2020-03-04,-71.4774,41.8882,2,0,0
+global,Kambodscha,2020-03-04,104.9167,11.55,1,1,0
+global,Saudiarabien,2020-03-04,45,24,1,0,0
+Australien,Queensland,2020-03-04,153.4,-28.0167,11,1,0
+global,Senegal,2020-03-04,-14.4524,14.4974,4,0,0
+China,Hainan,2020-03-04,109.7453,19.1959,168,158,5
+global,Argentinien,2020-03-04,-63.6167,-38.4161,1,0,0
+China,Anhui,2020-03-04,117.2264,31.8257,990,956,6
+global,Chile,2020-03-04,-71.543,-35.6751,1,0,0
+USA,"Placer County, CA",2020-03-04,-120.8039,39.0916,2,0,1
+USA,"Santa Clara County, CA",2020-03-04,-121.9552,37.3541,11,1,0
+Australien,Victoria,2020-03-04,144.9631,-37.8136,10,4,0
+China,Hebei,2020-03-04,116.1306,39.549,318,301,6
+Australien,New South Wales,2020-03-04,151.2093,-33.8688,22,4,1
+global,Jordanien,2020-03-04,36.51,31.24,1,0,0
+Kanada,British Columbia,2020-03-04,-123.1207,49.2827,12,3,0
+China,Yunnan,2020-03-04,101.487,24.974,174,169,2
+USA,"Cook County, IL",2020-03-04,-87.6976,41.7377,4,2,0
+global,Ukraine,2020-03-04,31.1656,48.3794,1,0,0
+China,Jiangxi,2020-03-04,115.7221,27.614,935,884,1
+Kreuzfahrtschiffe und Sonstige,"Kreuzfahrtschiff ""Diamond Princess""",2020-03-04,139.638,35.4437,706,10,6
+global,Ungarn,2020-03-04,19.5033,47.1625,2,0,0
+USA,"New York County, NY",2020-03-04,-74.006,40.7128,1,0,0
+global,Malaysia,2020-03-04,112.5,2.5,50,22,0
+Australien,Northern Territory,2020-03-04,130.8456,-12.4634,1,0,0
+global,Nepal,2020-03-04,84.25,28.1667,1,1,0
+global,Liechtenstein,2020-03-04,9.55,47.14,1,0,0
+global,Singapur,2020-03-04,103.8333,1.2833,110,78,0
+China,Fujian,2020-03-04,117.9874,26.0789,296,270,1
+global,Polen,2020-03-04,19.1451,51.9194,1,0,0
+global,Japan,2020-03-04,138,36,331,43,6
+USA,"Westchester County, NY",2020-03-04,-73.7949,41.122,10,0,0
+China,Shaanxi,2020-03-04,108.8701,35.1917,245,223,1
+China,Shandong,2020-03-04,118.1498,36.3427,758,516,6
+USA,"Suffolk County, MA",2020-03-04,-71.0589,42.3601,1,1,0
+global,Thailand,2020-03-04,101,15,43,31,1
+global,Tunesien,2020-03-04,9,34,1,0,0
+China,Guangdong,2020-03-04,113.4244,23.3417,1350,1133,7
+China,Macau,2020-03-05,113.55,22.1667,10,9,0
+global,Irak,2020-03-05,44,33,35,0,2
+Deutschland,Saarland,2020-03-05,6.961042,49.41788,1,0,0
+Deutschland,Rheinland-Pfalz,2020-03-05,7.269307,50.104033,7,0,0
+global,San Marino,2020-03-05,12.4578,43.9424,21,0,1
+global,Marokko,2020-03-05,-7.0926,31.7917,2,0,0
+USA,"New York County, NY",2020-03-05,-74.006,40.7128,4,0,0
+USA,"Fulton County, GA",2020-03-05,-84.3963,33.8034,2,0,0
+global,Japan,2020-03-05,138,36,360,43,6
+global,Luxemburg,2020-03-05,6.1296,49.8153,1,0,0
+Australien,Victoria,2020-03-05,144.9631,-37.8136,10,7,0
+USA,"Hillsborough, FL",2020-03-05,-82.3018,27.9904,2,0,0
+China,Sichuan,2020-03-05,102.7103,30.6171,539,425,3
+USA,"Umatilla, OR",2020-03-05,-118.7606,45.775,1,0,0
+global,Indien,2020-03-05,78,21,30,3,0
+global,Malaysia,2020-03-05,112.5,2.5,50,22,0
+global,Sri Lanka,2020-03-05,81,7,1,1,0
+USA,"Contra Costa County, CA",2020-03-05,-121.9018,37.8534,1,0,0
+China,Shanghai,2020-03-05,121.4491,31.202,339,303,3
+global,Saudiarabien,2020-03-05,45,24,5,0,0
+global,Kuwait,2020-03-05,47.75,29.5,58,0,0
+global,Griechenland,2020-03-05,21.8243,39.0742,31,0,0
+global,Österreich,2020-03-05,14.5501,47.5162,41,0,0
+global,Vereinigte Arabische Emirate,2020-03-05,54,24,29,5,0
+USA,"King County, WA",2020-03-05,-122.3321,47.6062,51,1,10
+China,Hubei (Wuhan),2020-03-05,112.2707,30.9756,67466,40592,2902
+global,Belarus,2020-03-05,27.9534,53.7098,6,0,0
+global,Monaco,2020-03-05,7.4167,43.7333,1,0,0
+China,Liaoning,2020-03-05,122.6085,41.2956,125,106,1
+global,Tschechien,2020-03-05,15.473,49.8175,12,0,0
+global,Senegal,2020-03-05,-14.4524,14.4974,4,0,0
+China,Hainan,2020-03-05,109.7453,19.1959,168,158,6
+Deutschland,Nordrhein-Westfalen,2020-03-05,7.385313,51.510157,175,0,0
+Deutschland,Niedersachsen,2020-03-05,9.944255,52.518203,10,0,0
+USA,"Bergen County, NJ",2020-03-05,-74.077,40.9263,2,0,0
+USA,"Suffolk County, MA",2020-03-05,-71.0589,42.3601,1,1,0
+global,Spanien,2020-03-05,-4,40,259,2,3
+China,Tibet,2020-03-05,88.0924,31.6927,1,1,0
+global,Argentinien,2020-03-05,-63.6167,-38.4161,1,0,0
+global,Iran,2020-03-05,53,32,3513,739,107
+global,Ägypten,2020-03-05,30,26,3,1,0
+USA,"Alameda County, CA",2020-03-05,-121.7195,37.6017,1,0,0
+global,Katar,2020-03-05,51.1839,25.3548,8,0,0
+global,Oman,2020-03-05,57,21,16,2,0
+global,Island,2020-03-05,-19.0208,64.9631,34,0,0
+global,Vietnam,2020-03-05,108,16,16,16,0
+global,Nordmazedonien,2020-03-05,21.7453,41.6086,1,0,0
+global,Chile,2020-03-05,-71.543,-35.6751,4,0,0
+global,Singapur,2020-03-05,103.8333,1.2833,117,78,0
+Kanada,Ontario,2020-03-05,-85.3232,51.2538,22,3,0
+USA,"Grafton County, NH",2020-03-05,-71.826,43.9088,2,0,0
+China,Peking (Beijing),2020-03-05,116.4142,40.1824,418,297,8
+Australien,New South Wales,2020-03-05,151.2093,-33.8688,22,4,1
+USA,"Fort Bend County, TX",2020-03-05,-95.8143,29.5693,1,0,0
+global,Südkorea,2020-03-05,128,36,6088,41,35
+Deutschland,Mecklenburg-Vorpommern,2020-03-05,12.708563,53.810625,4,0,0
+China,Chongqing,2020-03-05,107.874,30.0572,576,512,6
+Deutschland,Hessen,2020-03-05,9.217535,50.758489,14,0,0
+global,Ecuador,2020-03-05,-78.1834,-1.8312,13,0,0
+USA,"Sonoma County, CA",2020-03-05,-122.9888,38.578,1,0,0
+China,Shanxi,2020-03-05,112.2922,37.5777,133,126,0
+global,Jordanien,2020-03-05,36.51,31.24,1,0,0
+USA,"Clark County, NV",2020-03-05,-115.094,36.0796,1,0,0
+China,Yunnan,2020-03-05,101.487,24.974,174,169,2
+USA,"Santa Clara County, CA",2020-03-05,-121.9552,37.3541,20,1,0
+global,Israel,2020-03-05,35,31,20,1,0
+global,Algerien,2020-03-05,1.6596,28.0339,12,0,0
+global,Litauen,2020-03-05,23.8813,55.1694,1,0,0
+Kanada,Quebec,2020-03-05,-73.5491,52.9399,2,0,0
+global,Frankreich,2020-03-05,2.2137,46.2276,377,12,6
+global,Kambodscha,2020-03-05,104.9167,11.55,1,1,0
+global,Ukraine,2020-03-05,31.1656,48.3794,1,0,0
+global,Dänemark,2020-03-05,9.5018,56.2639,10,0,0
+USA,"Los Angeles, CA",2020-03-05,-118.2437,34.0522,11,0,0
+global,Italien,2020-03-05,12,43,3858,414,148
+USA,"Norfolk County, MA",2020-03-05,-71.1449,42.1767,1,0,0
+global,Aserbaidschan,2020-03-05,47.5769,40.1431,6,0,0
+China,Xinjiang,2020-03-05,85.2401,41.1129,76,70,3
+global,Norwegen,2020-03-05,8.4689,60.472,87,0,0
+China,Ningxia,2020-03-05,106.1655,37.2692,75,69,0
+Kanada,British Columbia,2020-03-05,-123.1207,49.2827,13,3,0
+Dänemark,Färöer,2020-03-05,-6.9118,61.8926,1,0,0
+Deutschland,Hamburg,2020-03-05,10.007046,53.576158,3,0,0
+Deutschland,Bremen,2020-03-05,8.731851,53.029599,3,0,0
+China,Guangdong,2020-03-05,113.4244,23.3417,1351,1181,7
+USA,"Nassau County, NY",2020-03-05,-73.5594,40.6546,1,0,0
+global,Mexiko,2020-03-05,-102.5528,23.6345,5,1,0
+USA,"San Benito, CA",2020-03-05,-120.9876,36.5761,2,0,0
+global,Armenien,2020-03-05,45.0382,40.0691,1,0,0
+Australien,Northern Territory,2020-03-05,130.8456,-12.4634,1,0,0
+USA,"Providence County, RI",2020-03-05,-71.4774,41.8882,2,0,0
+USA,"Williamson County, TN",2020-03-05,-86.8622,35.9179,1,0,0
+Australien,South Australia,2020-03-05,138.6007,-34.9285,5,2,0
+global,Liechtenstein,2020-03-05,9.55,47.14,1,0,0
+global,Afghanistan,2020-03-05,65,33,1,0,0
+global,Pakistan,2020-03-05,69.3451,30.3753,5,0,0
+global,Philippinen,2020-03-05,122,13,3,1,1
+USA,"Santa Rosa County, FL",2020-03-05,-86.9824,30.769,1,0,0
+China,Henan,2020-03-05,113.614,33.882,1272,1239,22
+USA,"Kreuzfahrtschiff ""Diamond Princess""",2020-03-05,139.638,35.4437,45,0,0
+global,Rumänien,2020-03-05,24.9668,45.9432,6,1,0
+China,Jiangsu,2020-03-05,119.455,32.9711,631,583,0
+China,Jilin,2020-03-05,126.1923,43.6661,93,88,1
+global,Polen,2020-03-05,19.1451,51.9194,1,0,0
+global,Dominikanische Republik,2020-03-05,-70.1627,18.7357,1,0,0
+China,Shaanxi,2020-03-05,108.8701,35.1917,245,224,1
+global,Finnland,2020-03-05,26,64,12,1,0
+Deutschland,Repatriierte,2020-03-05,null,null,2,2,0
+China,Tianjin,2020-03-05,117.323,39.3054,136,128,3
+global,Neuseeland,2020-03-05,174.886,-40.9006,3,0,0
+global,Tunesien,2020-03-05,9,34,1,0,0
+China,Hong Kong,2020-03-05,114.2,22.3,105,43,2
+Deutschland,Brandenburg,2020-03-05,14.124409,52.073056,1,0,0
+China,Zhejiang,2020-03-05,120.0934,29.1832,1215,1124,1
+Deutschland,Berlin,2020-03-05,13.40732,52.52045,9,0,0
+global,Großbritannien,2020-03-05,-3.436,55.3781,115,8,1
+Deutschland,Thüringen,2020-03-05,11.004142,50.894378,1,0,0
+global,Indonesien,2020-03-05,113.9213,-0.7893,2,0,0
+USA,"San Mateo, CA",2020-03-05,-122.3255,37.563,2,0,0
+USA,"San Diego County, CA",2020-03-05,-117.1611,32.7157,3,1,0
+global,Bosnien und Herzegowina,2020-03-05,17.6791,43.9159,2,0,0
+global,Kroatien,2020-03-05,15.2,45.1,10,0,0
+USA,"Harris County, TX",2020-03-05,-95.3103,29.7752,2,0,0
+global,Libanon,2020-03-05,35.8623,33.8547,16,1,0
+global,Russland,2020-03-05,90,60,4,2,0
+USA,"Orange County, CA",2020-03-05,-117.8531,33.7879,3,0,0
+global,Slowenien,2020-03-05,14.9955,46.1512,2,0,0
+Großbritannien,Gibraltar,2020-03-05,-5.3536,36.1408,1,0,0
+China,Hunan,2020-03-05,111.7088,27.6104,1018,938,4
+global,Estland,2020-03-05,25.0136,58.5953,3,0,0
+USA,"Westchester County, NY",2020-03-05,-73.7949,41.122,18,0,0
+global,Nigeria,2020-03-05,8.6753,9.082,1,0,0
+global,Portugal,2020-03-05,-8.2245,39.3999,8,0,0
+USA,"Sacramento County, CA",2020-03-05,-121.3542,38.4747,2,0,0
+global,Südafrika,2020-03-05,22.9375,-30.5595,1,0,0
+China,Guangxi,2020-03-05,108.7881,23.8298,252,214,2
+USA,"Grant County, WA",2020-03-05,-119.3732,47.1981,1,0,0
+USA,"San Francisco County, CA",2020-03-05,-122.4194,37.7749,2,0,0
+global,Brasilien,2020-03-05,-51.9253,-14.235,4,0,0
+Deutschland,Bayern,2020-03-05,11.658165,48.768814,52,14,0
+Deutschland,Baden-Württemberg,2020-03-05,9.147687,48.606091,65,0,0
+Frankreich,Saint Barthélemy,2020-03-05,-62.8333,17.9,3,0,0
+Australien,Queensland,2020-03-05,153.4,-28.0167,13,8,0
+China,Anhui,2020-03-05,117.2264,31.8257,990,970,6
+global,Schweden,2020-03-05,16,63,94,0,0
+global,Andorra,2020-03-05,1.5218,42.5063,1,0,0
+Kreuzfahrtschiffe und Sonstige,"Kreuzfahrtschiff ""Diamond Princess""",2020-03-05,139.638,35.4437,706,10,6
+Deutschland,Schleswig-Holstein,2020-03-05,9.713017,54.1882542,3,0,0
+USA,"Humboldt County, CA",2020-03-05,-123.8695,40.745,1,0,0
+Deutschland,Sachsen,2020-03-05,13.349228,51.022904,1,0,0
+Australien,Western Australia,2020-03-05,115.8605,-31.9505,3,0,1
+global,Nepal,2020-03-05,84.25,28.1667,1,1,0
+global,Bahrain,2020-03-05,50.55,26.0275,55,0,0
+China,Fujian,2020-03-05,117.9874,26.0789,296,277,1
+global,Niederlande,2020-03-05,5.2913,52.1326,82,0,0
+global,Ungarn,2020-03-05,19.5033,47.1625,2,0,0
+global,Thailand,2020-03-05,101,15,47,31,1
+China,Jiangxi,2020-03-05,115.7221,27.614,935,901,1
+Australien,Tasmania,2020-03-05,145.9707,-41.4545,1,0,0
+global,Schweiz,2020-03-05,8.2275,46.8182,114,3,1
+USA,"Wake County, NC",2020-03-05,-78.5661,35.8032,1,0,0
+China,Guizhou,2020-03-05,106.8748,26.8154,146,114,2
+USA,"Snohomish County, WA",2020-03-05,-121.8339,48.033,18,0,1
+USA,"Cook County, IL",2020-03-05,-87.6976,41.7377,5,2,0
+global,Taiwan,2020-03-05,121,23.7,44,12,1
+global,Belgien,2020-03-05,4,50.8333,50,1,0
+China,Qinghai,2020-03-05,95.9956,35.7452,18,18,0
+global,Georgien,2020-03-05,43.3569,42.3154,4,0,0
+China,Heilongjiang,2020-03-05,127.7615,47.862,481,379,13
+global,Irland,2020-03-05,-7.6921,53.1424,6,0,0
+global,Lettland,2020-03-05,24.6032,56.8796,1,0,0
+China,Hebei,2020-03-05,116.1306,39.549,318,304,6
+China,Shandong,2020-03-05,118.1498,36.3427,758,578,6
+China,Innere Mongolei,2020-03-05,113.9448,44.0935,75,65,1
+USA,"Maricopa County, AZ",2020-03-05,-112.4291,33.2918,1,1,0
+USA,"Washington County, OR",2020-03-05,-123.1386,45.547,2,0,0
+China,Gansu,2020-03-05,101.0583,37.8099,102,87,2
+USA,"Placer County, CA",2020-03-05,-120.8039,39.0916,2,0,1
+global,Brasilien,2020-03-06,-51.9253,-14.235,13,0,0
+USA,"Placer County, CA",2020-03-06,-120.8039,39.0916,5,0,1
+USA,"Bergen County, NJ",2020-03-06,-74.077,40.9263,2,0,0
+China,Shandong,2020-03-06,118.1498,36.3427,758,618,6
+global,Thailand,2020-03-06,101,15,48,31,1
+USA,"Summit County, CO",2020-03-06,-106.064,39.5912,1,0,0
+USA,"Denver County, CO",2020-03-06,-104.9903,39.7392,2,0,0
+USA,"Suffolk County, MA",2020-03-06,-71.0589,42.3601,3,1,0
+China,Jiangxi,2020-03-06,115.7221,27.614,935,909,1
+global,Japan,2020-03-06,138,36,420,46,6
+Kreuzfahrtschiffe und Sonstige,"Kreuzfahrtschiff ""Diamond Princess""",2020-03-06,139.638,35.4437,696,40,6
+global,Singapur,2020-03-06,103.8333,1.2833,130,78,0
+global,Nepal,2020-03-06,84.25,28.1667,1,1,0
+USA,"Montgomery County, MD",2020-03-06,-77.2405,39.1547,3,0,0
+China,Anhui,2020-03-06,117.2264,31.8257,990,979,6
+USA,"New York County, NY",2020-03-06,-74.006,40.7128,11,0,0
+global,Malaysia,2020-03-06,112.5,2.5,83,22,0
+China,Hunan,2020-03-06,111.7088,27.6104,1018,955,4
+USA,"San Mateo, CA",2020-03-06,-122.3255,37.563,2,0,0
+USA,"Williamson County, TN",2020-03-06,-86.8622,35.9179,1,0,0
+Kanada,British Columbia,2020-03-06,-123.1207,49.2827,21,3,0
+China,Zhejiang,2020-03-06,120.0934,29.1832,1215,1147,1
+USA,"Santa Rosa County, FL",2020-03-06,-86.9824,30.769,1,0,0
+USA,"Grant County, WA",2020-03-06,-119.3732,47.1981,1,0,0
+USA,"Fort Bend County, TX",2020-03-06,-95.8143,29.5693,1,0,0
+China,Jiangsu,2020-03-06,119.455,32.9711,631,594,0
+Australien,New South Wales,2020-03-06,151.2093,-33.8688,26,4,1
+USA,"Clark County, NV",2020-03-06,-115.094,36.0796,1,0,0
+USA,"Santa Clara County, CA",2020-03-06,-121.9552,37.3541,20,1,0
+China,Henan,2020-03-06,113.614,33.882,1272,1244,22
+Australien,Victoria,2020-03-06,144.9631,-37.8136,10,7,0
+Australien,Queensland,2020-03-06,153.4,-28.0167,13,8,0
+China,Guangdong,2020-03-06,113.4244,23.3417,1352,1216,7
+global,Kambodscha,2020-03-06,104.9167,11.55,1,1,0
+USA,"Yolo County, CA",2020-03-06,-121.9018,38.7646,1,0,0
+global,Frankreich,2020-03-06,2.2137,46.2276,653,12,9
+USA,"Sonoma County, CA",2020-03-06,-122.9888,38.578,1,0,0
+USA,"Wayne County, PA",2020-03-06,-75.2479,41.6739,1,0,0
+USA,"Washoe County, NV",2020-03-06,-119.6035,40.5608,1,0,0
+China,Chongqing,2020-03-06,107.874,30.0572,576,513,6
+USA,"Ramsey County, MN",2020-03-06,-93.0616,44.9964,1,0,0
+USA,"Nassau County, NY",2020-03-06,-73.5594,40.6546,1,0,0
+USA,"Middlesex County, MA",2020-03-06,-71.2874,42.4672,1,0,0
+USA,"Marion County, IN",2020-03-06,-86.1752,39.8362,1,0,0
+global,Südkorea,2020-03-06,128,36,6593,135,42
+USA,"Fayette County, KY",2020-03-06,-84.4803,38.0606,1,0,0
+USA,"Douglas County, NE",2020-03-06,-96.1951,41.3148,1,0,0
+USA,"Delaware County, PA",2020-03-06,-75.3879,39.9078,1,0,0
+USA,"Chatham County, NC",2020-03-06,-79.1781,35.7211,1,0,0
+global,Iran,2020-03-06,53,32,4747,913,124
+USA,"Providence County, RI",2020-03-06,-71.4774,41.8882,2,0,0
+global,Sri Lanka,2020-03-06,81,7,1,1,0
+China,Hubei (Wuhan),2020-03-06,112.2707,30.9756,67592,42033,2931
+USA,"Umatilla, OR",2020-03-06,-118.7606,45.775,1,0,0
+China,Sichuan,2020-03-06,102.7103,30.6171,539,442,3
+USA,"Alameda County, CA",2020-03-06,-121.7195,37.6017,1,0,0
+USA,"Polk County, GA",2020-03-06,-85.1479,34.0132,1,0,0
+USA,"Hillsborough, FL",2020-03-06,-82.3018,27.9904,2,0,0
+global,Finnland,2020-03-06,26,64,15,1,0
+USA,"Harris County, TX",2020-03-06,-95.3103,29.7752,3,0,0
+USA,"Fulton County, GA",2020-03-06,-84.3963,33.8034,2,0,0
+Großbritannien,Gibraltar,2020-03-06,-5.3536,36.1408,1,0,0
+USA,"San Francisco County, CA",2020-03-06,-122.4194,37.7749,2,0,0
+Frankreich,Saint Barthélemy,2020-03-06,-62.8333,17.9,3,0,0
+global,Vereinigte Arabische Emirate,2020-03-06,54,24,29,5,0
+global,Vatikan,2020-03-06,12.4534,41.9029,1,0,0
+USA,"Washington County, OR",2020-03-06,-123.1386,45.547,2,0,0
+China,Tibet,2020-03-06,88.0924,31.6927,1,1,0
+global,Philippinen,2020-03-06,122,13,5,1,1
+China,Heilongjiang,2020-03-06,127.7615,47.862,481,396,13
+global,Indien,2020-03-06,78,21,31,3,0
+USA,"Contra Costa County, CA",2020-03-06,-121.9018,37.8534,3,0,0
+USA,"Snohomish County, WA",2020-03-06,-121.8339,48.033,19,0,1
+global,Italien,2020-03-06,12,43,4636,523,197
+Dänemark,Färöer,2020-03-06,-6.9118,61.8926,1,0,0
+USA,"Humboldt County, CA",2020-03-06,-123.8695,40.745,1,0,0
+global,Schweden,2020-03-06,16,63,101,0,0
+China,Macau,2020-03-06,113.55,22.1667,10,10,0
+USA,"Sacramento County, CA",2020-03-06,-121.3542,38.4747,2,0,0
+global,Spanien,2020-03-06,-4,40,400,2,5
+Australien,South Australia,2020-03-06,138.6007,-34.9285,7,2,0
+USA,"San Diego County, CA",2020-03-06,-117.1611,32.7157,3,1,0
+China,Qinghai,2020-03-06,95.9956,35.7452,18,18,0
+global,Belgien,2020-03-06,4,50.8333,109,1,0
+global,Großbritannien,2020-03-06,-3.436,55.3781,163,8,2
+global,Ägypten,2020-03-06,30,26,15,1,0
+USA,"Orange County, CA",2020-03-06,-117.8531,33.7879,3,0,0
+global,Russland,2020-03-06,90,60,13,2,0
+global,Libanon,2020-03-06,35.8623,33.8547,22,1,0
+global,Irak,2020-03-06,44,33,40,0,3
+global,Vietnam,2020-03-06,108,16,16,16,0
+USA,"Kreuzfahrtschiff ""Diamond Princess""",2020-03-06,139.638,35.4437,45,0,0
+USA,"San Benito, CA",2020-03-06,-120.9876,36.5761,2,0,0
+global,Oman,2020-03-06,57,21,16,2,0
+global,Afghanistan,2020-03-06,65,33,1,0,0
+Deutschland,Repatriierte,2020-03-06,null,null,2,2,0
+global,Dänemark,2020-03-06,9.5018,56.2639,23,1,0
+Deutschland,Thüringen,2020-03-06,11.004142,50.894378,1,0,0
+global,Bahrain,2020-03-06,50.55,26.0275,60,4,0
+global,Taiwan,2020-03-06,121,23.7,45,12,1
+Deutschland,Schleswig-Holstein,2020-03-06,9.713017,54.1882542,7,0,0
+Deutschland,Sachsen,2020-03-06,13.349228,51.022904,1,0,0
+Kanada,Quebec,2020-03-06,-73.5491,52.9399,2,0,0
+USA,"Los Angeles, CA",2020-03-06,-118.2437,34.0522,13,0,0
+global,Kuwait,2020-03-06,47.75,29.5,58,0,0
+Deutschland,Saarland,2020-03-06,6.961042,49.41788,1,0,0
+Deutschland,Rheinland-Pfalz,2020-03-06,7.269307,50.104033,8,0,0
+Kanada,Alberta,2020-03-06,-116.5765,53.9333,1,0,0
+global,Algerien,2020-03-06,1.6596,28.0339,17,0,0
+USA,"Norfolk County, MA",2020-03-06,-71.1449,42.1767,2,0,0
+China,Ningxia,2020-03-06,106.1655,37.2692,75,71,0
+China,Peking (Beijing),2020-03-06,116.4142,40.1824,422,299,8
+Deutschland,Nordrhein-Westfalen,2020-03-06,7.385313,51.510157,281,0,0
+Deutschland,Niedersachsen,2020-03-06,9.944255,52.518203,18,0,0
+USA,"Grafton County, NH",2020-03-06,-71.826,43.9088,2,0,0
+Kanada,Ontario,2020-03-06,-85.3232,51.2538,25,3,0
+global,Kroatien,2020-03-06,15.2,45.1,11,0,0
+Deutschland,Mecklenburg-Vorpommern,2020-03-06,12.708563,53.810625,5,0,0
+Deutschland,Hessen,2020-03-06,9.217535,50.758489,15,0,0
+global,Schweiz,2020-03-06,8.2275,46.8182,214,3,1
+China,Innere Mongolei,2020-03-06,113.9448,44.0935,75,65,1
+Deutschland,Hamburg,2020-03-06,10.007046,53.576158,8,0,0
+USA,"King County, WA",2020-03-06,-122.3321,47.6062,58,1,12
+Deutschland,Bremen,2020-03-06,8.731851,53.029599,3,0,0
+global,Österreich,2020-03-06,14.5501,47.5162,55,0,0
+Deutschland,Brandenburg,2020-03-06,14.124409,52.073056,1,0,0
+China,Shanghai,2020-03-06,121.4491,31.202,342,306,3
+Deutschland,Berlin,2020-03-06,13.40732,52.52045,15,0,0
+global,Israel,2020-03-06,35,31,37,2,0
+Deutschland,Bayern,2020-03-06,11.658165,48.768814,79,14,0
+China,Xinjiang,2020-03-06,85.2401,41.1129,76,71,3
+Deutschland,Baden-Württemberg,2020-03-06,9.147687,48.606091,91,0,0
+global,Pakistan,2020-03-06,69.3451,30.3753,6,0,0
+global,Georgien,2020-03-06,43.3569,42.3154,4,0,0
+global,Togo,2020-03-06,0.8248,8.6195,1,0,0
+global,Griechenland,2020-03-06,21.8243,39.0742,45,0,0
+global,Tschechien,2020-03-06,15.473,49.8175,18,0,0
+global,Slowakei,2020-03-06,19.699,48.669,1,0,0
+global,Nordmazedonien,2020-03-06,21.7453,41.6086,3,0,0
+global,Norwegen,2020-03-06,8.4689,60.472,108,0,0
+global,Serbien,2020-03-06,21.0059,44.0165,1,0,0
+China,Hebei,2020-03-06,116.1306,39.549,318,305,6
+China,Jilin,2020-03-06,126.1923,43.6661,93,90,1
+global,Rumänien,2020-03-06,24.9668,45.9432,9,1,0
+global,Estland,2020-03-06,25.0136,58.5953,10,0,0
+global,Niederlande,2020-03-06,5.2913,52.1326,128,0,1
+global,Peru,2020-03-06,-75.0152,-9.19,1,0,0
+global,San Marino,2020-03-06,12.4578,43.9424,21,0,1
+China,Liaoning,2020-03-06,122.6085,41.2956,125,106,1
+global,Costa Rica,2020-03-06,-83.7534,9.7489,1,0,0
+USA,"Cook County, IL",2020-03-06,-87.6976,41.7377,5,2,0
+global,Belarus,2020-03-06,27.9534,53.7098,6,0,0
+global,Island,2020-03-06,-19.0208,64.9631,43,0,0
+global,Litauen,2020-03-06,23.8813,55.1694,1,0,0
+global,Kolumbien,2020-03-06,-74.2973,4.5709,1,0,0
+China,Fujian,2020-03-06,117.9874,26.0789,296,284,1
+global,Mexiko,2020-03-06,-102.5528,23.6345,6,1,0
+China,Hong Kong,2020-03-06,114.2,22.3,107,46,2
+global,Neuseeland,2020-03-06,174.886,-40.9006,4,0,0
+global,Nigeria,2020-03-06,8.6753,9.082,1,0,0
+Australien,Western Australia,2020-03-06,115.8605,-31.9505,3,0,1
+global,Irland,2020-03-06,-7.6921,53.1424,18,0,0
+USA,"Maricopa County, AZ",2020-03-06,-112.4291,33.2918,2,1,0
+global,Kamerun,2020-03-06,11.5021,3.848,1,0,0
+China,Gansu,2020-03-06,101.0583,37.8099,119,87,2
+global,Luxemburg,2020-03-06,6.1296,49.8153,2,0,0
+global,Bhutan,2020-03-06,90.4336,27.5142,1,0,0
+global,Monaco,2020-03-06,7.4167,43.7333,1,0,0
+global,Katar,2020-03-06,51.1839,25.3548,8,0,0
+global,Südafrika,2020-03-06,22.9375,-30.5595,1,0,0
+China,Guangxi,2020-03-06,108.7881,23.8298,252,217,2
+China,Shanxi,2020-03-06,112.2922,37.5777,133,126,0
+global,Ecuador,2020-03-06,-78.1834,-1.8312,13,0,0
+USA,"Westchester County, NY",2020-03-06,-73.7949,41.122,19,0,0
+global,Aserbaidschan,2020-03-06,47.5769,40.1431,6,0,0
+global,Armenien,2020-03-06,45.0382,40.0691,1,0,0
+global,Slowenien,2020-03-06,14.9955,46.1512,7,0,0
+global,Dominikanische Republik,2020-03-06,-70.1627,18.7357,2,0,0
+China,Tianjin,2020-03-06,117.323,39.3054,136,128,3
+global,Bosnien und Herzegowina,2020-03-06,17.6791,43.9159,2,0,0
+global,Indonesien,2020-03-06,113.9213,-0.7893,4,0,0
+global,Portugal,2020-03-06,-8.2245,39.3999,13,0,0
+global,Tunesien,2020-03-06,9,34,1,0,0
+global,Andorra,2020-03-06,1.5218,42.5063,1,0,0
+Australien,Tasmania,2020-03-06,145.9707,-41.4545,1,0,0
+China,Shaanxi,2020-03-06,108.8701,35.1917,245,226,1
+China,Guizhou,2020-03-06,106.8748,26.8154,146,114,2
+global,Lettland,2020-03-06,24.6032,56.8796,1,0,0
+global,Polen,2020-03-06,19.1451,51.9194,5,0,0
+global,Marokko,2020-03-06,-7.0926,31.7917,2,0,0
+global,Saudiarabien,2020-03-06,45,24,5,0,0
+global,Liechtenstein,2020-03-06,9.55,47.14,1,0,0
+USA,"Wake County, NC",2020-03-06,-78.5661,35.8032,1,0,0
+China,Hainan,2020-03-06,109.7453,19.1959,168,158,6
+global,Ungarn,2020-03-06,19.5033,47.1625,2,0,0
+global,Senegal,2020-03-06,-14.4524,14.4974,4,0,0
+global,Argentinien,2020-03-06,-63.6167,-38.4161,2,0,0
+global,Ukraine,2020-03-06,31.1656,48.3794,1,0,0
+global,Chile,2020-03-06,-71.543,-35.6751,4,0,0
+global,Jordanien,2020-03-06,36.51,31.24,1,0,0
+China,Yunnan,2020-03-06,101.487,24.974,174,170,2
+Deutschland,Sachsen,2020-03-07,13.349228,51.022904,2,0,0
+China,Yunnan,2020-03-07,101.487,24.974,174,170,2
+USA,"Bergen County, NJ",2020-03-07,-74.077,40.9263,4,0,0
+global,Jordanien,2020-03-07,36.51,31.24,1,0,0
+China,Shandong,2020-03-07,118.1498,36.3427,758,627,6
+global,Chile,2020-03-07,-71.543,-35.6751,4,0,0
+USA,"Placer County, CA",2020-03-07,-120.8039,39.0916,5,0,1
+USA,"Summit County, CO",2020-03-07,-106.064,39.5912,1,0,0
+global,Argentinien,2020-03-07,-63.6167,-38.4161,8,0,0
+global,Ukraine,2020-03-07,31.1656,48.3794,1,0,0
+USA,"Denver County, CO",2020-03-07,-104.9903,39.7392,2,0,0
+global,Senegal,2020-03-07,-14.4524,14.4974,4,0,0
+USA,"Suffolk County, MA",2020-03-07,-71.0589,42.3601,3,1,0
+global,Ungarn,2020-03-07,19.5033,47.1625,4,0,0
+China,Hainan,2020-03-07,109.7453,19.1959,168,158,6
+China,Jiangxi,2020-03-07,115.7221,27.614,935,916,1
+USA,"Wake County, NC",2020-03-07,-78.5661,35.8032,1,0,0
+global,Thailand,2020-03-07,101,15,50,31,1
+global,Japan,2020-03-07,138,36,461,76,6
+global,Saudiarabien,2020-03-07,45,24,5,0,0
+global,Liechtenstein,2020-03-07,9.55,47.14,1,0,0
+Kreuzfahrtschiffe und Sonstige,"Kreuzfahrtschiff ""Diamond Princess""",2020-03-07,139.638,35.4437,696,40,6
+global,Marokko,2020-03-07,-7.0926,31.7917,2,0,0
+global,Singapur,2020-03-07,103.8333,1.2833,138,78,0
+global,Nepal,2020-03-07,84.25,28.1667,1,1,0
+global,Lettland,2020-03-07,24.6032,56.8796,1,0,0
+USA,"Montgomery County, MD",2020-03-07,-77.2405,39.1547,3,0,0
+China,Anhui,2020-03-07,117.2264,31.8257,990,979,6
+China,Shaanxi,2020-03-07,108.8701,35.1917,245,226,1
+China,Guizhou,2020-03-07,106.8748,26.8154,146,115,2
+USA,"New York County, NY",2020-03-07,-74.006,40.7128,11,0,0
+Australien,Tasmania,2020-03-07,145.9707,-41.4545,1,0,0
+global,Polen,2020-03-07,19.1451,51.9194,5,0,0
+China,Hunan,2020-03-07,111.7088,27.6104,1018,960,4
+global,Andorra,2020-03-07,1.5218,42.5063,1,0,0
+global,Malaysia,2020-03-07,112.5,2.5,93,23,0
+USA,"Williamson County, TN",2020-03-07,-86.8622,35.9179,1,0,0
+global,Portugal,2020-03-07,-8.2245,39.3999,20,0,0
+global,Tunesien,2020-03-07,9,34,1,0,0
+China,Zhejiang,2020-03-07,120.0934,29.1832,1215,1154,1
+global,Indonesien,2020-03-07,113.9213,-0.7893,4,0,0
+USA,"Santa Rosa County, FL",2020-03-07,-86.9824,30.769,1,0,0
+USA,"San Mateo, CA",2020-03-07,-122.3255,37.563,2,0,0
+global,Bosnien und Herzegowina,2020-03-07,17.6791,43.9159,3,0,0
+China,Tianjin,2020-03-07,117.323,39.3054,136,128,3
+Kanada,British Columbia,2020-03-07,-123.1207,49.2827,21,4,0
+global,Dominikanische Republik,2020-03-07,-70.1627,18.7357,2,0,0
+USA,"Grant County, WA",2020-03-07,-119.3732,47.1981,1,0,0
+USA,"Fort Bend County, TX",2020-03-07,-95.8143,29.5693,3,0,0
+global,Armenien,2020-03-07,45.0382,40.0691,1,0,0
+global,Slowenien,2020-03-07,14.9955,46.1512,7,0,0
+China,Jiangsu,2020-03-07,119.455,32.9711,631,606,0
+global,Aserbaidschan,2020-03-07,47.5769,40.1431,9,0,0
+USA,"Clark County, NV",2020-03-07,-115.094,36.0796,1,0,0
+Australien,New South Wales,2020-03-07,151.2093,-33.8688,28,4,1
+global,Ecuador,2020-03-07,-78.1834,-1.8312,13,0,0
+USA,"Santa Clara County, CA",2020-03-07,-121.9552,37.3541,32,1,0
+China,Guangxi,2020-03-07,108.7881,23.8298,252,218,2
+China,Shanxi,2020-03-07,112.2922,37.5777,133,126,0
+China,Henan,2020-03-07,113.614,33.882,1272,1244,22
+Australien,Victoria,2020-03-07,144.9631,-37.8136,11,7,0
+USA,"Maricopa County, AZ",2020-03-07,-112.4291,33.2918,2,1,0
+China,Guangdong,2020-03-07,113.4244,23.3417,1352,1237,7
+global,Katar,2020-03-07,51.1839,25.3548,8,0,0
+global,Südafrika,2020-03-07,22.9375,-30.5595,1,0,0
+Australien,Queensland,2020-03-07,153.4,-28.0167,13,8,0
+global,Monaco,2020-03-07,7.4167,43.7333,1,0,0
+USA,"Yolo County, CA",2020-03-07,-121.9018,38.7646,1,0,0
+global,Frankreich,2020-03-07,2.2137,46.2276,949,12,11
+global,Luxemburg,2020-03-07,6.1296,49.8153,2,0,0
+global,Bhutan,2020-03-07,90.4336,27.5142,1,0,0
+USA,"Wayne County, PA",2020-03-07,-75.2479,41.6739,1,0,0
+USA,"Washoe County, NV",2020-03-07,-119.6035,40.5608,1,0,0
+China,Gansu,2020-03-07,101.0583,37.8099,120,87,2
+global,Südkorea,2020-03-07,128,36,7041,135,44
+global,Kamerun,2020-03-07,11.5021,3.848,1,0,0
+global,Irland,2020-03-07,-7.6921,53.1424,18,0,0
+USA,"Ramsey County, MN",2020-03-07,-93.0616,44.9964,1,0,0
+China,Chongqing,2020-03-07,107.874,30.0572,576,526,6
+Australien,Western Australia,2020-03-07,115.8605,-31.9505,3,0,1
+USA,"Nassau County, NY",2020-03-07,-73.5594,40.6546,4,0,0
+global,Kambodscha,2020-03-07,104.9167,11.55,1,1,0
+global,Nigeria,2020-03-07,8.6753,9.082,1,0,0
+USA,"Westchester County, NY",2020-03-07,-73.7949,41.122,57,0,0
+USA,"Middlesex County, MA",2020-03-07,-71.2874,42.4672,1,0,0
+global,Neuseeland,2020-03-07,174.886,-40.9006,5,0,0
+USA,"Marion County, IN",2020-03-07,-86.1752,39.8362,1,0,0
+USA,"Hillsborough, FL",2020-03-07,-82.3018,27.9904,2,0,0
+China,Hong Kong,2020-03-07,114.2,22.3,108,51,2
+USA,"Fayette County, KY",2020-03-07,-84.4803,38.0606,1,0,0
+USA,"Sonoma County, CA",2020-03-07,-122.9888,38.578,1,0,0
+global,Mexiko,2020-03-07,-102.5528,23.6345,6,1,0
+China,Fujian,2020-03-07,117.9874,26.0789,296,295,1
+USA,"Douglas County, NE",2020-03-07,-96.1951,41.3148,1,0,0
+global,Litauen,2020-03-07,23.8813,55.1694,1,0,0
+global,Kolumbien,2020-03-07,-74.2973,4.5709,1,0,0
+USA,"Delaware County, PA",2020-03-07,-75.3879,39.9078,1,0,0
+global,Island,2020-03-07,-19.0208,64.9631,50,0,0
+USA,"Chatham County, NC",2020-03-07,-79.1781,35.7211,1,0,0
+global,Iran,2020-03-07,53,32,5823,1669,145
+global,Belarus,2020-03-07,27.9534,53.7098,6,0,0
+USA,"Cook County, IL",2020-03-07,-87.6976,41.7377,6,2,0
+global,Costa Rica,2020-03-07,-83.7534,9.7489,1,0,0
+China,Liaoning,2020-03-07,122.6085,41.2956,125,107,1
+USA,"Providence County, RI",2020-03-07,-71.4774,41.8882,3,0,0
+China,Hubei (Wuhan),2020-03-07,112.2707,30.9756,67666,43500,2959
+global,San Marino,2020-03-07,12.4578,43.9424,23,0,1
+global,Sri Lanka,2020-03-07,81,7,1,1,0
+USA,"Douglas County, CO",2020-03-07,-104.9389,39.2587,3,0,0
+global,Niederlande,2020-03-07,5.2913,52.1326,188,0,1
+global,Peru,2020-03-07,-75.0152,-9.19,1,0,0
+USA,"Tulsa County, OK",2020-03-07,-95.941,36.1593,1,0,0
+global,Estland,2020-03-07,25.0136,58.5953,10,0,0
+USA,"Pierce County, WA",2020-03-07,-122.1295,47.0676,1,0,0
+USA,"Madera County, CA",2020-03-07,-119.6963,37.2519,1,0,0
+global,Rumänien,2020-03-07,24.9668,45.9432,9,3,0
+USA,"Klamath County, OR",2020-03-07,-121.6142,42.6953,1,0,0
+China,Hebei,2020-03-07,116.1306,39.549,318,307,6
+China,Jilin,2020-03-07,126.1923,43.6661,93,90,1
+USA,"Kershaw County, SC",2020-03-07,-80.5883,34.3672,1,0,0
+USA,"Jefferson County, WA",2020-03-07,-123.304,47.7425,1,0,0
+global,Norwegen,2020-03-07,8.4689,60.472,147,0,0
+global,Serbien,2020-03-07,21.0059,44.0165,1,0,0
+USA,"Jackson County, OR",2020-03-07,-122.7647,42.3345,1,0,0
+global,Nordmazedonien,2020-03-07,21.7453,41.6086,3,0,0
+USA,"Honolulu County, HI",2020-03-07,-157.8584,21.307,1,0,0
+USA,"El Paso County, CO",2020-03-07,-104.4723,38.9108,1,0,0
+global,Slowakei,2020-03-07,19.699,48.669,1,0,0
+global,Tschechien,2020-03-07,15.473,49.8175,19,0,0
+USA,"Davis County, UT",2020-03-07,-112.0953,40.9629,1,0,0
+global,Griechenland,2020-03-07,21.8243,39.0742,46,0,0
+USA,"Cobb County, GA",2020-03-07,-84.5641,33.8999,1,0,0
+USA,"Clark County, WA",2020-03-07,-122.5194,45.7466,1,0,0
+global,Georgien,2020-03-07,43.3569,42.3154,4,0,0
+global,Togo,2020-03-07,0.8248,8.6195,1,0,0
+USA,"Charleston County, SC",2020-03-07,-79.7848,32.7957,1,0,0
+global,Brasilien,2020-03-07,-51.9253,-14.235,13,0,0
+USA,"Saratoga County, NY",2020-03-07,-73.936,43.0324,2,0,0
+USA,"Rockland County, NY",2020-03-07,-73.983,41.1489,2,0,0
+global,Pakistan,2020-03-07,69.3451,30.3753,6,0,0
+USA,"Pinal County, AZ",2020-03-07,-111.2845,32.8162,2,0,0
+global,Französisch-Guyana,2020-03-07,-53.1258,3.9339,5,0,0
+USA,"Lee County, FL",2020-03-07,-81.9535,26.663,2,0,0
+China,Xinjiang,2020-03-07,85.2401,41.1129,76,72,3
+USA,"Broward County, FL",2020-03-07,-80.3659,26.1901,2,0,0
+USA,"Alameda County, CA",2020-03-07,-121.7195,37.6017,2,0,0
+China,Sichuan,2020-03-07,102.7103,30.6171,539,454,3
+global,Israel,2020-03-07,35,31,43,2,0
+USA,"Polk County, GA",2020-03-07,-85.1479,34.0132,1,0,0
+China,Shanghai,2020-03-07,121.4491,31.202,342,313,3
+global,Malta,2020-03-07,14.3754,35.9375,3,0,0
+USA,"Umatilla, OR",2020-03-07,-118.7606,45.775,1,0,0
+global,Österreich,2020-03-07,14.5501,47.5162,79,0,0
+Großbritannien,Gibraltar,2020-03-07,-5.3536,36.1408,1,0,0
+USA,"King County, WA",2020-03-07,-122.3321,47.6062,71,1,15
+global,Martinique,2020-03-07,-61.0242,14.6415,2,0,0
+USA,"Fulton County, GA",2020-03-07,-84.3963,33.8034,3,0,0
+China,Innere Mongolei,2020-03-07,113.9448,44.0935,75,67,1
+global,Finnland,2020-03-07,26,64,15,1,0
+USA,"Harris County, TX",2020-03-07,-95.3103,29.7752,5,0,0
+USA,"Norfolk County, MA",2020-03-07,-71.1449,42.1767,2,0,0
+Frankreich,Saint Barthélemy,2020-03-07,-62.8333,17.9,3,0,0
+global,Schweiz,2020-03-07,8.2275,46.8182,268,3,1
+global,Vatikan,2020-03-07,12.4534,41.9029,1,0,0
+USA,"San Francisco County, CA",2020-03-07,-122.4194,37.7749,9,0,0
+global,Vereinigte Arabische Emirate,2020-03-07,54,24,45,7,0
+China,Tibet,2020-03-07,88.0924,31.6927,1,1,0
+global,Kroatien,2020-03-07,15.2,45.1,12,0,0
+USA,"Washington County, OR",2020-03-07,-123.1386,45.547,3,0,0
+global,Philippinen,2020-03-07,122,13,6,1,1
+China,Peking (Beijing),2020-03-07,116.4142,40.1824,426,303,8
+Kanada,Ontario,2020-03-07,-85.3232,51.2538,28,4,0
+China,Ningxia,2020-03-07,106.1655,37.2692,75,71,0
+China,Heilongjiang,2020-03-07,127.7615,47.862,481,403,13
+global,Indien,2020-03-07,78,21,34,3,0
+USA,"Contra Costa County, CA",2020-03-07,-121.9018,37.8534,3,0,0
+global,Algerien,2020-03-07,1.6596,28.0339,17,0,0
+USA,"Snohomish County, WA",2020-03-07,-121.8339,48.033,27,0,1
+Kanada,Alberta,2020-03-07,-116.5765,53.9333,2,0,0
+Dänemark,Färöer,2020-03-07,-6.9118,61.8926,1,0,0
+global,Italien,2020-03-07,12,43,5883,589,233
+global,Kuwait,2020-03-07,47.75,29.5,61,0,0
+USA,"Los Angeles, CA",2020-03-07,-118.2437,34.0522,14,0,0
+Kanada,Quebec,2020-03-07,-73.5491,52.9399,3,0,0
+USA,"Grafton County, NH",2020-03-07,-71.826,43.9088,2,0,0
+USA,"Humboldt County, CA",2020-03-07,-123.8695,40.745,1,0,0
+global,Schweden,2020-03-07,16,63,161,0,0
+global,Taiwan,2020-03-07,121,23.7,45,12,1
+China,Macau,2020-03-07,113.55,22.1667,10,10,0
+global,Bahrain,2020-03-07,50.55,26.0275,85,4,0
+Deutschland,Repatriierte,2020-03-07,null,null,2,2,0
+global,Dänemark,2020-03-07,9.5018,56.2639,23,1,0
+Deutschland,Thüringen,2020-03-07,11.004142,50.894378,1,0,0
+USA,"Sacramento County, CA",2020-03-07,-121.3542,38.4747,2,0,0
+global,Afghanistan,2020-03-07,65,33,1,0,0
+global,Spanien,2020-03-07,-4,40,500,30,10
+Deutschland,Baden-Württemberg,2020-03-07,9.147687,48.606091,116,0,0
+Deutschland,Bayern,2020-03-07,11.658165,48.768814,117,14,0
+Deutschland,Schleswig-Holstein,2020-03-07,9.713017,54.1882542,8,0,0
+global,Oman,2020-03-07,57,21,16,2,0
+USA,"San Benito, CA",2020-03-07,-120.9876,36.5761,2,0,0
+USA,"Kreuzfahrtschiff ""Diamond Princess""",2020-03-07,139.638,35.4437,45,0,0
+global,Vietnam,2020-03-07,108,16,18,16,0
+Australien,South Australia,2020-03-07,138.6007,-34.9285,7,2,0
+Deutschland,Saarland,2020-03-07,6.961042,49.41788,2,0,0
+Deutschland,Berlin,2020-03-07,13.40732,52.52045,24,0,0
+Deutschland,Brandenburg,2020-03-07,14.124409,52.073056,2,0,0
+Deutschland,Rheinland-Pfalz,2020-03-07,7.269307,50.104033,10,0,0
+global,Irak,2020-03-07,44,33,54,0,4
+China,Qinghai,2020-03-07,95.9956,35.7452,18,18,0
+Deutschland,Bremen,2020-03-07,8.731851,53.029599,4,0,0
+Deutschland,Hamburg,2020-03-07,10.007046,53.576158,12,0,0
+USA,"San Diego County, CA",2020-03-07,-117.1611,32.7157,3,1,0
+global,Libanon,2020-03-07,35.8623,33.8547,22,1,0
+USA,"Kreuzfahrtschiff ""Grand Princess""",2020-03-07,-122.6655,37.6489,21,0,0
+global,Belgien,2020-03-07,4,50.8333,169,1,0
+global,Russland,2020-03-07,90,60,13,2,0
+Deutschland,Nordrhein-Westfalen,2020-03-07,7.385313,51.510157,346,0,0
+USA,"Orange County, CA",2020-03-07,-117.8531,33.7879,3,0,0
+Deutschland,Niedersachsen,2020-03-07,9.944255,52.518203,19,0,0
+Deutschland,Hessen,2020-03-07,9.217535,50.758489,16,0,0
+Deutschland,Mecklenburg-Vorpommern,2020-03-07,12.708563,53.810625,5,0,0
+global,Großbritannien,2020-03-07,-3.436,55.3781,206,18,2
+global,Ägypten,2020-03-07,30,26,15,1,0
+global,Serbien,2020-03-08,21.0059,44.0165,1,0,0
+global,Ägypten,2020-03-08,30,26,49,1,1
+global,Russland,2020-03-08,90,60,17,3,0
+global,Belgien,2020-03-08,4,50.8333,200,1,0
+USA,"Kreuzfahrtschiff ""Grand Princess""",2020-03-08,-122.6655,37.6489,21,0,0
+USA,"San Diego County, CA",2020-03-08,-117.1611,32.7157,3,1,0
+global,Libanon,2020-03-08,35.8623,33.8547,32,1,0
+USA,"Kreuzfahrtschiff ""Diamond Princess""",2020-03-08,139.638,35.4437,45,0,0
+China,Qinghai,2020-03-08,95.9956,35.7452,18,18,0
+global,Irak,2020-03-08,44,33,60,0,6
+USA,"Orange County, CA",2020-03-08,-117.8531,33.7879,3,0,0
+Australien,South Australia,2020-03-08,138.6007,-34.9285,7,2,0
+global,Vietnam,2020-03-08,108,16,30,16,0
+USA,"Sacramento County, CA",2020-03-08,-121.3542,38.4747,2,0,0
+China,Yunnan,2020-03-08,101.487,24.974,174,170,2
+global,Oman,2020-03-08,57,21,16,2,0
+global,Spanien,2020-03-08,-4,40,673,30,17
+USA,"San Benito, CA",2020-03-08,-120.9876,36.5761,2,0,0
+global,Afghanistan,2020-03-08,65,33,4,0,0
+Kanada,Quebec,2020-03-08,-73.5491,52.9399,4,0,0
+global,Dänemark,2020-03-08,9.5018,56.2639,35,1,0
+USA,"Humboldt County, CA",2020-03-08,-123.8695,40.745,1,0,0
+global,Taiwan,2020-03-08,121,23.7,45,13,1
+China,Macau,2020-03-08,113.55,22.1667,10,10,0
+global,Schweden,2020-03-08,16,63,203,0,0
+USA,"Grafton County, NH",2020-03-08,-71.826,43.9088,3,0,0
+global,Moldawien,2020-03-08,28.3699,47.4116,1,0,0
+global,Bahrain,2020-03-08,50.55,26.0275,85,4,0
+Deutschland,Baden-Württemberg,2020-03-08,9.147687,48.606091,182,0,0
+Deutschland,Bayern,2020-03-08,11.658165,48.768814,148,14,0
+global,Italien,2020-03-08,12,43,7375,622,366
+global,Kuwait,2020-03-08,47.75,29.5,64,1,0
+USA,"Snohomish County, WA",2020-03-08,-121.8339,48.033,31,0,1
+Kanada,Alberta,2020-03-08,-116.5765,53.9333,4,0,0
+Dänemark,Färöer,2020-03-08,-6.9118,61.8926,2,0,0
+USA,"Los Angeles, CA",2020-03-08,-118.2437,34.0522,14,0,0
+Deutschland,Berlin,2020-03-08,13.40732,52.52045,28,0,0
+Deutschland,Brandenburg,2020-03-08,14.124409,52.073056,2,0,0
+USA,"Contra Costa County, CA",2020-03-08,-121.9018,37.8534,9,0,0
+global,Algerien,2020-03-08,1.6596,28.0339,19,0,0
+China,Heilongjiang,2020-03-08,127.7615,47.862,481,412,13
+global,Indien,2020-03-08,78,21,39,3,0
+Kanada,Ontario,2020-03-08,-85.3232,51.2538,29,4,0
+China,Ningxia,2020-03-08,106.1655,37.2692,75,71,0
+Deutschland,Bremen,2020-03-08,8.731851,53.029599,4,0,0
+Deutschland,Hamburg,2020-03-08,10.007046,53.576158,13,0,0
+global,Philippinen,2020-03-08,122,13,10,1,1
+China,Peking (Beijing),2020-03-08,116.4142,40.1824,428,308,8
+USA,"Washington County, OR",2020-03-08,-123.1386,45.547,8,0,0
+Deutschland,Hessen,2020-03-08,9.217535,50.758489,17,0,0
+Deutschland,Mecklenburg-Vorpommern,2020-03-08,12.708563,53.810625,7,0,0
+global,Vereinigte Arabische Emirate,2020-03-08,54,24,45,7,0
+global,Paraguay,2020-03-08,-58.4438,-23.4425,1,0,0
+global,Kroatien,2020-03-08,15.2,45.1,12,0,0
+China,Tibet,2020-03-08,88.0924,31.6927,1,1,0
+global,Bangladesch,2020-03-08,90.3563,23.685,3,0,0
+USA,"San Francisco County, CA",2020-03-08,-122.4194,37.7749,9,0,0
+global,Malediven,2020-03-08,73.2207,3.2028,4,0,0
+global,Bulgarien,2020-03-08,25.4858,42.7339,4,0,0
+Deutschland,Niedersachsen,2020-03-08,9.944255,52.518203,21,0,0
+global,Vatikan,2020-03-08,12.4534,41.9029,1,0,0
+global,Schweiz,2020-03-08,8.2275,46.8182,337,3,2
+Frankreich,Saint Barthélemy,2020-03-08,-62.8333,17.9,3,0,0
+USA,"Fulton County, GA",2020-03-08,-84.3963,33.8034,3,0,0
+Deutschland,Nordrhein-Westfalen,2020-03-08,7.385313,51.510157,392,0,0
+USA,"Harris County, TX",2020-03-08,-95.3103,29.7752,5,0,0
+USA,"Norfolk County, MA",2020-03-08,-71.1449,42.1767,6,0,0
+global,Finnland,2020-03-08,26,64,23,1,0
+China,Innere Mongolei,2020-03-08,113.9448,44.0935,75,70,1
+global,Martinique,2020-03-08,-61.0242,14.6415,2,0,0
+global,Malta,2020-03-08,14.3754,35.9375,3,0,0
+Großbritannien,Gibraltar,2020-03-08,-5.3536,36.1408,1,0,0
+USA,"Umatilla, OR",2020-03-08,-118.7606,45.775,1,0,0
+global,Österreich,2020-03-08,14.5501,47.5162,104,0,0
+USA,"Bennington County, VT",2020-03-08,-73.135,43.0279,1,0,0
+USA,"Berkshire County, MA",2020-03-08,-73.1822,42.3118,1,0,0
+USA,"Davidson County, TN",2020-03-08,-86.822,36.1343,1,0,0
+USA,"Douglas County, OR",2020-03-08,-123.2492,43.1261,1,0,0
+USA,"Fresno County, CA",2020-03-08,-119.2321,36.9859,1,0,0
+USA,"Harford County, MD",2020-03-08,-76.3637,39.5839,1,0,0
+USA,"Hendricks County, IN",2020-03-08,-86.5401,39.8065,1,0,0
+USA,"Hudson County, NJ",2020-03-08,-74.0535,40.7453,1,0,0
+USA,"Johnson County, KS",2020-03-08,-94.8521,38.8454,1,0,0
+USA,"Kittitas County, WA",2020-03-08,-120.9319,47.175,1,0,0
+USA,"Manatee County, FL",2020-03-08,-82.3452,27.4799,1,0,0
+USA,"Marion County, OR",2020-03-08,-122.5927,44.8446,1,0,0
+USA,"Okaloosa County, FL",2020-03-08,-86.6611,30.5773,1,0,0
+China,Sichuan,2020-03-08,102.7103,30.6171,539,464,3
+China,Shanghai,2020-03-08,121.4491,31.202,342,314,3
+USA,"Polk County, GA",2020-03-08,-85.1479,34.0132,1,0,0
+USA,"Riverside County, CA",2020-03-08,-117.3961,33.9533,1,0,0
+USA,"Shelby County, TN",2020-03-08,-89.9253,35.1269,1,0,0
+USA,"St. Louis County, MO",2020-03-08,-90.4125,38.6103,1,0,0
+USA,"Suffolk County, NY",2020-03-08,-72.6151,40.9849,1,0,0
+USA,"Ulster County, NY",2020-03-08,-74.3118,41.8586,1,0,0
+USA,"Volusia County, FL",2020-03-08,-81.0755,29.028,1,0,0
+USA,"Fairfax County, VA",2020-03-08,-77.2405,38.9085,2,0,0
+USA,"Rockingham County, NH",2020-03-08,-71.0498,42.9931,1,0,0
+USA,"Washington, D.C.",2020-03-08,-77.0369,38.9072,2,0,0
+USA,"Montgomery County, PA",2020-03-08,-75.3879,40.229,4,0,0
+Deutschland,Rheinland-Pfalz,2020-03-08,7.269307,50.104033,15,0,0
+Deutschland,Saarland,2020-03-08,6.961042,49.41788,4,0,0
+global,Sri Lanka,2020-03-08,81,7,1,1,0
+global,Israel,2020-03-08,35,31,61,2,0
+USA,"King County, WA",2020-03-08,-122.3321,47.6062,83,1,17
+USA,"Alameda County, CA",2020-03-08,-121.7195,37.6017,2,0,0
+China,Xinjiang,2020-03-08,85.2401,41.1129,76,73,3
+USA,"Broward County, FL",2020-03-08,-80.3659,26.1901,2,0,0
+global,Französisch-Guyana,2020-03-08,-53.1258,3.9339,5,0,0
+USA,"Lee County, FL",2020-03-08,-81.9535,26.663,2,0,1
+global,Togo,2020-03-08,0.8248,8.6195,1,0,0
+USA,"Pinal County, AZ",2020-03-08,-111.2845,32.8162,2,0,0
+global,Pakistan,2020-03-08,69.3451,30.3753,6,1,0
+USA,"Rockland County, NY",2020-03-08,-73.983,41.1489,2,0,0
+China,Shandong,2020-03-08,118.1498,36.3427,758,642,6
+USA,"Saratoga County, NY",2020-03-08,-73.936,43.0324,2,0,0
+global,Brasilien,2020-03-08,-51.9253,-14.235,20,0,0
+USA,"Charleston County, SC",2020-03-08,-79.7848,32.7957,1,0,0
+global,Georgien,2020-03-08,43.3569,42.3154,13,0,0
+USA,"Clark County, WA",2020-03-08,-122.5194,45.7466,1,0,0
+global,Slowakei,2020-03-08,19.699,48.669,3,0,0
+USA,"Cobb County, GA",2020-03-08,-84.5641,33.8999,1,0,0
+global,Tschechien,2020-03-08,15.473,49.8175,31,0,0
+USA,"Davis County, UT",2020-03-08,-112.0953,40.9629,1,0,0
+global,Griechenland,2020-03-08,21.8243,39.0742,73,0,0
+USA,"El Paso County, CO",2020-03-08,-104.4723,38.9108,1,0,0
+global,Großbritannien,2020-03-08,-3.436,55.3781,273,18,3
+USA,"Honolulu County, HI",2020-03-08,-157.8584,21.307,1,0,0
+global,Nordmazedonien,2020-03-08,21.7453,41.6086,3,0,0
+USA,"Jackson County, OR",2020-03-08,-122.7647,42.3345,2,0,0
+global,Norwegen,2020-03-08,8.4689,60.472,176,0,0
+USA,"Jefferson County, WA",2020-03-08,-123.304,47.7425,1,0,0
+China,Jilin,2020-03-08,126.1923,43.6661,93,90,1
+USA,"Kershaw County, SC",2020-03-08,-80.5883,34.3672,1,0,0
+China,Hebei,2020-03-08,116.1306,39.549,318,307,6
+USA,"Klamath County, OR",2020-03-08,-121.6142,42.6953,1,0,0
+global,Rumänien,2020-03-08,24.9668,45.9432,15,3,0
+USA,"Madera County, CA",2020-03-08,-119.6963,37.2519,1,0,0
+global,Peru,2020-03-08,-75.0152,-9.19,6,0,0
+USA,"Pierce County, WA",2020-03-08,-122.1295,47.0676,4,0,0
+global,Estland,2020-03-08,25.0136,58.5953,10,0,0
+USA,"Tulsa County, OK",2020-03-08,-95.941,36.1593,1,0,0
+global,Niederlande,2020-03-08,5.2913,52.1326,265,0,3
+USA,"Douglas County, CO",2020-03-08,-104.9389,39.2587,3,0,0
+global,Costa Rica,2020-03-08,-83.7534,9.7489,5,0,0
+global,San Marino,2020-03-08,12.4578,43.9424,36,0,1
+Deutschland,Sachsen,2020-03-08,13.349228,51.022904,4,0,0
+Deutschland,Schleswig-Holstein,2020-03-08,9.713017,54.1882542,8,0,0
+global,Kambodscha,2020-03-08,104.9167,11.55,2,1,0
+China,Hubei (Wuhan),2020-03-08,112.2707,30.9756,67707,45235,2986
+China,Liaoning,2020-03-08,122.6085,41.2956,125,109,1
+USA,"Providence County, RI",2020-03-08,-71.4774,41.8882,3,0,0
+global,Belarus,2020-03-08,27.9534,53.7098,6,0,0
+global,Kolumbien,2020-03-08,-74.2973,4.5709,1,0,0
+USA,"Chatham County, NC",2020-03-08,-79.1781,35.7211,1,0,0
+global,Iran,2020-03-08,53,32,6566,2134,194
+global,Island,2020-03-08,-19.0208,64.9631,50,0,0
+USA,"Delaware County, PA",2020-03-08,-75.3879,39.9078,1,0,0
+USA,"Sonoma County, CA",2020-03-08,-122.9888,38.578,1,0,0
+global,Litauen,2020-03-08,23.8813,55.1694,1,0,0
+USA,"Douglas County, NE",2020-03-08,-96.1951,41.3148,1,0,0
+global,Mexiko,2020-03-08,-102.5528,23.6345,7,1,0
+China,Hong Kong,2020-03-08,114.2,22.3,114,58,3
+USA,"Fayette County, KY",2020-03-08,-84.4803,38.0606,1,0,0
+China,Fujian,2020-03-08,117.9874,26.0789,296,295,1
+USA,"Westchester County, NY",2020-03-08,-73.7949,41.122,83,0,0
+USA,"Marion County, IN",2020-03-08,-86.1752,39.8362,1,0,0
+USA,"Hillsborough, FL",2020-03-08,-82.3018,27.9904,2,0,0
+global,Neuseeland,2020-03-08,174.886,-40.9006,5,0,0
+USA,"Middlesex County, MA",2020-03-08,-71.2874,42.4672,7,0,0
+global,Nigeria,2020-03-08,8.6753,9.082,1,0,0
+China,Chongqing,2020-03-08,107.874,30.0572,576,527,6
+USA,"Cook County, IL",2020-03-08,-87.6976,41.7377,7,2,0
+USA,"Nassau County, NY",2020-03-08,-73.5594,40.6546,5,0,0
+Australien,Western Australia,2020-03-08,115.8605,-31.9505,3,0,1
+global,Kamerun,2020-03-08,11.5021,3.848,2,0,0
+USA,"Ramsey County, MN",2020-03-08,-93.0616,44.9964,1,0,0
+China,Gansu,2020-03-08,101.0583,37.8099,124,87,2
+global,Bhutan,2020-03-08,90.4336,27.5142,1,0,0
+USA,"Washoe County, NV",2020-03-08,-119.6035,40.5608,2,0,0
+global,Südkorea,2020-03-08,128,36,7314,118,50
+global,Irland,2020-03-08,-7.6921,53.1424,19,0,0
+USA,"Wayne County, PA",2020-03-08,-75.2479,41.6739,1,0,0
+global,Luxemburg,2020-03-08,6.1296,49.8153,3,0,0
+global,Südafrika,2020-03-08,22.9375,-30.5595,3,0,0
+USA,"Yolo County, CA",2020-03-08,-121.9018,38.7646,1,0,0
+global,Frankreich,2020-03-08,2.2137,46.2276,1126,12,19
+Deutschland,Thüringen,2020-03-08,11.004142,50.894378,2,0,0
+Deutschland,Repatriierte,2020-03-08,null,null,2,2,0
+Australien,Queensland,2020-03-08,153.4,-28.0167,15,8,0
+global,Monaco,2020-03-08,7.4167,43.7333,1,0,0
+global,Katar,2020-03-08,51.1839,25.3548,15,0,0
+Australien,Victoria,2020-03-08,144.9631,-37.8136,11,7,0
+USA,"Maricopa County, AZ",2020-03-08,-112.4291,33.2918,2,1,0
+China,Guangdong,2020-03-08,113.4244,23.3417,1352,1256,7
+Australien,New South Wales,2020-03-08,151.2093,-33.8688,38,4,2
+China,Shanxi,2020-03-08,112.2922,37.5777,133,126,0
+China,Guangxi,2020-03-08,108.7881,23.8298,252,223,2
+USA,"Santa Clara County, CA",2020-03-08,-121.9552,37.3541,38,1,0
+global,Ecuador,2020-03-08,-78.1834,-1.8312,14,0,0
+China,Jiangsu,2020-03-08,119.455,32.9711,631,612,0
+global,Slowenien,2020-03-08,14.9955,46.1512,16,0,0
+USA,"Clark County, NV",2020-03-08,-115.094,36.0796,2,0,0
+global,Aserbaidschan,2020-03-08,47.5769,40.1431,9,0,0
+China,Henan,2020-03-08,113.614,33.882,1272,1247,22
+global,Armenien,2020-03-08,45.0382,40.0691,1,0,0
+USA,"Fort Bend County, TX",2020-03-08,-95.8143,29.5693,6,0,0
+Kanada,British Columbia,2020-03-08,-123.1207,49.2827,27,4,0
+USA,"San Mateo, CA",2020-03-08,-122.3255,37.563,2,0,0
+global,Bosnien und Herzegowina,2020-03-08,17.6791,43.9159,3,0,0
+USA,"Grant County, WA",2020-03-08,-119.3732,47.1981,1,0,0
+China,Tianjin,2020-03-08,117.323,39.3054,136,128,3
+global,Dominikanische Republik,2020-03-08,-70.1627,18.7357,5,0,0
+global,Tunesien,2020-03-08,9,34,2,0,0
+USA,"Santa Rosa County, FL",2020-03-08,-86.9824,30.769,1,0,1
+global,Indonesien,2020-03-08,113.9213,-0.7893,6,0,0
+China,Zhejiang,2020-03-08,120.0934,29.1832,1215,1161,1
+global,Portugal,2020-03-08,-8.2245,39.3999,30,0,0
+USA,"Williamson County, TN",2020-03-08,-86.8622,35.9179,1,0,0
+global,Malaysia,2020-03-08,112.5,2.5,99,24,0
+global,Polen,2020-03-08,19.1451,51.9194,11,0,0
+global,Andorra,2020-03-08,1.5218,42.5063,1,0,0
+global,Nepal,2020-03-08,84.25,28.1667,1,1,0
+China,Hunan,2020-03-08,111.7088,27.6104,1018,968,4
+China,Guizhou,2020-03-08,106.8748,26.8154,146,117,2
+USA,"New York County, NY",2020-03-08,-74.006,40.7128,12,0,0
+Australien,Tasmania,2020-03-08,145.9707,-41.4545,2,0,0
+China,Shaanxi,2020-03-08,108.8701,35.1917,245,227,1
+USA,"Montgomery County, MD",2020-03-08,-77.2405,39.1547,4,0,0
+global,Lettland,2020-03-08,24.6032,56.8796,2,0,0
+Kreuzfahrtschiffe und Sonstige,"Kreuzfahrtschiff ""Diamond Princess""",2020-03-08,139.638,35.4437,696,40,6
+global,Singapur,2020-03-08,103.8333,1.2833,150,78,0
+global,Liechtenstein,2020-03-08,9.55,47.14,1,0,0
+global,Marokko,2020-03-08,-7.0926,31.7917,2,0,0
+global,Japan,2020-03-08,138,36,502,76,6
+global,Saudiarabien,2020-03-08,45,24,11,0,0
+China,Anhui,2020-03-08,117.2264,31.8257,990,984,6
+global,Thailand,2020-03-08,101,15,50,31,1
+global,Ungarn,2020-03-08,19.5033,47.1625,7,0,0
+China,Hainan,2020-03-08,109.7453,19.1959,168,159,6
+global,Ukraine,2020-03-08,31.1656,48.3794,1,0,0
+USA,"Suffolk County, MA",2020-03-08,-71.0589,42.3601,8,1,0
+China,Jiangxi,2020-03-08,115.7221,27.614,935,919,1
+global,Senegal,2020-03-08,-14.4524,14.4974,4,1,0
+USA,"Denver County, CO",2020-03-08,-104.9903,39.7392,2,0,0
+USA,"Placer County, CA",2020-03-08,-120.8039,39.0916,5,0,1
+global,Argentinien,2020-03-08,-63.6167,-38.4161,12,0,1
+USA,"Summit County, CO",2020-03-08,-106.064,39.5912,1,0,0
+global,Jordanien,2020-03-08,36.51,31.24,1,0,0
+global,Chile,2020-03-08,-71.543,-35.6751,8,0,0
+USA,"Wake County, NC",2020-03-08,-78.5661,35.8032,1,0,0
+USA,"Bergen County, NJ",2020-03-08,-74.077,40.9263,4,0,0
+global,Togo,2020-03-09,0.8248,8.6195,1,0,0
+global,Frankreich,2020-03-09,2.2137,46.2276,1209,12,19
+Deutschland,Brandenburg,2020-03-09,14.124409,52.073056,6,0,0
+China,Jiangsu,2020-03-09,119.455,32.9711,631,621,0
+Deutschland,Berlin,2020-03-09,13.40732,52.52045,40,0,0
+USA,"Hillsborough, FL",2020-03-09,-82.3018,27.9904,2,0,0
+China,Guangxi,2020-03-09,108.7881,23.8298,252,230,2
+Großbritannien,Gibraltar,2020-03-09,-5.3536,36.1408,1,0,0
+global,Nepal,2020-03-09,84.25,28.1667,1,1,0
+global,Ungarn,2020-03-09,19.5033,47.1625,9,0,0
+global,Tschechien,2020-03-09,15.473,49.8175,31,0,0
+USA,"Bennington County, VT",2020-03-09,-73.135,43.0279,1,0,0
+USA,"Carver County, MN",2020-03-09,-93.7842,44.8254,1,0,0
+USA,"Charlotte County, FL",2020-03-09,-81.9098,26.8946,1,0,0
+USA,"Cherokee County, GA",2020-03-09,-84.4803,34.2515,1,0,0
+USA,"Collin County, TX",2020-03-09,-96.493,33.1795,1,0,0
+USA,"Jefferson County, KY",2020-03-09,-85.6435,38.1938,1,0,0
+USA,"Jefferson Parish, LA",2020-03-09,-90.1121,29.6499,1,0,0
+USA,"Shasta County, CA",2020-03-09,-121.8474,40.7909,1,0,0
+USA,"Spartanburg County, SC",2020-03-09,-81.9535,34.8606,1,0,0
+USA,"Harrison County, KY",2020-03-09,-84.3542,38.4333,2,0,0
+USA,"Johnson County, IA",2020-03-09,-91.5984,41.6699,3,0,0
+USA,"Sacramento County, CA",2020-03-09,-121.3542,38.4747,2,0,0
+USA,"Berkshire County, MA",2020-03-09,-73.1822,42.3118,1,0,0
+global,Französisch-Guyana,2020-03-09,-53.1258,3.9339,5,0,0
+USA,"Davidson County, TN",2020-03-09,-86.822,36.1343,1,0,0
+USA,"King County, WA",2020-03-09,-122.3321,47.6062,83,1,17
+USA,"Douglas County, OR",2020-03-09,-123.2492,43.1261,1,0,0
+global,Irak,2020-03-09,44,33,60,3,6
+USA,"Fresno County, CA",2020-03-09,-119.2321,36.9859,1,0,0
+Deutschland,Nordrhein-Westfalen,2020-03-09,7.385313,51.510157,484,0,0
+USA,"Harford County, MD",2020-03-09,-76.3637,39.5839,1,0,0
+Australien,Tasmania,2020-03-09,145.9707,-41.4545,2,0,0
+USA,"Hendricks County, IN",2020-03-09,-86.5401,39.8065,2,0,0
+global,Malta,2020-03-09,14.3754,35.9375,3,0,0
+USA,"Hudson County, NJ",2020-03-09,-74.0535,40.7453,1,0,0
+Deutschland,Niedersachsen,2020-03-09,9.944255,52.518203,33,0,0
+USA,"Johnson County, KS",2020-03-09,-94.8521,38.8454,1,0,0
+global,Georgien,2020-03-09,43.3569,42.3154,15,0,0
+USA,"Kittitas County, WA",2020-03-09,-120.9319,47.175,1,0,0
+global,Belarus,2020-03-09,27.9534,53.7098,6,1,0
+USA,"Manatee County, FL",2020-03-09,-82.3452,27.4799,2,0,0
+global,Nigeria,2020-03-09,8.6753,9.082,2,0,0
+USA,"Marion County, OR",2020-03-09,-122.5927,44.8446,1,0,0
+China,Chongqing,2020-03-09,107.874,30.0572,576,542,6
+USA,"Okaloosa County, FL",2020-03-09,-86.6611,30.5773,1,0,0
+China,Guangdong,2020-03-09,113.4244,23.3417,1352,1260,8
+China,Shaanxi,2020-03-09,108.8701,35.1917,245,227,1
+global,Martinique,2020-03-09,-61.0242,14.6415,2,0,0
+USA,"Polk County, GA",2020-03-09,-85.1479,34.0132,1,0,0
+China,Xinjiang,2020-03-09,85.2401,41.1129,76,73,3
+USA,"Riverside County, CA",2020-03-09,-117.3961,33.9533,1,0,0
+USA,"San Mateo, CA",2020-03-09,-122.3255,37.563,2,0,0
+USA,"Shelby County, TN",2020-03-09,-89.9253,35.1269,1,0,0
+USA,"Norfolk County, MA",2020-03-09,-71.1449,42.1767,6,0,0
+USA,"St. Louis County, MO",2020-03-09,-90.4125,38.6103,1,0,0
+global,Ecuador,2020-03-09,-78.1834,-1.8312,15,0,0
+USA,"Suffolk County, NY",2020-03-09,-72.6151,40.9849,1,0,0
+Kanada,British Columbia,2020-03-09,-123.1207,49.2827,32,4,1
+USA,"Ulster County, NY",2020-03-09,-74.3118,41.8586,1,0,0
+USA,"Humboldt County, CA",2020-03-09,-123.8695,40.745,1,0,0
+USA,"Volusia County, FL",2020-03-09,-81.0755,29.028,1,0,0
+global,Ägypten,2020-03-09,30,26,55,1,1
+USA,"Fairfax County, VA",2020-03-09,-77.2405,38.9085,2,0,0
+global,Bulgarien,2020-03-09,25.4858,42.7339,4,0,0
+USA,"Rockingham County, NH",2020-03-09,-71.0498,42.9931,1,0,0
+Australien,Queensland,2020-03-09,153.4,-28.0167,15,8,0
+USA,"Washington, D.C.",2020-03-09,-77.0369,38.9072,2,0,0
+global,Liechtenstein,2020-03-09,9.55,47.14,1,0,0
+USA,"Montgomery County, PA",2020-03-09,-75.3879,40.229,5,0,0
+global,Bahrain,2020-03-09,50.55,26.0275,95,14,0
+global,Malediven,2020-03-09,73.2207,3.2028,4,0,0
+global,Lettland,2020-03-09,24.6032,56.8796,6,0,0
+global,Rumänien,2020-03-09,24.9668,45.9432,15,3,0
+Deutschland,Hamburg,2020-03-09,10.007046,53.576158,17,0,0
+China,Sichuan,2020-03-09,102.7103,30.6171,539,466,3
+USA,"Alameda County, CA",2020-03-09,-121.7195,37.6017,2,0,0
+China,Innere Mongolei,2020-03-09,113.9448,44.0935,75,70,1
+China,Yunnan,2020-03-09,101.487,24.974,174,170,2
+USA,"Broward County, FL",2020-03-09,-80.3659,26.1901,3,0,0
+USA,"Wake County, NC",2020-03-09,-78.5661,35.8032,1,0,0
+global,Bangladesch,2020-03-09,90.3563,23.685,3,0,0
+USA,"Lee County, FL",2020-03-09,-81.9535,26.663,2,0,1
+China,Henan,2020-03-09,113.614,33.882,1272,1247,22
+Deutschland,Bremen,2020-03-09,8.731851,53.029599,4,0,0
+USA,"Pinal County, AZ",2020-03-09,-111.2845,32.8162,2,0,0
+global,Israel,2020-03-09,35,31,61,2,0
+global,Kroatien,2020-03-09,15.2,45.1,12,0,0
+USA,"Rockland County, NY",2020-03-09,-73.983,41.1489,4,0,0
+USA,"Snohomish County, WA",2020-03-09,-121.8339,48.033,31,0,1
+global,Paraguay,2020-03-09,-58.4438,-23.4425,1,0,0
+USA,"Saratoga County, NY",2020-03-09,-73.936,43.0324,2,0,0
+global,Polen,2020-03-09,19.1451,51.9194,16,0,0
+global,Malaysia,2020-03-09,112.5,2.5,117,24,0
+USA,"Charleston County, SC",2020-03-09,-79.7848,32.7957,1,0,0
+global,Aserbaidschan,2020-03-09,47.5769,40.1431,9,0,0
+Deutschland,Mecklenburg-Vorpommern,2020-03-09,12.708563,53.810625,8,0,0
+USA,"Clark County, WA",2020-03-09,-122.5194,45.7466,1,0,0
+Australien,Western Australia,2020-03-09,115.8605,-31.9505,4,0,1
+global,Marokko,2020-03-09,-7.0926,31.7917,2,0,0
+USA,"Cobb County, GA",2020-03-09,-84.5641,33.8999,3,0,0
+China,Ningxia,2020-03-09,106.1655,37.2692,75,71,0
+Australien,South Australia,2020-03-09,138.6007,-34.9285,7,2,0
+USA,"Davis County, UT",2020-03-09,-112.0953,40.9629,1,0,0
+China,Hainan,2020-03-09,109.7453,19.1959,168,159,6
+global,Island,2020-03-09,-19.0208,64.9631,58,0,0
+USA,"El Paso County, CO",2020-03-09,-104.4723,38.9108,1,0,0
+China,Heilongjiang,2020-03-09,127.7615,47.862,481,430,13
+USA,"Washington County, OR",2020-03-09,-123.1386,45.547,8,0,0
+USA,"Honolulu County, HI",2020-03-09,-157.8584,21.307,1,0,0
+global,Tunesien,2020-03-09,9,34,2,0,0
+China,Zhejiang,2020-03-09,120.0934,29.1832,1215,1176,1
+USA,"Jackson County, OR",2020-03-09,-122.7647,42.3345,2,0,0
+global,Sri Lanka,2020-03-09,81,7,1,1,0
+Deutschland,Hessen,2020-03-09,9.217535,50.758489,20,0,0
+USA,"Jefferson County, WA",2020-03-09,-123.304,47.7425,1,0,0
+Deutschland,Thüringen,2020-03-09,11.004142,50.894378,2,0,0
+global,Griechenland,2020-03-09,21.8243,39.0742,73,0,0
+USA,"Kershaw County, SC",2020-03-09,-80.5883,34.3672,1,0,0
+global,Schweden,2020-03-09,16,63,248,1,0
+global,Vatikan,2020-03-09,12.4534,41.9029,1,0,0
+USA,"Klamath County, OR",2020-03-09,-121.6142,42.6953,1,0,0
+global,Vereinigte Arabische Emirate,2020-03-09,54,24,45,7,0
+Kanada,Ontario,2020-03-09,-85.3232,51.2538,34,4,0
+USA,"Madera County, CA",2020-03-09,-119.6963,37.2519,1,0,0
+global,Taiwan,2020-03-09,121,23.7,45,15,1
+USA,"Los Angeles, CA",2020-03-09,-118.2437,34.0522,14,0,0
+USA,"Pierce County, WA",2020-03-09,-122.1295,47.0676,4,0,0
+global,Bosnien und Herzegowina,2020-03-09,17.6791,43.9159,3,0,0
+China,Guizhou,2020-03-09,106.8748,26.8154,146,123,2
+USA,"Tulsa County, OK",2020-03-09,-95.941,36.1593,1,0,0
+global,Armenien,2020-03-09,45.0382,40.0691,1,0,0
+global,Saudiarabien,2020-03-09,45,24,15,0,0
+USA,"Douglas County, CO",2020-03-09,-104.9389,39.2587,3,0,0
+global,Großbritannien,2020-03-09,-3.436,55.3781,321,18,4
+USA,"Fulton County, GA",2020-03-09,-84.3963,33.8034,5,0,0
+USA,"Grafton County, NH",2020-03-09,-71.826,43.9088,3,0,0
+global,Estland,2020-03-09,25.0136,58.5953,10,0,0
+Kanada,Alberta,2020-03-09,-116.5765,53.9333,7,0,0
+China,Hunan,2020-03-09,111.7088,27.6104,1018,979,4
+global,Oman,2020-03-09,57,21,16,2,0
+global,Indien,2020-03-09,78,21,43,3,0
+USA,"Providence County, RI",2020-03-09,-71.4774,41.8882,3,0,0
+global,Irland,2020-03-09,-7.6921,53.1424,21,0,0
+global,Slowenien,2020-03-09,14.9955,46.1512,16,0,0
+global,Vietnam,2020-03-09,108,16,30,16,0
+USA,"Chatham County, NC",2020-03-09,-79.1781,35.7211,1,0,0
+USA,"Orange County, CA",2020-03-09,-117.8531,33.7879,4,0,0
+USA,"Umatilla, OR",2020-03-09,-118.7606,45.775,1,0,0
+global,Bhutan,2020-03-09,90.4336,27.5142,1,0,0
+USA,"Delaware County, PA",2020-03-09,-75.3879,39.9078,1,0,0
+global,Japan,2020-03-09,138,36,511,76,10
+China,Tianjin,2020-03-09,117.323,39.3054,136,130,3
+Deutschland,Schleswig-Holstein,2020-03-09,9.713017,54.1882542,9,0,0
+USA,"Douglas County, NE",2020-03-09,-96.1951,41.3148,3,0,0
+USA,"Maricopa County, AZ",2020-03-09,-112.4291,33.2918,2,1,0
+global,Dänemark,2020-03-09,9.5018,56.2639,90,1,0
+global,Litauen,2020-03-09,23.8813,55.1694,1,0,0
+USA,"Fayette County, KY",2020-03-09,-84.4803,38.0606,1,0,0
+global,Pakistan,2020-03-09,69.3451,30.3753,6,1,0
+global,Senegal,2020-03-09,-14.4524,14.4974,4,1,0
+global,Südafrika,2020-03-09,22.9375,-30.5595,3,0,0
+USA,"Marion County, IN",2020-03-09,-86.1752,39.8362,1,0,0
+global,Kuwait,2020-03-09,47.75,29.5,64,1,0
+Kanada,Quebec,2020-03-09,-73.5491,52.9399,4,0,0
+global,Dominikanische Republik,2020-03-09,-70.1627,18.7357,5,0,0
+USA,"Middlesex County, MA",2020-03-09,-71.2874,42.4672,7,0,0
+global,Russland,2020-03-09,90,60,17,3,0
+China,Anhui,2020-03-09,117.2264,31.8257,990,984,6
+Australien,Victoria,2020-03-09,144.9631,-37.8136,15,7,0
+USA,"Placer County, CA",2020-03-09,-120.8039,39.0916,7,0,1
+USA,"Nassau County, NY",2020-03-09,-73.5594,40.6546,17,0,0
+global,Albanien,2020-03-09,20.1683,41.1533,2,0,0
+global,Schweiz,2020-03-09,8.2275,46.8182,374,3,2
+China,Shanxi,2020-03-09,112.2922,37.5777,133,127,0
+USA,"Ramsey County, MN",2020-03-09,-93.0616,44.9964,1,0,0
+Deutschland,Bayern,2020-03-09,11.658165,48.768814,256,14,0
+global,Zypern,2020-03-09,33.4299,35.1264,2,0,0
+Deutschland,Baden-Württemberg,2020-03-09,9.147687,48.606091,199,0,0
+USA,"Washoe County, NV",2020-03-09,-119.6035,40.5608,2,0,0
+China,Peking (Beijing),2020-03-09,116.4142,40.1824,428,315,8
+global,Singapur,2020-03-09,103.8333,1.2833,150,78,0
+global,Brunei,2020-03-09,114.7277,4.5353,1,0,0
+USA,"Wayne County, PA",2020-03-09,-75.2479,41.6739,1,0,0
+global,Luxemburg,2020-03-09,6.1296,49.8153,3,0,0
+China,Hubei (Wuhan),2020-03-09,112.2707,30.9756,67743,46488,3008
+global,Argentinien,2020-03-09,-63.6167,-38.4161,12,0,1
+USA,"Yolo County, CA",2020-03-09,-121.9018,38.7646,1,0,0
+China,Qinghai,2020-03-09,95.9956,35.7452,18,18,0
+USA,"Sonoma County, CA",2020-03-09,-122.9888,38.578,3,0,0
+global,Nordmazedonien,2020-03-09,21.7453,41.6086,3,0,0
+global,Niederlande,2020-03-09,5.2913,52.1326,321,0,3
+China,Jiangxi,2020-03-09,115.7221,27.614,935,923,1
+USA,"San Benito, CA",2020-03-09,-120.9876,36.5761,2,0,0
+global,Kamerun,2020-03-09,11.5021,3.848,2,0,0
+China,Gansu,2020-03-09,101.0583,37.8099,124,88,2
+USA,"Cook County, IL",2020-03-09,-87.6976,41.7377,7,2,0
+global,Libanon,2020-03-09,35.8623,33.8547,32,1,0
+global,Indonesien,2020-03-09,113.9213,-0.7893,19,0,0
+Deutschland,Saarland,2020-03-09,6.961042,49.41788,5,0,0
+China,Shanghai,2020-03-09,121.4491,31.202,342,315,3
+USA,"Santa Clara County, CA",2020-03-09,-121.9552,37.3541,38,1,0
+Deutschland,Rheinland-Pfalz,2020-03-09,7.269307,50.104033,19,0,0
+global,Kolumbien,2020-03-09,-74.2973,4.5709,1,0,0
+global,Mexiko,2020-03-09,-102.5528,23.6345,7,1,0
+China,Macau,2020-03-09,113.55,22.1667,10,10,0
+USA,"Clark County, NV",2020-03-09,-115.094,36.0796,2,0,0
+global,Belgien,2020-03-09,4,50.8333,239,1,0
+global,Chile,2020-03-09,-71.543,-35.6751,8,0,0
+global,Iran,2020-03-09,53,32,7161,2394,237
+global,Moldawien,2020-03-09,28.3699,47.4116,1,0,0
+USA,"Fort Bend County, TX",2020-03-09,-95.8143,29.5693,6,0,0
+global,Kambodscha,2020-03-09,104.9167,11.55,2,1,0
+Deutschland,Sachsen,2020-03-09,13.349228,51.022904,10,0,0
+global,Costa Rica,2020-03-09,-83.7534,9.7489,9,0,0
+China,Shandong,2020-03-09,118.1498,36.3427,758,700,6
+USA,"Grant County, WA",2020-03-09,-119.3732,47.1981,1,0,1
+China,Hong Kong,2020-03-09,114.2,22.3,115,59,3
+global,Thailand,2020-03-09,101,15,50,31,1
+global,Afghanistan,2020-03-09,65,33,4,0,0
+global,Monaco,2020-03-09,7.4167,43.7333,1,0,0
+USA,"Santa Rosa County, FL",2020-03-09,-86.9824,30.769,1,0,1
+Dänemark,Färöer,2020-03-09,-6.9118,61.8926,2,0,0
+global,Portugal,2020-03-09,-8.2245,39.3999,30,0,0
+global,Brasilien,2020-03-09,-51.9253,-14.235,25,0,0
+Frankreich,Saint Martin,2020-03-09,-63.0501,18.0708,2,0,0
+USA,"Williamson County, TN",2020-03-09,-86.8622,35.9179,1,0,0
+China,Hebei,2020-03-09,116.1306,39.549,318,307,6
+USA,"Contra Costa County, CA",2020-03-09,-121.9018,37.8534,9,0,0
+USA,"Kreuzfahrtschiff ""Diamond Princess""",2020-03-09,139.638,35.4437,45,0,0
+USA,"Westchester County, NY",2020-03-09,-73.7949,41.122,98,0,0
+global,Peru,2020-03-09,-75.0152,-9.19,7,0,0
+Deutschland,Repatriierte,2020-03-09,null,null,2,2,0
+global,Jordanien,2020-03-09,36.51,31.24,1,0,0
+USA,"New York County, NY",2020-03-09,-74.006,40.7128,19,0,0
+global,Spanien,2020-03-09,-4,40,1073,32,28
+USA,"Kreuzfahrtschiff ""Grand Princess""",2020-03-09,-122.6655,37.6489,21,0,0
+global,Finnland,2020-03-09,26,64,30,1,0
+USA,"Montgomery County, MD",2020-03-09,-77.2405,39.1547,4,0,0
+global,Südkorea,2020-03-09,128,36,7478,118,53
+China,Liaoning,2020-03-09,122.6085,41.2956,125,109,1
+global,Algerien,2020-03-09,1.6596,28.0339,20,0,0
+global,Serbien,2020-03-09,21.0059,44.0165,1,0,0
+Kreuzfahrtschiffe und Sonstige,"Kreuzfahrtschiff ""Diamond Princess""",2020-03-09,139.638,35.4437,696,40,6
+global,San Marino,2020-03-09,12.4578,43.9424,36,0,1
+global,Österreich,2020-03-09,14.5501,47.5162,131,2,0
+global,Neuseeland,2020-03-09,174.886,-40.9006,5,0,0
+China,Fujian,2020-03-09,117.9874,26.0789,296,295,1
+China,Tibet,2020-03-09,88.0924,31.6927,1,1,0
+USA,"San Diego County, CA",2020-03-09,-117.1611,32.7157,3,1,0
+USA,"San Francisco County, CA",2020-03-09,-122.4194,37.7749,9,0,0
+global,Norwegen,2020-03-09,8.4689,60.472,205,1,0
+USA,"Suffolk County, MA",2020-03-09,-71.0589,42.3601,8,1,0
+global,Andorra,2020-03-09,1.5218,42.5063,1,0,0
+global,Slowakei,2020-03-09,19.699,48.669,3,0,0
+global,Ukraine,2020-03-09,31.1656,48.3794,1,0,0
+USA,"Denver County, CO",2020-03-09,-104.9903,39.7392,2,0,0
+Australien,New South Wales,2020-03-09,151.2093,-33.8688,48,4,2
+global,Italien,2020-03-09,12,43,9172,724,463
+global,Katar,2020-03-09,51.1839,25.3548,18,0,0
+USA,"Summit County, CO",2020-03-09,-106.064,39.5912,1,0,0
+Frankreich,Saint Barthélemy,2020-03-09,-62.8333,17.9,1,0,0
+China,Jilin,2020-03-09,126.1923,43.6661,93,91,1
+global,Philippinen,2020-03-09,122,13,20,1,1
+USA,"Harris County, TX",2020-03-09,-95.3103,29.7752,6,0,0
+USA,"Bergen County, NJ",2020-03-09,-74.077,40.9263,4,0,0
+global,Malta,2020-03-10,14.3754,35.9375,5,0,0
+Deutschland,Repatriierte,2020-03-10,null,null,2,2,0
+China,Tibet,2020-03-10,88.0924,31.6927,1,1,0
+Großbritannien,Kanalinseln,2020-03-10,-2.3644,49.3723,1,0,0
+Frankreich,Saint Martin,2020-03-10,-63.0501,18.0708,2,0,0
+Dänemark,Färöer,2020-03-10,-6.9118,61.8926,2,0,0
+global,Moldawien,2020-03-10,28.3699,47.4116,3,0,0
+China,Macau,2020-03-10,113.55,22.1667,10,10,0
+China,Qinghai,2020-03-10,95.9956,35.7452,18,18,0
+global,Russland,2020-03-10,90,60,20,3,0
+global,Vietnam,2020-03-10,108,16,31,16,0
+global,Taiwan,2020-03-10,121,23.7,47,17,1
+China,Ningxia,2020-03-10,106.1655,37.2692,75,71,0
+China,Innere Mongolei,2020-03-10,113.9448,44.0935,75,70,1
+China,Xinjiang,2020-03-10,85.2401,41.1129,76,73,3
+global,Tschechien,2020-03-10,15.473,49.8175,41,0,0
+China,Jilin,2020-03-10,126.1923,43.6661,93,91,1
+China,Liaoning,2020-03-10,122.6085,41.2956,125,111,1
+China,Hong Kong,2020-03-10,114.2,22.3,120,65,3
+China,Gansu,2020-03-10,101.0583,37.8099,125,88,2
+China,Shanxi,2020-03-10,112.2922,37.5777,133,131,0
+China,Tianjin,2020-03-10,117.323,39.3054,136,131,3
+China,Guizhou,2020-03-10,106.8748,26.8154,146,129,2
+China,Hainan,2020-03-10,109.7453,19.1959,168,159,6
+China,Yunnan,2020-03-10,101.487,24.974,174,170,2
+China,Shaanxi,2020-03-10,108.8701,35.1917,245,227,1
+China,Guangxi,2020-03-10,108.7881,23.8298,252,234,2
+China,Fujian,2020-03-10,117.9874,26.0789,296,295,1
+China,Hebei,2020-03-10,116.1306,39.549,318,307,6
+China,Shanghai,2020-03-10,121.4491,31.202,344,319,3
+China,Peking (Beijing),2020-03-10,116.4142,40.1824,429,320,8
+global,Dänemark,2020-03-10,9.5018,56.2639,262,1,0
+global,Großbritannien,2020-03-10,-3.436,55.3781,382,18,6
+China,Heilongjiang,2020-03-10,127.7615,47.862,481,434,13
+China,Sichuan,2020-03-10,102.7103,30.6171,539,478,3
+China,Chongqing,2020-03-10,107.874,30.0572,576,547,6
+China,Jiangsu,2020-03-10,119.455,32.9711,631,627,0
+Kreuzfahrtschiffe und Sonstige,"Kreuzfahrtschiff ""Diamond Princess""",2020-03-10,139.638,35.4437,696,40,6
+China,Shandong,2020-03-10,118.1498,36.3427,758,719,6
+China,Jiangxi,2020-03-10,115.7221,27.614,935,927,1
+China,Anhui,2020-03-10,117.2264,31.8257,990,984,6
+China,Hunan,2020-03-10,111.7088,27.6104,1018,990,4
+China,Zhejiang,2020-03-10,120.0934,29.1832,1215,1191,1
+China,Henan,2020-03-10,113.614,33.882,1272,1247,22
+China,Guangdong,2020-03-10,113.4244,23.3417,1353,1274,8
+global,Frankreich,2020-03-10,2.2137,46.2276,1784,12,33
+global,Südkorea,2020-03-10,128,36,7513,247,54
+global,Iran,2020-03-10,53,32,8042,2731,291
+China,Hubei (Wuhan),2020-03-10,112.2707,30.9756,67760,47743,3024
+USA,Vermont,2020-03-10,-72.7107,44.0459,1,0,0
+USA,Missouri,2020-03-10,-92.2884,38.4561,1,0,0
+USA,Louisiana,2020-03-10,-91.8678,31.1695,1,0,0
+USA,Kansas,2020-03-10,-96.7265,38.5266,1,0,0
+global,Panama,2020-03-10,-80.7821,8.538,1,0,0
+global,Mongolei,2020-03-10,103.8467,46.8625,1,0,0
+global,Vatikan,2020-03-10,12.4534,41.9029,1,0,0
+global,Burkina Faso,2020-03-10,-1.5616,12.2383,1,0,0
+USA,Utah,2020-03-10,-111.8624,40.15,2,0,0
+USA,Oklahoma,2020-03-10,-96.9289,35.5653,2,0,0
+USA,Hawaii,2020-03-10,-157.4983,21.0943,2,0,0
+USA,Connecticut,2020-03-10,-72.7554,41.5978,2,0,0
+USA,Wisconsin,2020-03-10,-89.6165,44.2685,3,1,0
+USA,Rhode Island,2020-03-10,-71.5118,41.6809,3,0,0
+USA,Ohio,2020-03-10,-82.7649,40.3888,3,0,0
+USA,Nebraska,2020-03-10,-98.2681,41.1254,3,0,0
+USA,Minnesota,2020-03-10,-93.9002,45.6945,3,0,0
+USA,New Hampshire,2020-03-10,-71.5639,43.4525,4,0,0
+USA,Nevada,2020-03-10,-117.0554,38.3135,4,0,0
+USA,District of Columbia,2020-03-10,-77.0268,38.8974,5,0,0
+USA,Kentucky,2020-03-10,-84.6701,37.6681,6,0,0
+USA,Indiana,2020-03-10,-86.2583,39.8494,6,0,0
+USA,Arizona,2020-03-10,-111.4312,33.7298,6,1,0
+USA,Virginia,2020-03-10,-78.17,37.7693,7,0,0
+USA,Tennessee,2020-03-10,-86.6923,35.7478,7,0,0
+USA,South Carolina,2020-03-10,-80.945,33.8569,7,0,0
+USA,North Carolina,2020-03-10,-79.8064,35.6301,7,0,0
+USA,Maryland,2020-03-10,-76.8021,39.0639,8,0,0
+USA,Iowa,2020-03-10,-93.2105,42.0115,8,0,0
+USA,Pennsylvania,2020-03-10,-77.2098,40.5908,12,0,0
+USA,Illinois,2020-03-10,-88.9861,40.3495,12,2,0
+USA,Texas,2020-03-10,-97.5635,31.0545,13,0,0
+USA,Oregon,2020-03-10,-122.0709,44.572,15,0,0
+USA,New Jersey,2020-03-10,-74.521,40.2989,15,0,1
+USA,Florida,2020-03-10,-81.6868,27.7663,15,0,2
+USA,Colorado,2020-03-10,-105.3111,39.0598,15,0,0
+USA,Georgia,2020-03-10,-83.6431,33.0406,17,0,0
+USA,"Kreuzfahrtschiff ""Grand Princess""",2020-03-10,-122.6655,37.6489,21,0,0
+USA,"Kreuzfahrtschiff ""Diamond Princess""",2020-03-10,139.638,35.4437,46,0,0
+USA,Massachusetts,2020-03-10,-71.5301,42.2302,92,1,0
+USA,California,2020-03-10,-119.6816,36.1162,144,2,2
+USA,New York,2020-03-10,-74.9481,42.1657,173,0,0
+USA,Washington,2020-03-10,-121.4905,47.4009,267,1,23
+global,Brunei,2020-03-10,114.7277,4.5353,1,0,0
+global,Zypern,2020-03-10,33.4299,35.1264,3,0,0
+global,Albanien,2020-03-10,20.1683,41.1533,10,0,0
+Kanada,Quebec,2020-03-10,-73.5491,52.9399,4,0,0
+Kanada,Alberta,2020-03-10,-116.5765,53.9333,7,0,0
+Kanada,Ontario,2020-03-10,-85.3232,51.2538,36,4,0
+global,Paraguay,2020-03-10,-58.4438,-23.4425,1,0,0
+global,Bangladesch,2020-03-10,90.3563,23.685,3,0,0
+Großbritannien,Gibraltar,2020-03-10,-5.3536,36.1408,1,1,0
+global,Malediven,2020-03-10,73.2207,3.2028,6,0,0
+global,Bulgarien,2020-03-10,25.4858,42.7339,4,0,0
+global,Martinique,2020-03-10,-61.0242,14.6415,2,0,0
+Frankreich,Saint Barthélemy,2020-03-10,-62.8333,17.9,1,0,0
+global,Französisch-Guyana,2020-03-10,-53.1258,3.9339,5,0,0
+global,Togo,2020-03-10,0.8248,8.6195,1,0,0
+global,Slowakei,2020-03-10,19.699,48.669,7,0,0
+global,Serbien,2020-03-10,21.0059,44.0165,5,0,0
+global,Peru,2020-03-10,-75.0152,-9.19,11,0,0
+global,Costa Rica,2020-03-10,-83.7534,9.7489,9,0,0
+global,Kolumbien,2020-03-10,-74.2973,4.5709,3,0,0
+global,Kamerun,2020-03-10,11.5021,3.848,2,0,0
+global,Bhutan,2020-03-10,90.4336,27.5142,1,0,0
+global,Südafrika,2020-03-10,22.9375,-30.5595,7,0,0
+global,Slowenien,2020-03-10,14.9955,46.1512,31,0,0
+global,Bosnien und Herzegowina,2020-03-10,17.6791,43.9159,5,0,0
+global,Tunesien,2020-03-10,9,34,5,0,0
+global,Polen,2020-03-10,19.1451,51.9194,22,0,0
+global,Liechtenstein,2020-03-10,9.55,47.14,1,0,0
+Australien,Northern Territory,2020-03-10,130.8456,-12.4634,1,0,0
+global,Ungarn,2020-03-10,19.5033,47.1625,9,0,0
+global,Ukraine,2020-03-10,31.1656,48.3794,1,0,0
+global,Jordanien,2020-03-10,36.51,31.24,1,0,0
+global,Chile,2020-03-10,-71.543,-35.6751,13,0,0
+global,Argentinien,2020-03-10,-63.6167,-38.4161,17,0,1
+global,Senegal,2020-03-10,-14.4524,14.4974,4,1,0
+global,Saudiarabien,2020-03-10,45,24,20,1,0
+global,Marokko,2020-03-10,-7.0926,31.7917,3,0,1
+global,Lettland,2020-03-10,24.6032,56.8796,8,1,0
+Australien,Tasmania,2020-03-10,145.9707,-41.4545,2,0,0
+global,Andorra,2020-03-10,1.5218,42.5063,1,0,0
+global,Portugal,2020-03-10,-8.2245,39.3999,41,0,0
+global,Indonesien,2020-03-10,113.9213,-0.7893,27,2,0
+global,Dominikanische Republik,2020-03-10,-70.1627,18.7357,5,0,0
+global,Armenien,2020-03-10,45.0382,40.0691,1,0,0
+global,Aserbaidschan,2020-03-10,47.5769,40.1431,11,0,0
+global,Ecuador,2020-03-10,-78.1834,-1.8312,15,0,0
+global,Katar,2020-03-10,51.1839,25.3548,24,0,0
+global,Monaco,2020-03-10,7.4167,43.7333,1,0,0
+global,Luxemburg,2020-03-10,6.1296,49.8153,5,0,0
+global,Irland,2020-03-10,-7.6921,53.1424,34,0,0
+Australien,Western Australia,2020-03-10,115.8605,-31.9505,6,0,1
+global,Nigeria,2020-03-10,8.6753,9.082,2,0,0
+global,Neuseeland,2020-03-10,174.886,-40.9006,5,0,0
+global,Mexiko,2020-03-10,-102.5528,23.6345,7,4,0
+global,Litauen,2020-03-10,23.8813,55.1694,1,0,0
+global,Island,2020-03-10,-19.0208,64.9631,69,1,0
+global,Belarus,2020-03-10,27.9534,53.7098,9,3,0
+global,San Marino,2020-03-10,12.4578,43.9424,51,0,2
+global,Niederlande,2020-03-10,5.2913,52.1326,382,0,4
+global,Estland,2020-03-10,25.0136,58.5953,12,0,0
+global,Rumänien,2020-03-10,24.9668,45.9432,25,3,0
+global,Norwegen,2020-03-10,8.4689,60.472,400,1,0
+global,Nordmazedonien,2020-03-10,21.7453,41.6086,7,0,0
+global,Griechenland,2020-03-10,21.8243,39.0742,89,0,0
+global,Georgien,2020-03-10,43.3569,42.3154,15,0,0
+global,Brasilien,2020-03-10,-51.9253,-14.235,31,0,0
+global,Pakistan,2020-03-10,69.3451,30.3753,16,1,0
+global,Israel,2020-03-10,35,31,83,4,0
+global,Österreich,2020-03-10,14.5501,47.5162,182,4,0
+global,Schweiz,2020-03-10,8.2275,46.8182,491,3,3
+global,Kroatien,2020-03-10,15.2,45.1,14,0,0
+global,Algerien,2020-03-10,1.6596,28.0339,20,0,0
+global,Kuwait,2020-03-10,47.75,29.5,69,1,0
+global,Bahrain,2020-03-10,50.55,26.0275,110,22,0
+global,Afghanistan,2020-03-10,65,33,5,0,0
+global,Oman,2020-03-10,57,21,18,9,0
+global,Irak,2020-03-10,44,33,71,3,7
+global,Libanon,2020-03-10,35.8623,33.8547,41,1,1
+global,Ägypten,2020-03-10,30,26,59,1,1
+global,Belgien,2020-03-10,4,50.8333,267,1,0
+Australien,South Australia,2020-03-10,138.6007,-34.9285,7,2,0
+global,Spanien,2020-03-10,-4,40,1695,32,35
+global,Schweden,2020-03-10,16,63,355,1,0
+global,Italien,2020-03-10,12,43,10149,724,631
+global,Indien,2020-03-10,78,21,56,4,0
+global,Philippinen,2020-03-10,122,13,33,2,1
+global,Vereinigte Arabische Emirate,2020-03-10,54,24,74,12,0
+global,Finnland,2020-03-10,26,64,40,1,0
+global,Sri Lanka,2020-03-10,81,7,1,1,0
+global,Kambodscha,2020-03-10,104.9167,11.55,2,1,0
+Australien,Queensland,2020-03-10,153.4,-28.0167,18,8,0
+Australien,Victoria,2020-03-10,144.9631,-37.8136,18,7,0
+Australien,New South Wales,2020-03-10,151.2093,-33.8688,55,4,2
+Kanada,British Columbia,2020-03-10,-123.1207,49.2827,32,4,1
+global,Malaysia,2020-03-10,112.5,2.5,129,24,0
+global,Nepal,2020-03-10,84.25,28.1667,1,1,0
+global,Singapur,2020-03-10,103.8333,1.2833,160,78,0
+global,Japan,2020-03-10,138,36,581,101,10
+global,Thailand,2020-03-10,101,15,53,33,1
+Deutschland,Baden-Württemberg,2020-03-10,9.147687,48.606091,277,2,0
+Deutschland,Bayern,2020-03-10,11.658165,48.768814,314,14,0
+Deutschland,Berlin,2020-03-10,13.40732,52.52045,58,0,0
+Deutschland,Brandenburg,2020-03-10,14.124409,52.073056,16,0,0
+Deutschland,Bremen,2020-03-10,8.731851,53.029599,22,0,0
+Deutschland,Hamburg,2020-03-10,10.007046,53.576158,35,0,0
+Deutschland,Hessen,2020-03-10,9.217535,50.758489,35,0,0
+Deutschland,Mecklenburg-Vorpommern,2020-03-10,12.708563,53.810625,13,0,0
+Deutschland,Niedersachsen,2020-03-10,9.944255,52.518203,66,1,0
+Deutschland,Nordrhein-Westfalen,2020-03-10,7.385313,51.510157,648,0,2
+Deutschland,Rheinland-Pfalz,2020-03-10,7.269307,50.104033,25,1,0
+Deutschland,Saarland,2020-03-10,6.961042,49.41788,7,0,0
+Deutschland,Sachsen,2020-03-10,13.349228,51.022904,24,0,0
+Deutschland,Sachsen-Anhalt,2020-03-10,11.68063,51.926892,8,0,0
+Deutschland,Schleswig-Holstein,2020-03-10,9.713017,54.1882542,9,0,0
+Deutschland,Thüringen,2020-03-10,11.004142,50.894378,8,0,0
+global,Malediven,2020-03-11,73.2207,3.2028,8,0,0
+Kanada,Ontario,2020-03-11,-85.3232,51.2538,41,4,0
+China,Hong Kong,2020-03-11,114.2,22.3,126,65,3
+global,Paraguay,2020-03-11,-58.4438,-23.4425,5,0,0
+global,Frankreich,2020-03-11,2.2137,46.2276,2281,12,48
+global,Bangladesch,2020-03-11,90.3563,23.685,3,0,0
+Frankreich,Saint Barthélemy,2020-03-11,-62.8333,17.9,1,0,0
+global,Südkorea,2020-03-11,128,36,7755,288,60
+China,Gansu,2020-03-11,101.0583,37.8099,127,88,2
+global,Bulgarien,2020-03-11,25.4858,42.7339,7,0,1
+global,Iran,2020-03-11,53,32,9000,2959,354
+global,Martinique,2020-03-11,-61.0242,14.6415,3,0,0
+global,Bolivien,2020-03-11,-63.5887,-16.2902,2,0,0
+global,Malta,2020-03-11,14.3754,35.9375,6,0,0
+China,Hubei (Wuhan),2020-03-11,112.2707,30.9756,67773,49134,3046
+global,Französisch-Guyana,2020-03-11,-53.1258,3.9339,5,0,0
+China,Shanxi,2020-03-11,112.2922,37.5777,133,131,0
+global,Togo,2020-03-11,0.8248,8.6195,1,0,0
+USA,South Dakota,2020-03-11,-99.4388,44.2998,8,0,1
+global,Slowakei,2020-03-11,19.699,48.669,10,0,0
+USA,New Mexico,2020-03-11,-106.2485,34.8405,3,0,0
+global,Serbien,2020-03-11,21.0059,44.0165,12,0,0
+USA,Montana,2020-03-11,-110.4544,46.9219,1,0,0
+global,Peru,2020-03-11,-75.0152,-9.19,11,0,0
+USA,Michigan,2020-03-11,-84.5361,43.3266,2,0,0
+global,Costa Rica,2020-03-11,-83.7534,9.7489,13,0,0
+USA,Delaware,2020-03-11,-75.5071,39.3185,1,0,0
+global,Kolumbien,2020-03-11,-74.2973,4.5709,9,0,0
+USA,Arkansas,2020-03-11,-92.3731,34.9697,1,0,0
+global,Kamerun,2020-03-11,11.5021,3.848,2,0,0
+USA,Vermont,2020-03-11,-72.7107,44.0459,1,0,0
+global,Bhutan,2020-03-11,90.4336,27.5142,1,0,0
+global,Moldawien,2020-03-11,28.3699,47.4116,3,0,0
+global,Südafrika,2020-03-11,22.9375,-30.5595,13,0,0
+USA,Missouri,2020-03-11,-92.2884,38.4561,1,0,0
+global,Slowenien,2020-03-11,14.9955,46.1512,57,0,0
+China,Tianjin,2020-03-11,117.323,39.3054,136,131,3
+global,Bosnien und Herzegowina,2020-03-11,17.6791,43.9159,7,0,0
+USA,Louisiana,2020-03-11,-91.8678,31.1695,6,0,0
+global,Tunesien,2020-03-11,9,34,7,0,0
+Großbritannien,Gibraltar,2020-03-11,-5.3536,36.1408,1,1,0
+global,Polen,2020-03-11,19.1451,51.9194,31,0,0
+USA,Kansas,2020-03-11,-96.7265,38.5266,1,0,0
+global,Liechtenstein,2020-03-11,9.55,47.14,1,0,0
+China,Guizhou,2020-03-11,106.8748,26.8154,146,133,2
+Australien,Northern Territory,2020-03-11,130.8456,-12.4634,1,0,0
+global,Panama,2020-03-11,-80.7821,8.538,8,0,1
+global,Ungarn,2020-03-11,19.5033,47.1625,13,0,0
+China,Macau,2020-03-11,113.55,22.1667,10,10,0
+global,Ukraine,2020-03-11,31.1656,48.3794,1,0,0
+global,Mongolei,2020-03-11,103.8467,46.8625,1,0,0
+global,Jordanien,2020-03-11,36.51,31.24,1,0,0
+China,Hainan,2020-03-11,109.7453,19.1959,168,159,6
+global,Chile,2020-03-11,-71.543,-35.6751,23,0,0
+global,Vatikan,2020-03-11,12.4534,41.9029,1,0,0
+global,Argentinien,2020-03-11,-63.6167,-38.4161,19,0,1
+global,Elfenbeinküste,2020-03-11,-5.5471,7.54,1,0,0
+global,Senegal,2020-03-11,-14.4524,14.4974,4,1,0
+global,Burkina Faso,2020-03-11,-1.5616,12.2383,2,0,0
+global,Saudiarabien,2020-03-11,45,24,21,1,0
+China,Yunnan,2020-03-11,101.487,24.974,174,170,2
+global,Marokko,2020-03-11,-7.0926,31.7917,5,0,1
+USA,Utah,2020-03-11,-111.8624,40.15,3,0,0
+global,Lettland,2020-03-11,24.6032,56.8796,10,1,0
+China,Qinghai,2020-03-11,95.9956,35.7452,18,18,0
+Australien,Tasmania,2020-03-11,145.9707,-41.4545,3,0,0
+USA,Oklahoma,2020-03-11,-96.9289,35.5653,2,0,0
+global,Andorra,2020-03-11,1.5218,42.5063,1,0,0
+China,Shaanxi,2020-03-11,108.8701,35.1917,245,232,1
+global,Portugal,2020-03-11,-8.2245,39.3999,59,0,0
+USA,Hawaii,2020-03-11,-157.4983,21.0943,2,0,0
+global,Indonesien,2020-03-11,113.9213,-0.7893,34,2,1
+global,Demokratische Republik Kongo,2020-03-11,21.7587,-4.0383,1,0,0
+global,Dominikanische Republik,2020-03-11,-70.1627,18.7357,5,0,0
+USA,Connecticut,2020-03-11,-72.7554,41.5978,3,0,0
+global,Armenien,2020-03-11,45.0382,40.0691,1,0,0
+China,Guangxi,2020-03-11,108.7881,23.8298,252,238,2
+global,Aserbaidschan,2020-03-11,47.5769,40.1431,11,3,0
+USA,Wisconsin,2020-03-11,-89.6165,44.2685,6,1,0
+global,Ecuador,2020-03-11,-78.1834,-1.8312,17,0,0
+global,Russland,2020-03-11,90,60,20,3,0
+global,Katar,2020-03-11,51.1839,25.3548,262,0,0
+USA,Rhode Island,2020-03-11,-71.5118,41.6809,5,0,0
+global,Monaco,2020-03-11,7.4167,43.7333,1,0,0
+China,Fujian,2020-03-11,117.9874,26.0789,296,295,1
+global,Luxemburg,2020-03-11,6.1296,49.8153,7,0,0
+USA,Ohio,2020-03-11,-82.7649,40.3888,4,0,0
+global,Irland,2020-03-11,-7.6921,53.1424,43,0,1
+China,Tibet,2020-03-11,88.0924,31.6927,1,1,0
+Australien,Western Australia,2020-03-11,115.8605,-31.9505,9,0,1
+USA,Nebraska,2020-03-11,-98.2681,41.1254,5,0,0
+global,Nigeria,2020-03-11,8.6753,9.082,2,0,0
+China,Hebei,2020-03-11,116.1306,39.549,318,307,6
+global,Neuseeland,2020-03-11,174.886,-40.9006,5,0,0
+USA,Minnesota,2020-03-11,-93.9002,45.6945,5,0,0
+global,Mexiko,2020-03-11,-102.5528,23.6345,8,4,0
+global,Vietnam,2020-03-11,108,16,38,16,0
+global,Litauen,2020-03-11,23.8813,55.1694,3,0,0
+USA,New Hampshire,2020-03-11,-71.5639,43.4525,5,0,0
+global,Island,2020-03-11,-19.0208,64.9631,85,1,0
+China,Shanghai,2020-03-11,121.4491,31.202,344,320,3
+global,Belarus,2020-03-11,27.9534,53.7098,9,3,0
+USA,Nevada,2020-03-11,-117.0554,38.3135,7,0,0
+global,San Marino,2020-03-11,12.4578,43.9424,62,0,2
+global,Türkei,2020-03-11,35.2433,38.9637,1,0,0
+global,Niederlande,2020-03-11,5.2913,52.1326,503,0,5
+USA,District of Columbia,2020-03-11,-77.0268,38.8974,10,0,0
+global,Estland,2020-03-11,25.0136,58.5953,16,0,0
+China,Peking (Beijing),2020-03-11,116.4142,40.1824,435,326,8
+global,Rumänien,2020-03-11,24.9668,45.9432,45,6,0
+USA,Kentucky,2020-03-11,-84.6701,37.6681,8,0,0
+global,Norwegen,2020-03-11,8.4689,60.472,598,1,0
+global,Taiwan,2020-03-11,121,23.7,48,17,1
+global,Nordmazedonien,2020-03-11,21.7453,41.6086,7,0,0
+USA,Indiana,2020-03-11,-86.2583,39.8494,11,0,0
+global,Griechenland,2020-03-11,21.8243,39.0742,99,0,1
+global,Dänemark,2020-03-11,9.5018,56.2639,442,1,0
+global,Georgien,2020-03-11,43.3569,42.3154,24,0,0
+USA,Arizona,2020-03-11,-111.4312,33.7298,9,1,0
+global,Brasilien,2020-03-11,-51.9253,-14.235,38,0,0
+Kanada,New Brunswick,2020-03-11,-66.4619,46.5653,1,0,0
+global,Pakistan,2020-03-11,69.3451,30.3753,19,2,0
+USA,Virginia,2020-03-11,-78.17,37.7693,9,0,0
+global,Israel,2020-03-11,35,31,109,4,0
+global,Großbritannien,2020-03-11,-3.436,55.3781,456,18,8
+global,Österreich,2020-03-11,14.5501,47.5162,246,4,0
+USA,Tennessee,2020-03-11,-86.6923,35.7478,9,0,0
+global,Schweiz,2020-03-11,8.2275,46.8182,652,4,4
+China,Ningxia,2020-03-11,106.1655,37.2692,75,72,0
+global,Kroatien,2020-03-11,15.2,45.1,19,0,0
+USA,South Carolina,2020-03-11,-80.945,33.8569,10,0,0
+global,Algerien,2020-03-11,1.6596,28.0339,20,0,0
+China,Heilongjiang,2020-03-11,127.7615,47.862,482,436,13
+global,Kuwait,2020-03-11,47.75,29.5,72,2,0
+USA,North Carolina,2020-03-11,-79.8064,35.6301,7,0,0
+global,Bahrain,2020-03-11,50.55,26.0275,195,35,0
+Großbritannien,Kanalinseln,2020-03-11,-2.3644,49.3723,2,0,0
+global,Afghanistan,2020-03-11,65,33,7,0,0
+USA,Maryland,2020-03-11,-76.8021,39.0639,9,0,0
+global,Oman,2020-03-11,57,21,18,9,0
+China,Sichuan,2020-03-11,102.7103,30.6171,539,488,3
+global,Irak,2020-03-11,44,33,71,15,7
+USA,Iowa,2020-03-11,-93.2105,42.0115,13,0,0
+global,Libanon,2020-03-11,35.8623,33.8547,61,1,3
+China,Innere Mongolei,2020-03-11,113.9448,44.0935,75,71,1
+global,Ägypten,2020-03-11,30,26,60,27,1
+USA,Pennsylvania,2020-03-11,-77.2098,40.5908,16,0,0
+global,Belgien,2020-03-11,4,50.8333,314,1,3
+China,Chongqing,2020-03-11,107.874,30.0572,576,554,6
+Australien,South Australia,2020-03-11,138.6007,-34.9285,9,2,0
+USA,Illinois,2020-03-11,-88.9861,40.3495,25,2,0
+global,Spanien,2020-03-11,-4,40,2277,183,54
+global,Réunion,2020-03-11,55.5364,-21.1151,1,0,0
+global,Schweden,2020-03-11,16,63,500,1,1
+USA,Texas,2020-03-11,-97.5635,31.0545,21,0,0
+global,Italien,2020-03-11,12,43,12462,1045,827
+China,Jiangsu,2020-03-11,119.455,32.9711,631,627,0
+global,Indien,2020-03-11,78,21,62,4,1
+USA,Oregon,2020-03-11,-122.0709,44.572,19,0,0
+global,Philippinen,2020-03-11,122,13,49,2,1
+China,Xinjiang,2020-03-11,85.2401,41.1129,76,73,3
+global,Vereinigte Arabische Emirate,2020-03-11,54,24,74,17,0
+USA,New Jersey,2020-03-11,-74.521,40.2989,23,0,1
+global,Finnland,2020-03-11,26,64,59,1,0
+Kreuzfahrtschiffe und Sonstige,"Kreuzfahrtschiff ""Diamond Princess""",2020-03-11,139.638,35.4437,696,325,7
+global,Sri Lanka,2020-03-11,81,7,2,1,0
+USA,Florida,2020-03-11,-81.6868,27.7663,28,0,2
+global,Kambodscha,2020-03-11,104.9167,11.55,3,1,0
+global,Honduras,2020-03-11,-86.2419,15.2,2,0,0
+Australien,Queensland,2020-03-11,153.4,-28.0167,20,8,0
+USA,Colorado,2020-03-11,-105.3111,39.0598,34,0,0
+Australien,Victoria,2020-03-11,144.9631,-37.8136,21,7,0
+China,Shandong,2020-03-11,118.1498,36.3427,760,726,6
+Australien,New South Wales,2020-03-11,151.2093,-33.8688,65,4,2
+USA,Georgia,2020-03-11,-83.6431,33.0406,23,0,0
+Kanada,British Columbia,2020-03-11,-123.1207,49.2827,39,4,1
+global,Tschechien,2020-03-11,15.473,49.8175,91,0,0
+global,Malaysia,2020-03-11,112.5,2.5,149,26,0
+USA,"Kreuzfahrtschiff ""Grand Princess""",2020-03-11,-122.6655,37.6489,21,0,0
+global,Nepal,2020-03-11,84.25,28.1667,1,1,0
+China,Jiangxi,2020-03-11,115.7221,27.614,935,932,1
+global,Singapur,2020-03-11,103.8333,1.2833,178,96,0
+USA,"Kreuzfahrtschiff ""Diamond Princess""",2020-03-11,139.638,35.4437,46,0,0
+global,Japan,2020-03-11,138,36,639,118,15
+Frankreich,Saint Martin,2020-03-11,-63.0501,18.0708,2,0,0
+global,Thailand,2020-03-11,101,15,59,34,1
+USA,Massachusetts,2020-03-11,-71.5301,42.2302,95,1,0
+China,Anhui,2020-03-11,117.2264,31.8257,990,984,6
+USA,California,2020-03-11,-119.6816,36.1162,177,2,3
+China,Jilin,2020-03-11,126.1923,43.6661,93,91,1
+USA,New York,2020-03-11,-74.9481,42.1657,220,0,0
+China,Hunan,2020-03-11,111.7088,27.6104,1018,995,4
+USA,Washington,2020-03-11,-121.4905,47.4009,366,1,29
+global,Jamaica,2020-03-11,-77.2975,18.1096,1,0,0
+global,Brunei,2020-03-11,114.7277,4.5353,11,0,0
+China,Zhejiang,2020-03-11,120.0934,29.1832,1215,1195,1
+global,Zypern,2020-03-11,33.4299,35.1264,6,0,0
+China,Liaoning,2020-03-11,122.6085,41.2956,125,111,1
+global,Albanien,2020-03-11,20.1683,41.1533,12,0,1
+China,Henan,2020-03-11,113.614,33.882,1273,1249,22
+Kanada,Quebec,2020-03-11,-73.5491,52.9399,8,0,0
+Dänemark,Färöer,2020-03-11,-6.9118,61.8926,2,0,0
+Kanada,Alberta,2020-03-11,-116.5765,53.9333,19,0,0
+China,Guangdong,2020-03-11,113.4244,23.3417,1356,1282,8
+Deutschland,Baden-Württemberg,2020-03-11,9.147687,48.606091,335,2,0
+Deutschland,Bayern,2020-03-11,11.658165,48.768814,366,14,0
+Deutschland,Berlin,2020-03-11,13.40732,52.52045,90,0,0
+Deutschland,Brandenburg,2020-03-11,14.124409,52.073056,24,0,0
+Deutschland,Bremen,2020-03-11,8.731851,53.029599,32,1,0
+Deutschland,Hamburg,2020-03-11,10.007046,53.576158,54,0,0
+Deutschland,Hessen,2020-03-11,9.217535,50.758489,48,0,0
+Deutschland,Mecklenburg-Vorpommern,2020-03-11,12.708563,53.810625,17,0,0
+Deutschland,Niedersachsen,2020-03-11,9.944255,52.518203,78,1,0
+Deutschland,Nordrhein-Westfalen,2020-03-11,7.385313,51.510157,801,6,3
+Deutschland,Rheinland-Pfalz,2020-03-11,7.269307,50.104033,29,1,0
+Deutschland,Saarland,2020-03-11,6.961042,49.41788,14,0,0
+Deutschland,Sachsen,2020-03-11,13.349228,51.022904,26,0,0
+Deutschland,Sachsen-Anhalt,2020-03-11,11.68063,51.926892,15,0,0
+Deutschland,Schleswig-Holstein,2020-03-11,9.713017,54.1882542,27,0,0
+Deutschland,Thüringen,2020-03-11,11.004142,50.894378,10,0,0
+Deutschland,Repatriierte,2020-03-11,null,null,2,2,0
+USA,Hawaii,2020-03-12,-157.4983,21.0943,2,0,0
+Australien,Queensland,2020-03-12,153.4,-28.0167,20,8,0
+global,Saudiarabien,2020-03-12,45,24,45,1,0
+global,Taiwan,2020-03-12,121,23.7,49,20,1
+USA,Oklahoma,2020-03-12,-96.9289,35.5653,2,0,0
+Kanada,Quebec,2020-03-12,-73.5491,52.9399,9,0,0
+global,Kroatien,2020-03-12,15.2,45.1,19,0,0
+USA,Utah,2020-03-12,-111.8624,40.15,5,0,0
+global,Japan,2020-03-12,138,36,639,118,16
+China,Guizhou,2020-03-12,106.8748,26.8154,146,137,2
+global,Liechtenstein,2020-03-12,9.55,47.14,1,0,0
+global,Burkina Faso,2020-03-12,-1.5616,12.2383,2,0,0
+global,Albanien,2020-03-12,20.1683,41.1533,23,0,1
+global,Guyana,2020-03-12,-58.75,5,1,0,1
+China,Zhejiang,2020-03-12,120.0934,29.1832,1215,1197,1
+global,Serbien,2020-03-12,21.0059,44.0165,19,0,0
+global,Georgien,2020-03-12,43.3569,42.3154,24,0,0
+global,Kuba,2020-03-12,-80,22,3,0,0
+global,Nepal,2020-03-12,84.25,28.1667,1,1,0
+global,Zypern,2020-03-12,33.4299,35.1264,6,0,0
+global,Großbritannien,2020-03-12,-3.436,55.3781,456,18,8
+global,Irak,2020-03-12,44,33,71,15,8
+global,Vietnam,2020-03-12,108,16,39,16,0
+global,Vatikan,2020-03-12,12.4534,41.9029,1,0,0
+global,Mexiko,2020-03-12,-102.5528,23.6345,12,4,0
+global,Österreich,2020-03-12,14.5501,47.5162,302,4,1
+global,Mongolei,2020-03-12,103.8467,46.8625,1,0,0
+global,Brunei,2020-03-12,114.7277,4.5353,11,0,0
+global,Estland,2020-03-12,25.0136,58.5953,16,0,0
+China,Tianjin,2020-03-12,117.323,39.3054,136,132,3
+global,Panama,2020-03-12,-80.7821,8.538,11,0,1
+global,Portugal,2020-03-12,-8.2245,39.3999,59,0,0
+USA,Washington,2020-03-12,-121.4905,47.4009,442,1,31
+USA,Kansas,2020-03-12,-96.7265,38.5266,1,0,0
+global,Slowakei,2020-03-12,19.699,48.669,16,0,0
+global,Ecuador,2020-03-12,-78.1834,-1.8312,17,0,0
+China,Hunan,2020-03-12,111.7088,27.6104,1018,999,4
+global,Dänemark,2020-03-12,9.5018,56.2639,615,1,0
+USA,Louisiana,2020-03-12,-91.8678,31.1695,19,0,0
+global,Russland,2020-03-12,90,60,28,3,0
+USA,New York,2020-03-12,-74.9481,42.1657,328,0,0
+global,Polen,2020-03-12,19.1451,51.9194,49,0,1
+USA,Missouri,2020-03-12,-92.2884,38.4561,1,0,0
+global,Senegal,2020-03-12,-14.4524,14.4974,4,1,0
+USA,California,2020-03-12,-119.6816,36.1162,221,6,4
+USA,Vermont,2020-03-12,-72.7107,44.0459,2,0,0
+global,Pakistan,2020-03-12,69.3451,30.3753,20,2,0
+China,Shanxi,2020-03-12,112.2922,37.5777,133,132,0
+USA,Arkansas,2020-03-12,-92.3731,34.9697,6,0,0
+global,Belarus,2020-03-12,27.9534,53.7098,12,3,0
+USA,Delaware,2020-03-12,-75.5071,39.3185,1,0,0
+USA,Massachusetts,2020-03-12,-71.5301,42.2302,108,1,0
+USA,Michigan,2020-03-12,-84.5361,43.3266,2,0,0
+USA,Mississippi,2020-03-12,-89.6787,32.7416,1,0,0
+global,Irland,2020-03-12,-7.6921,53.1424,43,0,1
+USA,Montana,2020-03-12,-110.4544,46.9219,1,0,0
+China,Qinghai,2020-03-12,95.9956,35.7452,18,18,0
+China,Peking (Beijing),2020-03-12,116.4142,40.1824,435,334,8
+China,Anhui,2020-03-12,117.2264,31.8257,990,984,6
+global,Togo,2020-03-12,0.8248,8.6195,1,0,0
+USA,New Mexico,2020-03-12,-106.2485,34.8405,5,0,0
+USA,North Dakota,2020-03-12,-99.784,47.5289,1,0,0
+global,Singapur,2020-03-12,103.8333,1.2833,178,96,0
+USA,South Dakota,2020-03-12,-99.4388,44.2998,8,0,1
+USA,Wyoming,2020-03-12,-107.3025,42.756,1,0,0
+China,Gansu,2020-03-12,101.0583,37.8099,127,88,2
+global,Bahrain,2020-03-12,50.55,26.0275,195,35,0
+global,Vereinigte Arabische Emirate,2020-03-12,54,24,85,17,0
+global,Malaysia,2020-03-12,112.5,2.5,149,26,0
+global,Tunesien,2020-03-12,9,34,7,0,0
+global,Französisch-Guyana,2020-03-12,-53.1258,3.9339,5,0,0
+global,Sri Lanka,2020-03-12,81,7,2,1,0
+Australien,New South Wales,2020-03-12,151.2093,-33.8688,65,4,2
+China,Macau,2020-03-12,113.55,22.1667,10,10,0
+global,Argentinien,2020-03-12,-63.6167,-38.4161,19,0,1
+global,Andorra,2020-03-12,1.5218,42.5063,1,1,0
+China,Shanghai,2020-03-12,121.4491,31.202,344,321,3
+global,Libanon,2020-03-12,35.8623,33.8547,61,1,3
+global,Moldawien,2020-03-12,28.3699,47.4116,3,0,0
+China,Jiangxi,2020-03-12,115.7221,27.614,935,934,1
+global,Bolivien,2020-03-12,-63.5887,-16.2902,2,0,0
+global,Malta,2020-03-12,14.3754,35.9375,6,0,0
+global,Norwegen,2020-03-12,8.4689,60.472,702,1,0
+global,Aserbaidschan,2020-03-12,47.5769,40.1431,11,3,0
+USA,"Kreuzfahrtschiff ""Diamond Princess""",2020-03-12,139.638,35.4437,46,0,0
+China,Hong Kong,2020-03-12,114.2,22.3,129,67,3
+global,Bosnien und Herzegowina,2020-03-12,17.6791,43.9159,11,0,0
+global,Ägypten,2020-03-12,30,26,67,27,1
+China,Hubei (Wuhan),2020-03-12,112.2707,30.9756,67781,50318,3056
+Dänemark,Färöer,2020-03-12,-6.9118,61.8926,2,0,0
+global,Neuseeland,2020-03-12,174.886,-40.9006,5,0,0
+global,Martinique,2020-03-12,-61.0242,14.6415,3,0,0
+global,Algerien,2020-03-12,1.6596,28.0339,24,8,1
+Frankreich,Saint Martin,2020-03-12,-63.0501,18.0708,2,0,0
+USA,"Kreuzfahrtschiff ""Grand Princess""",2020-03-12,-122.6655,37.6489,21,0,0
+global,Honduras,2020-03-12,-86.2419,15.2,2,0,0
+global,Philippinen,2020-03-12,122,13,52,2,2
+global,Luxemburg,2020-03-12,6.1296,49.8153,19,0,0
+Großbritannien,Kanalinseln,2020-03-12,-2.3644,49.3723,2,0,0
+USA,Georgia,2020-03-12,-83.6431,33.0406,31,0,1
+Kanada,New Brunswick,2020-03-12,-66.4619,46.5653,1,0,0
+China,Hebei,2020-03-12,116.1306,39.549,318,308,6
+global,Chile,2020-03-12,-71.543,-35.6751,23,0,0
+global,Bulgarien,2020-03-12,25.4858,42.7339,7,0,1
+China,Shandong,2020-03-12,118.1498,36.3427,760,734,6
+USA,Colorado,2020-03-12,-105.3111,39.0598,45,0,0
+global,Thailand,2020-03-12,101,15,70,34,1
+China,Liaoning,2020-03-12,122.6085,41.2956,125,112,1
+global,Slowenien,2020-03-12,14.9955,46.1512,89,0,0
+USA,Florida,2020-03-12,-81.6868,27.7663,35,0,2
+global,Afghanistan,2020-03-12,65,33,7,0,0
+Australien,Tasmania,2020-03-12,145.9707,-41.4545,3,0,0
+USA,New Jersey,2020-03-12,-74.521,40.2989,29,0,1
+global,Iran,2020-03-12,53,32,10075,2959,429
+global,Malediven,2020-03-12,73.2207,3.2028,8,0,0
+global,Island,2020-03-12,-19.0208,64.9631,103,1,0
+USA,Oregon,2020-03-12,-122.0709,44.572,24,0,0
+China,Tibet,2020-03-12,88.0924,31.6927,1,1,0
+global,Niederlande,2020-03-12,5.2913,52.1326,503,0,5
+global,Demokratische Republik Kongo,2020-03-12,21.7587,-4.0383,1,0,0
+global,Griechenland,2020-03-12,21.8243,39.0742,99,0,1
+global,Elfenbeinküste,2020-03-12,-5.5471,7.54,1,0,0
+China,Fujian,2020-03-12,117.9874,26.0789,296,295,1
+USA,Texas,2020-03-12,-97.5635,31.0545,27,0,0
+Kanada,British Columbia,2020-03-12,-123.1207,49.2827,46,4,1
+global,Bangladesch,2020-03-12,90.3563,23.685,3,0,0
+Kreuzfahrtschiffe und Sonstige,"Kreuzfahrtschiff ""Diamond Princess""",2020-03-12,139.638,35.4437,696,325,7
+China,Jilin,2020-03-12,126.1923,43.6661,93,91,1
+USA,Illinois,2020-03-12,-88.9861,40.3495,32,2,0
+global,Armenien,2020-03-12,45.0382,40.0691,4,0,0
+Frankreich,Saint Barthélemy,2020-03-12,-62.8333,17.9,1,0,0
+global,Südafrika,2020-03-12,22.9375,-30.5595,17,0,0
+global,Jamaica,2020-03-12,-77.2975,18.1096,2,0,0
+USA,Pennsylvania,2020-03-12,-77.2098,40.5908,22,0,0
+global,Réunion,2020-03-12,55.5364,-21.1151,1,0,0
+global,Schweiz,2020-03-12,8.2275,46.8182,652,4,4
+global,Türkei,2020-03-12,35.2433,38.9637,1,0,0
+global,Jordanien,2020-03-12,36.51,31.24,1,0,0
+USA,Iowa,2020-03-12,-93.2105,42.0115,16,0,0
+global,Paraguay,2020-03-12,-58.4438,-23.4425,5,0,0
+global,Südkorea,2020-03-12,128,36,7869,333,66
+global,Belgien,2020-03-12,4,50.8333,314,1,3
+USA,Maryland,2020-03-12,-76.8021,39.0639,12,0,0
+global,Tschechien,2020-03-12,15.473,49.8175,94,0,0
+global,Brasilien,2020-03-12,-51.9253,-14.235,52,0,0
+Großbritannien,Gibraltar,2020-03-12,-5.3536,36.1408,1,1,0
+China,Guangxi,2020-03-12,108.7881,23.8298,252,241,2
+global,Indien,2020-03-12,78,21,73,4,1
+USA,North Carolina,2020-03-12,-79.8064,35.6301,15,0,0
+global,Israel,2020-03-12,35,31,131,4,0
+global,Bhutan,2020-03-12,90.4336,27.5142,1,0,0
+China,Jiangsu,2020-03-12,119.455,32.9711,631,629,0
+USA,South Carolina,2020-03-12,-80.945,33.8569,12,0,0
+global,Lettland,2020-03-12,24.6032,56.8796,10,1,0
+global,Nigeria,2020-03-12,8.6753,9.082,2,0,0
+USA,Tennessee,2020-03-12,-86.6923,35.7478,18,0,0
+global,Monaco,2020-03-12,7.4167,43.7333,2,0,0
+global,Kambodscha,2020-03-12,104.9167,11.55,3,1,0
+USA,Virginia,2020-03-12,-78.17,37.7693,17,0,0
+Australien,South Australia,2020-03-12,138.6007,-34.9285,9,2,0
+global,Ukraine,2020-03-12,31.1656,48.3794,1,0,0
+China,Xinjiang,2020-03-12,85.2401,41.1129,76,73,3
+global,Frankreich,2020-03-12,2.2137,46.2276,2281,12,48
+USA,Arizona,2020-03-12,-111.4312,33.7298,9,1,0
+China,Shaanxi,2020-03-12,108.8701,35.1917,245,232,2
+global,Kamerun,2020-03-12,11.5021,3.848,2,0,0
+global,Italien,2020-03-12,12,43,12462,1045,827
+USA,Indiana,2020-03-12,-86.2583,39.8494,13,0,0
+global,Rumänien,2020-03-12,24.9668,45.9432,49,6,0
+global,Dominikanische Republik,2020-03-12,-70.1627,18.7357,5,0,0
+China,Chongqing,2020-03-12,107.874,30.0572,576,564,6
+USA,Kentucky,2020-03-12,-84.6701,37.6681,10,0,0
+global,Spanien,2020-03-12,-4,40,2277,183,55
+Kanada,Ontario,2020-03-12,-85.3232,51.2538,42,4,0
+USA,District of Columbia,2020-03-12,-77.0268,38.8974,10,0,0
+global,Litauen,2020-03-12,23.8813,55.1694,3,0,0
+global,Kuwait,2020-03-12,47.75,29.5,80,5,0
+USA,Nevada,2020-03-12,-117.0554,38.3135,14,0,0
+China,Innere Mongolei,2020-03-12,113.9448,44.0935,75,71,1
+global,Kolumbien,2020-03-12,-74.2973,4.5709,9,0,0
+global,Marokko,2020-03-12,-7.0926,31.7917,6,0,1
+USA,New Hampshire,2020-03-12,-71.5639,43.4525,6,0,0
+China,Yunnan,2020-03-12,101.487,24.974,174,170,2
+China,Guangdong,2020-03-12,113.4244,23.3417,1356,1289,8
+global,Oman,2020-03-12,57,21,18,9,0
+global,Ungarn,2020-03-12,19.5033,47.1625,13,0,0
+USA,Minnesota,2020-03-12,-93.9002,45.6945,9,0,0
+Kanada,Alberta,2020-03-12,-116.5765,53.9333,19,0,0
+global,San Marino,2020-03-12,12.4578,43.9424,69,0,3
+China,Sichuan,2020-03-12,102.7103,30.6171,539,498,3
+USA,Nebraska,2020-03-12,-98.2681,41.1254,10,0,0
+global,Schweden,2020-03-12,16,63,599,1,1
+Australien,Victoria,2020-03-12,144.9631,-37.8136,21,7,0
+USA,Ohio,2020-03-12,-82.7649,40.3888,5,0,0
+global,Costa Rica,2020-03-12,-83.7534,9.7489,22,0,0
+China,Ningxia,2020-03-12,106.1655,37.2692,75,72,0
+global,Finnland,2020-03-12,26,64,59,1,0
+USA,Rhode Island,2020-03-12,-71.5118,41.6809,5,0,0
+Australien,Northern Territory,2020-03-12,130.8456,-12.4634,1,0,0
+global,Katar,2020-03-12,51.1839,25.3548,262,0,0
+China,Hainan,2020-03-12,109.7453,19.1959,168,160,6
+USA,Wisconsin,2020-03-12,-89.6165,44.2685,8,1,0
+Australien,Western Australia,2020-03-12,115.8605,-31.9505,9,0,1
+China,Henan,2020-03-12,113.614,33.882,1273,1249,22
+global,Indonesien,2020-03-12,113.9213,-0.7893,34,2,1
+USA,Connecticut,2020-03-12,-72.7554,41.5978,5,0,0
+global,Nordmazedonien,2020-03-12,21.7453,41.6086,7,0,0
+global,Peru,2020-03-12,-75.0152,-9.19,15,0,0
+China,Heilongjiang,2020-03-12,127.7615,47.862,482,441,13
+Deutschland,Baden-Württemberg,2020-03-12,9.147687,48.606091,454,2,1
+Deutschland,Bayern,2020-03-12,11.658165,48.768814,500,14,1
+Deutschland,Berlin,2020-03-12,13.40732,52.52045,137,0,0
+Deutschland,Brandenburg,2020-03-12,14.124409,52.073056,30,0,0
+Deutschland,Bremen,2020-03-12,8.731851,53.029599,38,1,0
+Deutschland,Hamburg,2020-03-12,10.007046,53.576158,88,0,0
+Deutschland,Hessen,2020-03-12,9.217535,50.758489,99,0,0
+Deutschland,Mecklenburg-Vorpommern,2020-03-12,12.708563,53.810625,23,0,0
+Deutschland,Niedersachsen,2020-03-12,9.944255,52.518203,129,1,0
+Deutschland,Nordrhein-Westfalen,2020-03-12,7.385313,51.510157,1041,6,4
+Deutschland,Rheinland-Pfalz,2020-03-12,7.269307,50.104033,52,1,0
+Deutschland,Saarland,2020-03-12,6.961042,49.41788,29,0,0
+Deutschland,Sachsen,2020-03-12,13.349228,51.022904,49,0,0
+Deutschland,Sachsen-Anhalt,2020-03-12,11.68063,51.926892,27,0,0
+Deutschland,Schleswig-Holstein,2020-03-12,9.713017,54.1882542,31,0,0
+Deutschland,Thüringen,2020-03-12,11.004142,50.894378,18,0,0
+Deutschland,Repatriierte,2020-03-12,null,null,2,2,0
+global,Südkorea,2020-03-13,127.7669,35.9078,8086,510,72
+Deutschland,Baden-Württemberg,2020-03-13,9.147687,48.606091,569,2,3
+Deutschland,Berlin,2020-03-13,13.40732,52.52045,174,0,0
+Deutschland,Brandenburg,2020-03-13,14.124409,52.073056,44,0,0
+Deutschland,Bremen,2020-03-13,8.731851,53.029599,42,1,0
+Deutschland,Hamburg,2020-03-13,10.007046,53.576158,99,0,0
+Deutschland,Hessen,2020-03-13,9.217535,50.758489,148,0,0
+Deutschland,Mecklenburg-Vorpommern,2020-03-13,12.708563,53.810625,33,0,0
+Deutschland,Niedersachsen,2020-03-13,9.944255,52.518203,230,1,0
+Deutschland,Nordrhein-Westfalen,2020-03-13,7.385313,51.510157,1433,27,4
+Deutschland,Rheinland-Pfalz,2020-03-13,7.269307,50.104033,102,1,0
+Deutschland,Saarland,2020-03-13,6.961042,49.41788,40,0,0
+Deutschland,Sachsen,2020-03-13,13.349228,51.022904,83,0,0
+Deutschland,Sachsen-Anhalt,2020-03-13,11.68063,51.926892,42,0,0
+Deutschland,Schleswig-Holstein,2020-03-13,9.713017,54.1882542,48,0,0
+Deutschland,Thüringen,2020-03-13,11.004142,50.894378,30,0,0
+Deutschland,Repatriierte,2020-03-13,null,null,2,2,0
+China,Hubei (Wuhan),2020-03-13,112.270692167452,30.9756403482891,67790,52960,3075
+China,Guangdong,2020-03-13,113.424401710676,23.3417337092088,1356,1299,8
+China,Henan,2020-03-13,113.613964115943,33.8820061472366,1273,1250,22
+China,Zhejiang,2020-03-13,120.093412774886,29.1831892798285,1227,1211,1
+China,Hunan,2020-03-13,111.708835644484,27.6104072903766,1018,1014,4
+China,Anhui,2020-03-13,117.226363790413,31.8257120511073,990,984,6
+China,Jiangxi,2020-03-13,115.722093542185,27.614008270636,935,934,1
+China,Shandong,2020-03-13,118.149838795037,36.3426714789712,760,741,7
+China,Jiangsu,2020-03-13,119.45501030983,32.9710980851278,631,630,0
+China,Chongqing,2020-03-13,107.87398583171,30.0571758751839,576,566,6
+China,Sichuan,2020-03-13,102.710322085654,30.6171383897493,539,511,3
+China,Heilongjiang,2020-03-13,127.761544149451,47.8619962256745,482,447,13
+China,Peking (Beijing),2020-03-13,116.414172956705,40.1823809324133,437,349,8
+China,Shanghai,2020-03-13,121.449111848821,31.2019853691089,352,324,3
+China,Hebei,2020-03-13,114.5149,38.0428,318,310,6
+China,Fujian,2020-03-13,117.987371739429,26.0788658351203,296,295,1
+China,Guangxi,2020-03-13,108.78812722508,23.8298403568635,252,243,2
+China,Shaanxi,2020-03-13,108.870143735105,35.1916533064219,245,232,2
+China,Yunnan,2020-03-13,101.486994477533,24.9740090515417,174,170,2
+China,Hainan,2020-03-13,109.745335576195,19.1958639124575,168,160,6
+China,Guizhou,2020-03-13,106.874783781561,26.8153610246946,146,143,2
+China,Tianjin,2020-03-13,117.322972903268,39.3053612117002,136,132,3
+China,Hong Kong,2020-03-13,114.2,22.3,137,78,4
+China,Shanxi,2020-03-13,112.292191181538,37.5776849568384,133,133,0
+China,Gansu,2020-03-13,103.8343,36.0611,129,89,2
+China,Liaoning,2020-03-13,122.60854186375,41.2956478642686,125,113,1
+China,Xinjiang,2020-03-13,85.240102435218,41.1128513419168,76,73,3
+China,Innere Mongolei,2020-03-13,113.944789458154,44.0935009913267,75,71,1
+China,Ningxia,2020-03-13,106.165455205247,37.2692274353319,75,73,0
+China,Jilin,2020-03-13,126.192329763813,43.6661021395126,93,91,1
+China,Qinghai,2020-03-13,95.9955784711286,35.7452031801411,18,18,0
+China,Macau,2020-03-13,113.55,22.166667,10,10,0
+China,Tibet,2020-03-13,88.0924318966888,31.6927165373017,1,1,0
+global,Panama,2020-03-13,-80.7821,8.538,27,0,1
+Australien,Tasmania,2020-03-13,145.9707,-41.4545,5,0,0
+global,Kroatien,2020-03-13,15.2,45.1,32,1,0
+global,Burkina Faso,2020-03-13,-1.5616,12.2383,2,0,0
+global,Albanien,2020-03-13,20.1683,41.1533,33,0,1
+Kanada,British Columbia,2020-03-13,-127.6476,53.7267,64,4,1
+Australien,New South Wales,2020-03-13,151.2093,-33.8688,92,4,2
+Australien,Victoria,2020-03-13,144.9631,-37.8136,36,8,0
+Australien,Queensland,2020-03-13,153.4,-28.0167,35,8,0
+Australien,South Australia,2020-03-13,138.6007,-34.9285,16,3,0
+Großbritannien,Kanalinseln,2020-03-13,-2.364351,49.372284,2,0,0
+global,Philippinen,2020-03-13,121.774,12.8797,64,2,6
+global,Nepal,2020-03-13,84.124,28.3949,1,1,0
+global,Sri Lanka,2020-03-13,80.7718,7.8731,6,1,0
+global,Vereinigte Arabische Emirate,2020-03-13,53.8478,23.4241,85,17,0
+global,Thailand,2020-03-13,100.9925,15.87,75,35,1
+global,Kambodscha,2020-03-13,104.991,12.5657,5,1,0
+global,San Marino,2020-03-13,12.4578,43.9424,80,2,5
+Kanada,Ontario,2020-03-13,-85.3232,51.2538,74,4,0
+Australien,Australian Capital Territory,2020-03-13,149.0124,-35.4735,1,0,0
+global,Demokratische Republik Kongo,2020-03-13,21.7587,-4.0383,2,0,0
+global,Honduras,2020-03-13,-86.2419,15.2,2,0,0
+USA,"Kreuzfahrtschiff ""Diamond Princess""",2020-03-13,139.638,35.4437,46,0,0
+global,Algerien,2020-03-13,1.6596,28.0339,26,8,2
+global,Réunion,2020-03-13,55.5364,-21.1151,5,0,0
+global,Oman,2020-03-13,55.9754,21.4735,19,9,0
+Kreuzfahrtschiffe und Sonstige,"Kreuzfahrtschiff ""Diamond Princess""",2020-03-13,139.6649,35.4498,696,325,7
+Kanada,New Brunswick,2020-03-13,-66.4619,46.5653,1,0,0
+global,Italien,2020-03-13,12.5674,41.8719,17660,1439,1266
+global,Irak,2020-03-13,43.6793,33.2232,101,24,9
+global,Libanon,2020-03-13,35.8623,33.8547,77,1,3
+global,Ukraine,2020-03-13,31.1656,48.3794,3,0,1
+global,Österreich,2020-03-13,14.5501,47.5162,602,6,1
+global,Schweiz,2020-03-13,8.2275,46.8182,1359,4,13
+global,Irland,2020-03-13,-7.6921,53.1424,90,0,1
+global,Georgien,2020-03-13,43.3569,42.3154,25,0,0
+global,Bangladesch,2020-03-13,90.3563,23.685,3,0,0
+global,Kuwait,2020-03-13,47.4818,29.3117,80,5,0
+global,Nordmazedonien,2020-03-13,21.7453,41.6086,14,1,0
+global,Brasilien,2020-03-13,-51.9253,-14.235,151,0,0
+global,Griechenland,2020-03-13,21.8243,39.0742,190,0,3
+global,Schweden,2020-03-13,18.6435,60.1282,867,1,2
+global,Pakistan,2020-03-13,69.3451,30.3753,28,2,0
+global,Norwegen,2020-03-13,8.4689,60.472,996,1,1
+global,Frankreich,2020-03-13,2.2137,46.2276,3661,12,79
+global,Türkei,2020-03-13,35.2433,38.9637,5,0,0
+global,Bahrain,2020-03-13,50.5577,26.0667,210,44,0
+global,Island,2020-03-13,-19.0208,64.9631,134,1,0
+global,Ecuador,2020-03-13,-78.1834,-1.8312,17,0,1
+global,Estland,2020-03-13,25.0136,58.5953,79,0,0
+global,Dänemark,2020-03-13,9.5018,56.2639,827,1,0
+Großbritannien,United Kingdom,2020-03-13,-3.436,55.3781,798,18,10
+global,Niederlande,2020-03-13,5.2913,52.1326,804,0,10
+global,Kuba,2020-03-13,-77.7812,21.5218,4,0,0
+Kanada,Quebec,2020-03-13,-73.5491,52.9399,17,0,0
+global,Nigeria,2020-03-13,8.6753,9.082,2,0,0
+global,Litauen,2020-03-13,23.8813,55.1694,6,0,0
+global,Neuseeland,2020-03-13,174.886,-40.9006,5,0,0
+global,Belarus,2020-03-13,27.9534,53.7098,27,3,0
+global,Aserbaidschan,2020-03-13,47.5769,40.1431,15,3,1
+global,Armenien,2020-03-13,45.0382,40.0691,8,0,0
+global,Kasachstan,2020-03-13,66.9237,48.0196,4,0,0
+global,Iran,2020-03-13,53.688,32.4279,12729,2959,611
+global,Israel,2020-03-13,34.8516,31.0461,164,4,0
+Frankreich,French Polynesia,2020-03-13,149.4068,-17.6797,3,0,0
+Australien,Western Australia,2020-03-13,115.8605,-31.9505,14,0,1
+global,Cayman-Inseln,2020-03-13,-81.2546,19.3133,1,0,0
+global,Japan,2020-03-13,138.2529,36.2048,725,118,21
+global,Tschechien,2020-03-13,15.473,49.8175,141,0,0
+global,Katar,2020-03-13,51.1839,25.3548,337,0,0
+global,Singapur,2020-03-13,103.8198,1.3521,200,97,0
+global,Guadeloupe,2020-03-13,-61.551,16.265,1,0,0
+global,Dominikanische Republik,2020-03-13,-70.1627,18.7357,5,0,0
+global,Ägypten,2020-03-13,30.8025,26.8206,80,27,2
+global,Bolivien,2020-03-13,-63.5887,-16.2902,3,0,0
+Kanada,Manitoba,2020-03-13,-98.8139,53.7609,4,0,0
+Kanada,Saskatchewan,2020-03-13,-106.4509,52.9399,2,0,0
+global,Indonesien,2020-03-13,113.9213,-0.7893,69,2,4
+Deutschland,Bayern,2020-03-13,11.658165,48.768814,558,14,1
+global,Lettland,2020-03-13,24.6032,56.8796,17,1,0
+global,Senegal,2020-03-13,-14.4524,14.4974,10,1,0
+global,Äthiopien,2020-03-13,40.4897,9.145,1,0,0
+global,Sudan,2020-03-13,30.2176,12.8628,1,0,1
+global,Portugal,2020-03-13,-8.2245,39.3999,112,1,0
+global,Andorra,2020-03-13,1.5218,42.5063,1,1,0
+global,Guinea,2020-03-13,-9.6966,9.9456,1,0,0
+global,Antigua und Barbuda,2020-03-13,-61.7964,17.0608,1,0,0
+global,Belgien,2020-03-13,4.4699,50.5039,689,1,4
+global,Russland,2020-03-13,105.3188,61.524,45,3,0
+global,Indien,2020-03-13,78.9629,20.5937,82,4,2
+global,Marokko,2020-03-13,-7.0926,31.7917,7,1,1
+global,Aruba,2020-03-13,-69.9683,12.5211,2,0,0
+Kanada,"Kreuzfahrtschiff ""Grand Princess""",2020-03-13,-122.6655,37.6489,2,0,0
+global,Argentinien,2020-03-13,-63.6167,-38.4161,31,1,2
+global,Chile,2020-03-13,-71.543,-35.6751,43,0,0
+global,Jordanien,2020-03-13,36.51,31.24,1,1,0
+global,Kenia,2020-03-13,37.9062,-0.0236,1,0,0
+Frankreich,Saint Barthélemy,2020-03-13,-62.8333,17.9,1,0,0
+Frankreich,Saint Martin,2020-03-13,-63.0501,18.0708,2,0,0
+global,Polen,2020-03-13,19.1451,51.9194,68,0,2
+Dänemark,Färöer,2020-03-13,-6.9118,61.8926,9,0,0
+Großbritannien,Gibraltar,2020-03-13,-5.3536,36.1408,1,1,0
+global,Ungarn,2020-03-13,19.5033,47.1625,19,1,0
+Australien,Northern Territory,2020-03-13,130.8456,-12.4634,1,0,0
+USA,Alabama,2020-03-13,-86.9023,32.3182,5,0,0
+global,Slowenien,2020-03-13,14.9955,46.1512,141,0,0
+global,Finnland,2020-03-13,25.7482,61.9241,155,1,0
+global,Südafrika,2020-03-13,22.9375,-30.5595,24,0,0
+global,Bosnien und Herzegowina,2020-03-13,17.6791,43.9159,13,0,0
+global,Saudiarabien,2020-03-13,45.0792,23.8859,86,1,0
+global,Elfenbeinküste,2020-03-13,-5.5471,7.54,1,0,0
+global,Luxemburg,2020-03-13,6.1296,49.8153,34,0,0
+global,Costa Rica,2020-03-13,-83.7534,9.7489,23,0,0
+Kanada,Alberta,2020-03-13,-116.5765,53.9333,29,0,0
+global,Bhutan,2020-03-13,90.4336,27.5142,1,0,0
+global,Spanien,2020-03-13,-3.7492,40.4637,5232,193,133
+global,Malaysia,2020-03-13,101.9758,4.2105,197,26,0
+global,Vatikan,2020-03-13,12.4534,41.9029,1,0,0
+global,Serbien,2020-03-13,21.0059,44.0165,35,0,0
+global,Kamerun,2020-03-13,11.5021,3.848,2,0,0
+global,Slowakei,2020-03-13,19.699,48.669,32,0,0
+global,Togo,2020-03-13,0.8248,8.6195,1,0,0
+global,Peru,2020-03-13,-75.0152,-9.19,28,0,0
+global,Rumänien,2020-03-13,24.9668,45.9432,89,7,0
+global,Mexiko,2020-03-13,-102.5528,23.6345,12,4,0
+global,Kolumbien,2020-03-13,-74.2973,4.5709,13,0,0
+USA,"Kreuzfahrtschiff ""Grand Princess""",2020-03-13,-122.665479,37.64894,21,0,0
+global,Brunei,2020-03-13,114.7277,4.5353,37,0,0
+global,Martinique,2020-03-13,-61.0242,14.6415,3,0,0
+global,Französisch-Guyana,2020-03-13,-53,4,5,0,0
+global,Malta,2020-03-13,14.3754,35.9375,12,1,0
+global,Paraguay,2020-03-13,-58.4438,-23.4425,6,0,0
+global,Moldawien,2020-03-13,28.3699,47.4116,6,0,0
+global,Malediven,2020-03-13,73.2207,3.2028,9,0,0
+global,Bulgarien,2020-03-13,25.4858,42.7339,23,0,1
+global,Tunesien,2020-03-13,9.5375,33.8869,16,0,0
+global,Zypern,2020-03-13,33.4299,35.1264,14,0,0
+USA,Alaska,2020-03-13,-152.404419,61.370716,1,0,0
+USA,Arizona,2020-03-13,-111.431221,33.729759,9,1,0
+USA,Arkansas,2020-03-13,-92.373123,34.969704,6,0,0
+USA,California,2020-03-13,-119.681564,36.116203,282,6,4
+USA,Colorado,2020-03-13,-105.311104,39.059811,49,0,0
+USA,Connecticut,2020-03-13,-72.755371,41.597782,11,0,0
+USA,Delaware,2020-03-13,-75.507141,39.318523,4,0,0
+USA,District of Columbia,2020-03-13,-77.026817,38.897438,10,0,0
+USA,Florida,2020-03-13,-81.686783,27.766279,50,0,2
+USA,Georgia,2020-03-13,-83.643074,33.040619,42,0,1
+USA,Hawaii,2020-03-13,-157.498337,21.094318,2,0,0
+USA,Idaho,2020-03-13,-114.478828,44.240459,1,0,0
+USA,Illinois,2020-03-13,-88.986137,40.349457,46,2,0
+USA,Indiana,2020-03-13,-86.258278,39.849426,13,0,0
+USA,Iowa,2020-03-13,-93.210526,42.011539,17,0,0
+USA,Kansas,2020-03-13,-96.726486,38.5266,5,0,1
+USA,Kentucky,2020-03-13,-84.670067,37.66814,14,0,0
+USA,Louisiana,2020-03-13,-91.867805,31.169546,36,0,0
+USA,Maine,2020-03-13,-69.381927,44.693947,1,0,0
+USA,Maryland,2020-03-13,-76.802101,39.063946,18,0,0
+USA,Massachusetts,2020-03-13,-71.530106,42.230171,123,1,0
+USA,Michigan,2020-03-13,-84.536095,43.326618,16,0,0
+USA,Minnesota,2020-03-13,-93.900192,45.694454,14,0,0
+USA,Mississippi,2020-03-13,-89.678696,32.741646,1,0,0
+USA,Missouri,2020-03-13,-92.288368,38.456085,2,0,0
+USA,Montana,2020-03-13,-110.454353,46.921925,1,0,0
+USA,Nebraska,2020-03-13,-98.268082,41.12537,13,0,0
+USA,Nevada,2020-03-13,-117.055374,38.313515,17,0,0
+USA,New Hampshire,2020-03-13,-71.563896,43.452492,6,0,0
+USA,New Jersey,2020-03-13,-74.521011,40.298904,29,0,1
+USA,New Mexico,2020-03-13,-106.248482,34.840515,10,0,0
+USA,New York,2020-03-13,-74.948051,42.165726,421,0,0
+USA,North Carolina,2020-03-13,-79.806419,35.630066,17,0,0
+USA,North Dakota,2020-03-13,-99.784012,47.528912,1,0,0
+USA,Ohio,2020-03-13,-82.764915,40.388783,13,0,0
+USA,Oklahoma,2020-03-13,-96.928917,35.565342,2,0,0
+USA,Oregon,2020-03-13,-122.070938,44.572021,30,0,0
+USA,Pennsylvania,2020-03-13,-77.209755,40.590752,41,0,0
+USA,Rhode Island,2020-03-13,-71.51178,41.680893,14,0,0
+USA,South Carolina,2020-03-13,-80.945007,33.856892,13,0,0
+USA,South Dakota,2020-03-13,-99.438828,44.299782,8,0,1
+USA,Tennessee,2020-03-13,-86.692345,35.747845,26,0,0
+USA,Texas,2020-03-13,-97.563461,31.054487,43,0,0
+USA,Utah,2020-03-13,-111.862434,40.150032,9,0,0
+USA,Vermont,2020-03-13,-72.710686,44.045876,2,0,0
+USA,Virginia,2020-03-13,-78.169968,37.769337,30,0,0
+USA,Washington,2020-03-13,-121.490494,47.400902,568,1,37
+USA,Wisconsin,2020-03-13,-89.616508,44.268543,19,1,0
+USA,Wyoming,2020-03-13,-107.30249,42.755966,1,0,0
+global,Vietnam,2020-03-13,108.2772,14.0583,47,16,0
+global,Mongolei,2020-03-13,103.8467,46.8625,1,0,0
+global,Jamaica,2020-03-13,-77.2975,18.1096,8,0,0
+global,Afghanistan,2020-03-13,65,33,10,0,0
+global,Monaco,2020-03-13,7.4167,43.7333,2,0,0
+global,Liechtenstein,2020-03-13,9.55,47.14,1,0,0
+global,Guyana,2020-03-13,-58.75,5,1,0,1
+global,Taiwan,2020-03-13,121,23.7,53,20,1
+global,Saint Barthélemy,2020-03-13,-62.8333,17.9,1,0,0
+global,Französisch Polynesien,2020-03-13,-149.5667,-17.5333,1,0,0
+global,Gabon,2020-03-13,-12,-1,1,0,0
+global,Guatemala,2020-03-13,-90.2308,15.7835,1,0,0
+global,Saint Martin,2020-03-13,-63.05,18.0667,2,0,0
+global,Gibraltar,2020-03-13,-5.3517,36.1317,1,0,0
+global,Venezuela,2020-03-13,-65,7,2,0,0
+global,Puerto Rico,2020-03-13,-66.5901,18.2208,2,0,0
+global,Trinidad und Tobago,2020-03-13,-61.1,10.6,1,0,0
+global,Guernsey,2020-03-13,-2.58,49.45,1,0,0
+global,Uruguay,2020-03-13,-55.7658,-32.5228,4,0,0
+global,Ghana,2020-03-13,-1.05,7.8167,2,0,0
